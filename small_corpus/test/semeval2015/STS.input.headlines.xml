@@ -1,0 +1,2546 @@
+<?xml version="1.0" ?>
+<Sentences>
+  <Pair ID="1">
+    <Sentence>
+      <Text>Základy Jížní Afriky jsou postaveny na vzpomínce Nelsona Mandely</Text>
+      <Token Lemma="základ" POS="NNIP1" Stem="základ">Základy</Token>
+      <Token Lemma="Jížní" POS="NNFS2" Stem="jížn">Jížní</Token>
+      <Token Lemma="Afrika" POS="NNFS2" Stem="afrik">Afriky</Token>
+      <Token Lemma="být" POS="VB" Stem="jso">jsou</Token>
+      <Token Lemma="postavit" POS="VsTP" Stem="postaven">postaveny</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="vzpomínka" POS="NNFS6" Stem="vzpomínk">vzpomínce</Token>
+      <Token Lemma="Nelson" POS="NNMS2" Stem="nelson">Nelsona</Token>
+      <Token Lemma="Mandela" POS="NNMS2" Stem="mandel">Mandely</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Australští politici truchlí po smrti Nelsona Mandely</Text>
+      <Token Lemma="australský" POS="AAMP1" Stem="australšt">Australští</Token>
+      <Token Lemma="politik" POS="NNMP1" Stem="politik">politici</Token>
+      <Token Lemma="truchlí" POS="Vf" Stem="truchl">truchlí</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="smrt" POS="NNFS6" Stem="smrt">smrti</Token>
+      <Token Lemma="Nelson" POS="NNMS2" Stem="nelson">Nelsona</Token>
+      <Token Lemma="Mandela" POS="NNMS2" Stem="mandel">Mandely</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="2">
+    <Sentence>
+      <Text>Turecká protidemonstrační policie použila slzný plyn na protestanty na Taksimském náměstí</Text>
+      <Token Lemma="turecký" POS="AANP1" Stem="tureck">Turecká</Token>
+      <Token Lemma="protidemonstrační" POS="C" Stem="protidemonstračn">protidemonstrační</Token>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">policie</Token>
+      <Token Lemma="použít" POS="VpQW" Stem="použil">použila</Token>
+      <Token Lemma="slzný" POS="AAIS4" Stem="slzn">slzný</Token>
+      <Token Lemma="plyn" POS="NNIS4" Stem="plyn">plyn</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="protestant" POS="NNMP4" Stem="protestant">protestanty</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="Taksimském" POS="NNFS4" Stem="taksims">Taksimském</Token>
+      <Token Lemma="náměstí" POS="NNNS2" Stem="náměst">náměstí</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Turecká protidemonstrační policie vstoupila na Taksimské náměstí</Text>
+      <Token Lemma="turecký" POS="AANP1" Stem="tureck">Turecká</Token>
+      <Token Lemma="protidemonstrační" POS="C" Stem="protidemonstračn">protidemonstrační</Token>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">policie</Token>
+      <Token Lemma="vstoupit" POS="VpQW" Stem="vstoupil">vstoupila</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="Taksimské" POS="C" Stem="taksimsk">Taksimské</Token>
+      <Token Lemma="náměstí" POS="NNNS2" Stem="náměst">náměstí</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="3">
+    <Sentence>
+      <Text>Střelba v Chicagu poukazuje na nedostatky v práci policie</Text>
+      <Token Lemma="střelba" POS="NNFS1" Stem="střelb">Střelba</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Chicago" POS="NNNS6" Stem="chicag">Chicagu</Token>
+      <Token Lemma="poukazovat" POS="VB" Stem="poukazuj">poukazuje</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="nedostatek" POS="NNIP4" Stem="nedostatk">nedostatky</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="práce" POS="NNFS6" Stem="prák">práci</Token>
+      <Token Lemma="policie" POS="NNFS2" Stem="polici">policie</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Střelba v Chicagu poukazuje na nedostatky v práci policie</Text>
+      <Token Lemma="střelba" POS="NNFS1" Stem="střelb">Střelba</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Chicago" POS="NNNS6" Stem="chicag">Chicagu</Token>
+      <Token Lemma="poukazovat" POS="VB" Stem="poukazuj">poukazuje</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="nedostatek" POS="NNIP4" Stem="nedostatk">nedostatky</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="práce" POS="NNFS6" Stem="prák">práci</Token>
+      <Token Lemma="policie" POS="NNFS2" Stem="polici">policie</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="4">
+    <Sentence>
+      <Text>Federální policie bude vyžadovat bezpočnostní komunikaci mezi hlídkovými vozy</Text>
+      <Token Lemma="federální" POS="AAFS1" Stem="federáln">Federální</Token>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">policie</Token>
+      <Token Lemma="být" POS="VB" Stem="bud">bude</Token>
+      <Token Lemma="vyžadovat" POS="Vf" Stem="vyžad">vyžadovat</Token>
+      <Token Lemma="bezpočnostní" POS="Vf" Stem="bezpočnostn">bezpočnostní</Token>
+      <Token Lemma="komunikace" POS="NNFS4" Stem="komunikak">komunikaci</Token>
+      <Token Lemma="mezi" POS="RR" Stem="meh">mezi</Token>
+      <Token Lemma="hlídkovými" POS="C" Stem="hlídk">hlídkovými</Token>
+      <Token Lemma="vůz" POS="NNIP7" Stem="voz">vozy</Token>
+    </Sentence>
+    <Sentence>
+      <Text>V Guatemale došlo ke zvratu v přesvědčení bývalého diktátora ohledně genocidy</Text>
+      <Token Lemma="v" POS="RR" Stem="v">V</Token>
+      <Token Lemma="Guatemala" POS="NNFS3" Stem="guatemal">Guatemale</Token>
+      <Token Lemma="dojít" POS="VpNS" Stem="došl">došlo</Token>
+      <Token Lemma="k" POS="RV" Stem="ke">ke</Token>
+      <Token Lemma="zvrat" POS="NNIS3" Stem="zvrat">zvratu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="přesvědčení" POS="NNNS6" Stem="přesvědčen">přesvědčení</Token>
+      <Token Lemma="bývalý" POS="AAMS2" Stem="býval">bývalého</Token>
+      <Token Lemma="diktátor" POS="NNMS2" Stem="diktátor">diktátora</Token>
+      <Token Lemma="ohledně" POS="RR" Stem="ohledn">ohledně</Token>
+      <Token Lemma="genocida" POS="NNFS2" Stem="genocid">genocidy</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="5">
+    <Sentence>
+      <Text>Ukrajinští protestanční vůdci jmenují ministry, Ruské jednotky jsou na pozoru</Text>
+      <Token Lemma="ukrajinský" POS="AAMP1" Stem="ukrajinšt">Ukrajinští</Token>
+      <Token Lemma="protestanční" POS="Vf" Stem="protestančn">protestanční</Token>
+      <Token Lemma="vůdce" POS="NNMP1" Stem="vůdk">vůdci</Token>
+      <Token Lemma="jmenovat" POS="VB" Stem="jmenuj">jmenují</Token>
+      <Token Lemma="ministr" POS="NNMP4" Stem="ministr">ministry</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="ruský" POS="AAFP1" Stem="rusk">Ruské</Token>
+      <Token Lemma="jednotka" POS="NNFP1" Stem="jednotk">jednotky</Token>
+      <Token Lemma="být" POS="VB" Stem="jso">jsou</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pozor" POS="NNIS6" Stem="pozor">pozoru</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Ukrajina odmítá jednat proti Ruské 'Provokaci'</Text>
+      <Token Lemma="Ukrajina" POS="NNFS1" Stem="ukraj">Ukrajina</Token>
+      <Token Lemma="odmítat" POS="VB" Stem="odmít">odmítá</Token>
+      <Token Lemma="jednat" POS="Vf" Stem="jedn">jednat</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="ruský" POS="AAFS3" Stem="rusk">Ruské</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="Provokaci" POS="C" Stem="provokak">Provokaci</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="6">
+    <Sentence>
+      <Text>Severní Korea odmítá vyjednávat</Text>
+      <Token Lemma="severní" POS="AAFS1" Stem="severn">Severní</Token>
+      <Token Lemma="Korea" POS="NNFS1" Stem="kore">Korea</Token>
+      <Token Lemma="odmítat" POS="VB" Stem="odmít">odmítá</Token>
+      <Token Lemma="vyjednávat" POS="Vf" Stem="vyjednáv">vyjednávat</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Severní Korea odpálila 2 rakety</Text>
+      <Token Lemma="severní" POS="AAFS1" Stem="severn">Severní</Token>
+      <Token Lemma="Korea" POS="NNFS1" Stem="kore">Korea</Token>
+      <Token Lemma="odpálila" POS="NNIS1" Stem="odpálil">odpálila</Token>
+      <Token Lemma="2" POS="C" Stem="2">2</Token>
+      <Token Lemma="raketa" POS="NNFP1" Stem="raket">rakety</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="7">
+    <Sentence>
+      <Text>Prince Charles 'srovnává Putina s Hitlerem'</Text>
+      <Token Lemma="princ" POS="NNMXX" Stem="prink">Prince</Token>
+      <Token Lemma="Charles" POS="NNMS1" Stem="char">Charles</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="srovnávat" POS="VB" Stem="srovnáv">srovnává</Token>
+      <Token Lemma="Putina" POS="NNMS1" Stem="putin">Putina</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="Hitler" POS="NNMS7" Stem="hitler">Hitlerem</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Prince Charles 'srovnává Vladimíra Putina s Adolfem Hitlerem'</Text>
+      <Token Lemma="princ" POS="NNMXX" Stem="prink">Prince</Token>
+      <Token Lemma="Charles" POS="NNMS1" Stem="char">Charles</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="srovnávat" POS="VB" Stem="srovnáv">srovnává</Token>
+      <Token Lemma="Vladimír" POS="NNMS2" Stem="vladimír">Vladimíra</Token>
+      <Token Lemma="Putina" POS="NNMS2" Stem="putin">Putina</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="Adolf" POS="NNMS7" Stem="adolf">Adolfem</Token>
+      <Token Lemma="Hitler" POS="NNMS7" Stem="hitler">Hitlerem</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="8">
+    <Sentence>
+      <Text>Malala, Snowden a Bělorusové postoupili do dalšího kola o Sakharovu cenu</Text>
+      <Token Lemma="Malala" POS="NNMS1" Stem="malal">Malala</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="Snowden" POS="NNMS1" Stem="snowden">Snowden</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="Bělorusové" POS="NNMS1" Stem="bělorus">Bělorusové</Token>
+      <Token Lemma="postoupit" POS="VpMP" Stem="postoupil">postoupili</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="další" POS="AANS2" Stem="dalš">dalšího</Token>
+      <Token Lemma="kolo" POS="NNNS2" Stem="kol">kola</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="Sakharovu" POS="NNFS4" Stem="sakhar">Sakharovu</Token>
+      <Token Lemma="cena" POS="NNFS4" Stem="cen">cenu</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Uprchlík Snowden postoupil do dalšího kola o Cenu za lidská práva Evropy</Text>
+      <Token Lemma="uprchlík" POS="NNMS1" Stem="uprchlík">Uprchlík</Token>
+      <Token Lemma="Snowden" POS="NNMS1" Stem="snowden">Snowden</Token>
+      <Token Lemma="postoupit" POS="VpYS" Stem="postoupil">postoupil</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="další" POS="AANS2" Stem="dalš">dalšího</Token>
+      <Token Lemma="kolo" POS="NNNS2" Stem="kol">kola</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="cena" POS="NNFS4" Stem="cen">Cenu</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="lidský" POS="AANP4" Stem="lidsk">lidská</Token>
+      <Token Lemma="právo" POS="NNNP4" Stem="práv">práva</Token>
+      <Token Lemma="Evropa" POS="NNFS2" Stem="evrop">Evropy</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="9">
+    <Sentence>
+      <Text>Irán varuje ohledně vojenských zásahů v Iráku</Text>
+      <Token Lemma="Irán" POS="NNIS1" Stem="irán">Irán</Token>
+      <Token Lemma="varovat" POS="VB" Stem="varuj">varuje</Token>
+      <Token Lemma="ohledně" POS="RR" Stem="ohledn">ohledně</Token>
+      <Token Lemma="vojenský" POS="AAIP2" Stem="vojensk">vojenských</Token>
+      <Token Lemma="zásah" POS="NNIP2" Stem="zásah">zásahů</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Irák" POS="NNIS6" Stem="irák">Iráku</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Exploze poblíž vojenského letiště v Damašku</Text>
+      <Token Lemma="exploze" POS="NNFS1" Stem="exploh">Exploze</Token>
+      <Token Lemma="poblíž" POS="RR" Stem="poblíž">poblíž</Token>
+      <Token Lemma="vojenský" POS="AANS2" Stem="vojensk">vojenského</Token>
+      <Token Lemma="letiště" POS="NNNS2" Stem="letišt">letiště</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="damašek" POS="NNIS6" Stem="damašk">Damašku</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="10">
+    <Sentence>
+      <Text>Israelský předseda vlády nazval prezidenta Iránu hypokrytem</Text>
+      <Token Lemma="Israelský" POS="NNMS1" Stem="israelsk">Israelský</Token>
+      <Token Lemma="předseda" POS="NNMS1" Stem="předsed">předseda</Token>
+      <Token Lemma="vláda" POS="NNFS2" Stem="vlád">vlády</Token>
+      <Token Lemma="nazvat" POS="VpYS" Stem="nazval">nazval</Token>
+      <Token Lemma="prezident" POS="NNMS4" Stem="prezident">prezidenta</Token>
+      <Token Lemma="Irán" POS="NNIS2" Stem="irán">Iránu</Token>
+      <Token Lemma="hypokrytem" POS="NNFS2" Stem="hypokryt">hypokrytem</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Řecký předseda vlády obvinil koalici z pokrytectví</Text>
+      <Token Lemma="řecký" POS="AAMS1" Stem="řeck">Řecký</Token>
+      <Token Lemma="předseda" POS="NNMS1" Stem="předsed">předseda</Token>
+      <Token Lemma="vláda" POS="NNFS2" Stem="vlád">vlády</Token>
+      <Token Lemma="obvinit" POS="VpYS" Stem="obvinil">obvinil</Token>
+      <Token Lemma="koalice" POS="NNFS4" Stem="koalik">koalici</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="pokrytectví" POS="NNNS2" Stem="pokrytectv">pokrytectví</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="11">
+    <Sentence>
+      <Text>Jeden mrtvý po zřícení budovy ve Philadelphii, ostatní byli z trosek zachráněni</Text>
+      <Token Lemma="jeden" POS="ClYS1" Stem="jeden">Jeden</Token>
+      <Token Lemma="mrtvý" POS="AAMS1" Stem="mrtv">mrtvý</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="zřícení" POS="NNNS6" Stem="zřícen">zřícení</Token>
+      <Token Lemma="budova" POS="NNFS2" Stem="budov">budovy</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="Philadelphia" POS="NNFS6" Stem="philadelphi">Philadelphii</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="ostatní" POS="AAMP1" Stem="ostatn">ostatní</Token>
+      <Token Lemma="být" POS="VpMP" Stem="byl">byli</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="trosky" POS="NNFP2" Stem="trosek">trosek</Token>
+      <Token Lemma="zachránit" POS="VsMP" Stem="zachráněn">zachráněni</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Šest potvrzených úmrtí po zřícení budovy ve Philadelphii</Text>
+      <Token Lemma="šest" POS="Cn" Stem="šest">Šest</Token>
+      <Token Lemma="potvrzený" POS="AAIP2" Stem="potvrzen">potvrzených</Token>
+      <Token Lemma="úmrtí" POS="NNNP2" Stem="úmrt">úmrtí</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="zřícení" POS="NNNS6" Stem="zřícen">zřícení</Token>
+      <Token Lemma="budova" POS="NNFS2" Stem="budov">budovy</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="Philadelphia" POS="NNFS6" Stem="philadelphi">Philadelphii</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="12">
+    <Sentence>
+      <Text>Policie se střetla s mládeží po protestu proti Morsi</Text>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">Policie</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="střetnout" POS="VpQW" Stem="střetl">střetla</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="mládež" POS="NNFS7" Stem="mládež">mládeží</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="protest" POS="NNIS2" Stem="protest">protestu</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="Morsi" POS="C" Stem="mors">Morsi</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Egypt: Policie se střetla s Morsi sympatizanty</Text>
+      <Token Lemma="Egypt" POS="NNIS1" Stem="egypt">Egypt</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">Policie</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="střetnout" POS="VpQW" Stem="střetl">střetla</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="Morsi" POS="C" Stem="mors">Morsi</Token>
+      <Token Lemma="sympatizant" POS="NNMP7" Stem="sympatizant">sympatizanty</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="13">
+    <Sentence>
+      <Text>Nejlepší diplomaté se setkali v Mnichově v čase krize</Text>
+      <Token Lemma="dobrý" POS="AAMP1" Stem="nejlepš">Nejlepší</Token>
+      <Token Lemma="diplomat" POS="NNMP1" Stem="diplomat">diplomaté</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="setkat" POS="VpMP" Stem="setkal">setkali</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Mnichov" POS="NNIS6" Stem="mnich">Mnichově</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="čas" POS="NNIS6" Stem="čas">čase</Token>
+      <Token Lemma="krize" POS="NNFS2" Stem="krih">krize</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Nejlepší diplomaté probírají Íránský jaderný program</Text>
+      <Token Lemma="dobrý" POS="AAMP1" Stem="nejlepš">Nejlepší</Token>
+      <Token Lemma="diplomat" POS="NNMP1" Stem="diplomat">diplomaté</Token>
+      <Token Lemma="probírat" POS="VB" Stem="probíraj">probírají</Token>
+      <Token Lemma="íránský" POS="AAIS1" Stem="íránsk">Íránský</Token>
+      <Token Lemma="jaderný" POS="AAIS1" Stem="jadern">jaderný</Token>
+      <Token Lemma="program" POS="NNIS1" Stem="program">program</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="14">
+    <Sentence>
+      <Text>Snowden 'získán uprchlický doklad od Ecuadoru'</Text>
+      <Token Lemma="Snowden" POS="NNFS1" Stem="snowden">Snowden</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="získán" POS="AAFS1" Stem="získán">získán</Token>
+      <Token Lemma="uprchlický" POS="NNFS1" Stem="uprchlick">uprchlický</Token>
+      <Token Lemma="doklad" POS="NNIS4" Stem="doklad">doklad</Token>
+      <Token Lemma="od" POS="RR" Stem="od">od</Token>
+      <Token Lemma="Ecuadoru" POS="NNFS2" Stem="ecuador">Ecuadoru</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Snowden připraven odletět z Moskvy</Text>
+      <Token Lemma="Snowden" POS="VB" Stem="snowden">Snowden</Token>
+      <Token Lemma="připravit" POS="VsYS" Stem="připraven">připraven</Token>
+      <Token Lemma="odletět" POS="Vf" Stem="odletět">odletět</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="Moskva" POS="NNFS2" Stem="moskv">Moskvy</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="15">
+    <Sentence>
+      <Text>Zpráva Severoamerického prezidenta v novinách World Press Freedom Day</Text>
+      <Token Lemma="zpráva" POS="NNFS1" Stem="zpráv">Zpráva</Token>
+      <Token Lemma="Severoamerického" POS="NNMS2" Stem="severoamerick">Severoamerického</Token>
+      <Token Lemma="prezident" POS="NNMS2" Stem="prezident">prezidenta</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="noviny" POS="NNFP6" Stem="novin">novinách</Token>
+      <Token Lemma="World" POS="AAXXX" Stem="world">World</Token>
+      <Token Lemma="Press" POS="NNIXX" Stem="press">Press</Token>
+      <Token Lemma="Freedom" POS="NNFSX" Stem="freedom">Freedom</Token>
+      <Token Lemma="day" POS="NNIXX" Stem="day">Day</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pákistán označil noviny World Press Freedom Day</Text>
+      <Token Lemma="Pákistán" POS="NNIS1" Stem="pákistán">Pákistán</Token>
+      <Token Lemma="označit" POS="VpYS" Stem="označil">označil</Token>
+      <Token Lemma="noviny" POS="NNFP4" Stem="novin">noviny</Token>
+      <Token Lemma="World" POS="AAXXX" Stem="world">World</Token>
+      <Token Lemma="Press" POS="NNIXX" Stem="press">Press</Token>
+      <Token Lemma="Freedom" POS="NNFSX" Stem="freedom">Freedom</Token>
+      <Token Lemma="day" POS="NNIXX" Stem="day">Day</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="16">
+    <Sentence>
+      <Text>Evropší ministři zahraničních věcí jednají o zákazu zbraní v Syrii</Text>
+      <Token Lemma="Evropší" POS="C" Stem="evropš">Evropší</Token>
+      <Token Lemma="ministr" POS="NNMP1" Stem="ministř">ministři</Token>
+      <Token Lemma="zahraniční" POS="AAFP2" Stem="zahraničn">zahraničních</Token>
+      <Token Lemma="věc" POS="NNFP2" Stem="věc">věcí</Token>
+      <Token Lemma="jednat" POS="VB" Stem="jednaj">jednají</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="zákaz" POS="NNIS6" Stem="zákaz">zákazu</Token>
+      <Token Lemma="zbraň" POS="NNFP2" Stem="zbran">zbraní</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Syrii" POS="C" Stem="syri">Syrii</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Evropší ministři zahraničních věcí hledají řešení k výzbroji Syrské armády</Text>
+      <Token Lemma="Evropší" POS="C" Stem="evropš">Evropší</Token>
+      <Token Lemma="ministr" POS="NNMP1" Stem="ministř">ministři</Token>
+      <Token Lemma="zahraniční" POS="AAFP2" Stem="zahraničn">zahraničních</Token>
+      <Token Lemma="věc" POS="NNFP2" Stem="věc">věcí</Token>
+      <Token Lemma="hledat" POS="VB" Stem="hledaj">hledají</Token>
+      <Token Lemma="řešení" POS="NNNP1" Stem="řešen">řešení</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="výzbroj" POS="NNFS6" Stem="výzbroj">výzbroji</Token>
+      <Token Lemma="Syrské" POS="NNFS2" Stem="syrsk">Syrské</Token>
+      <Token Lemma="armáda" POS="NNFS2" Stem="armád">armády</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="17">
+    <Sentence>
+      <Text>Počet mrtvých po zemetřesení na Filipínách stoupl na 185</Text>
+      <Token Lemma="počet" POS="NNIS1" Stem="počet">Počet</Token>
+      <Token Lemma="mrtvý" POS="AAMP2" Stem="mrtv">mrtvých</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="zemetřesení" POS="NNFS4" Stem="zemetřesen">zemetřesení</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="Filipíny" POS="NNFP6" Stem="filipín">Filipínách</Token>
+      <Token Lemma="stoupnout" POS="VpYS" Stem="stoupl">stoupl</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="185" POS="C" Stem="185">185</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Počet mrtvých po zemetřesení na Filipínách stoupl na 144</Text>
+      <Token Lemma="počet" POS="NNIS1" Stem="počet">Počet</Token>
+      <Token Lemma="mrtvý" POS="AAMP2" Stem="mrtv">mrtvých</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="zemetřesení" POS="NNFS4" Stem="zemetřesen">zemetřesení</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="Filipíny" POS="NNFP6" Stem="filipín">Filipínách</Token>
+      <Token Lemma="stoupnout" POS="VpYS" Stem="stoupl">stoupl</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="144" POS="C" Stem="144">144</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="18">
+    <Sentence>
+      <Text>V pondělí je třeba pozorně hlídat stavy zásob</Text>
+      <Token Lemma="v" POS="RR" Stem="v">V</Token>
+      <Token Lemma="pondělí" POS="NNNS6" Stem="ponděl">pondělí</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="třeba" POS="ACNS" Stem="třeb">třeba</Token>
+      <Token Lemma="pozorně" POS="Dg" Stem="pozorn">pozorně</Token>
+      <Token Lemma="hlídat" POS="Vf" Stem="hlíd">hlídat</Token>
+      <Token Lemma="stav" POS="NNIP1" Stem="stav">stavy</Token>
+      <Token Lemma="zásoba" POS="NNFP2" Stem="zásob">zásob</Token>
+    </Sentence>
+    <Sentence>
+      <Text>V pondělí je třeba hlídat stavy zásob</Text>
+      <Token Lemma="v" POS="RR" Stem="v">V</Token>
+      <Token Lemma="pondělí" POS="NNNS6" Stem="ponděl">pondělí</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="třeba" POS="ACNS" Stem="třeb">třeba</Token>
+      <Token Lemma="hlídat" POS="Vf" Stem="hlíd">hlídat</Token>
+      <Token Lemma="stav" POS="NNIP4" Stem="stav">stavy</Token>
+      <Token Lemma="zásoba" POS="NNFP2" Stem="zásob">zásob</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="19">
+    <Sentence>
+      <Text>Vojenské letouny zabili 38 bojovníků v náletech na Severo-západní Pákistan</Text>
+      <Token Lemma="vojenský" POS="AAIP1" Stem="vojensk">Vojenské</Token>
+      <Token Lemma="letoun" POS="NNIP1" Stem="letoun">letouny</Token>
+      <Token Lemma="zabít" POS="VpMP" Stem="zabil">zabili</Token>
+      <Token Lemma="38" POS="C" Stem="38">38</Token>
+      <Token Lemma="bojovník" POS="NNMP2" Stem="bojovník">bojovníků</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="nálet" POS="NNIP6" Stem="nálet">náletech</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="severo" POS="A2" Stem="sever">Severo</Token>
+      <Token Lemma="-" POS="Z" Stem="-">-</Token>
+      <Token Lemma="západní" POS="AAFS2" Stem="západn">západní</Token>
+      <Token Lemma="Pákistan" POS="NNFS2" Stem="pákistan">Pákistan</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Americký dron zabil 4 bojovníky v Pákistánu</Text>
+      <Token Lemma="americký" POS="AAIS1" Stem="americk">Americký</Token>
+      <Token Lemma="dron" POS="NNIS1" Stem="dron">dron</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="4" POS="C" Stem="4">4</Token>
+      <Token Lemma="bojovník" POS="NNMP7" Stem="bojovník">bojovníky</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Pákistán" POS="NNIS6" Stem="pákistán">Pákistánu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="20">
+    <Sentence>
+      <Text>Egyptská policie použila slzný plyn proti protestantům v Káhiře</Text>
+      <Token Lemma="egyptský" POS="AAFS1" Stem="egyptsk">Egyptská</Token>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">policie</Token>
+      <Token Lemma="použít" POS="VpQW" Stem="použil">použila</Token>
+      <Token Lemma="slzný" POS="AAIS4" Stem="slzn">slzný</Token>
+      <Token Lemma="plyn" POS="NNIS4" Stem="plyn">plyn</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="protestant" POS="NNMP3" Stem="protestant">protestantům</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Káhira" POS="NNFS6" Stem="káhiř">Káhiře</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Policie použila slzný plyn proti protestantům v Káhiře</Text>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">Policie</Token>
+      <Token Lemma="použít" POS="VpQW" Stem="použil">použila</Token>
+      <Token Lemma="slzný" POS="AAIS4" Stem="slzn">slzný</Token>
+      <Token Lemma="plyn" POS="NNIS4" Stem="plyn">plyn</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="protestant" POS="NNMP3" Stem="protestant">protestantům</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Káhira" POS="NNFS6" Stem="káhiř">Káhiře</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="21">
+    <Sentence>
+      <Text>Liberál ElBaradei se stal předsedou Egyptské vlády</Text>
+      <Token Lemma="Liberál" POS="NNMS1" Stem="liberál">Liberál</Token>
+      <Token Lemma="ElBaradei" POS="NNMS1" Stem="elbarade">ElBaradei</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="stát" POS="VpYS" Stem="stal">stal</Token>
+      <Token Lemma="předseda" POS="NNMS7" Stem="předsed">předsedou</Token>
+      <Token Lemma="egyptský" POS="AAFS2" Stem="egyptsk">Egyptské</Token>
+      <Token Lemma="vláda" POS="NNFS2" Stem="vlád">vlády</Token>
+    </Sentence>
+    <Sentence>
+      <Text>ElBaradei jmenován Egyptským předsedou vlády, islamisté protestují</Text>
+      <Token Lemma="ElBaradei" POS="VB" Stem="elbarade">ElBaradei</Token>
+      <Token Lemma="jmenovat" POS="VsYS" Stem="jmenován">jmenován</Token>
+      <Token Lemma="Egyptským" POS="Vf" Stem="egyptsk">Egyptským</Token>
+      <Token Lemma="předseda" POS="NNMS7" Stem="předsed">předsedou</Token>
+      <Token Lemma="vláda" POS="NNFS2" Stem="vlád">vlády</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="islamisté" POS="NNFS2" Stem="islamist">islamisté</Token>
+      <Token Lemma="protestovat" POS="VB" Stem="protestuj">protestují</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="22">
+    <Sentence>
+      <Text>Filipíny zadrželi druhého senátora kvůli korupci</Text>
+      <Token Lemma="Filipíny" POS="NNFP4" Stem="filipín">Filipíny</Token>
+      <Token Lemma="zadržet" POS="VpMP" Stem="zadržel">zadrželi</Token>
+      <Token Lemma="druhý" POS="AAMS4" Stem="druh">druhého</Token>
+      <Token Lemma="senátor" POS="NNMS4" Stem="senátor">senátora</Token>
+      <Token Lemma="kvůli" POS="RR" Stem="kvůl">kvůli</Token>
+      <Token Lemma="korupce" POS="NNFS3" Stem="korupk">korupci</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Filipíny se vzpamatovávají po silném tajfunu</Text>
+      <Token Lemma="Filipíny" POS="NNFP1" Stem="filipín">Filipíny</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="vzpamatovávají" POS="VB" Stem="vzpamatovávaj">vzpamatovávají</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="silný" POS="AAIS6" Stem="sil">silném</Token>
+      <Token Lemma="tajfunu" POS="C" Stem="tajfun">tajfunu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="23">
+    <Sentence>
+      <Text>Německý vyslanec je optimistický ohledně vyjednávání mezi Íranem a G5+1</Text>
+      <Token Lemma="německý" POS="AAMS1" Stem="německ">Německý</Token>
+      <Token Lemma="vyslanec" POS="NNMS1" Stem="vyslanec">vyslanec</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="optimistický" POS="AAMS1" Stem="optimistick">optimistický</Token>
+      <Token Lemma="ohledně" POS="RR" Stem="ohledn">ohledně</Token>
+      <Token Lemma="vyjednávání" POS="NNNS2" Stem="vyjednáván">vyjednávání</Token>
+      <Token Lemma="mezi" POS="RR" Stem="meh">mezi</Token>
+      <Token Lemma="Íranem" POS="C" Stem="íran">Íranem</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="G5" POS="C" Stem="g5">G5</Token>
+      <Token Lemma="+" POS="Z" Stem="+">+</Token>
+      <Token Lemma="1" POS="C" Stem="1">1</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Irán je 'opatrný' ohledně budoucích vyjednávání o jaderném programu </Text>
+      <Token Lemma="Irán" POS="NNIS1" Stem="irán">Irán</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="opatrný" POS="AAMS1" Stem="opatrn">opatrný</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="ohledně" POS="RR" Stem="ohledn">ohledně</Token>
+      <Token Lemma="budoucí" POS="AANP2" Stem="budouc">budoucích</Token>
+      <Token Lemma="vyjednávání" POS="NNNP2" Stem="vyjednáván">vyjednávání</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="jaderný" POS="AAIS6" Stem="jader">jaderném</Token>
+      <Token Lemma="program" POS="NNIS6" Stem="program">programu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="24">
+    <Sentence>
+      <Text>Zemřel známý Španělský flamenco kytarista Paco De Lucia</Text>
+      <Token Lemma="zemřít" POS="VpYS" Stem="zemřel">Zemřel</Token>
+      <Token Lemma="známý" POS="AAMS1" Stem="znám">známý</Token>
+      <Token Lemma="španělský" POS="AAMS1" Stem="španělsk">Španělský</Token>
+      <Token Lemma="flamenco" POS="NNMS1" Stem="flamenc">flamenco</Token>
+      <Token Lemma="kytarista" POS="NNMS1" Stem="kytarist">kytarista</Token>
+      <Token Lemma="Paco" POS="NNMS1" Stem="pac">Paco</Token>
+      <Token Lemma="de" POS="RR" Stem="de">De</Token>
+      <Token Lemma="Lucie" POS="NNFS1" Stem="luci">Lucia</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Španělský flamenco kytarista Paco De Lucia zemřel ve věku 66 let</Text>
+      <Token Lemma="španělský" POS="AAMS1" Stem="španělsk">Španělský</Token>
+      <Token Lemma="flamenco" POS="NNMS1" Stem="flamenc">flamenco</Token>
+      <Token Lemma="kytarista" POS="NNMS1" Stem="kytarist">kytarista</Token>
+      <Token Lemma="Paco" POS="NNMS1" Stem="pac">Paco</Token>
+      <Token Lemma="de" POS="RR" Stem="de">De</Token>
+      <Token Lemma="Lucie" POS="NNFS1" Stem="luci">Lucia</Token>
+      <Token Lemma="zemřít" POS="VpYS" Stem="zemřel">zemřel</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="věk" POS="NNIS6" Stem="věk">věku</Token>
+      <Token Lemma="66" POS="C" Stem="66">66</Token>
+      <Token Lemma="rok" POS="NNNP2" Stem="let">let</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="25">
+    <Sentence>
+      <Text>Čínský ledoborec změnil kurz směrem k podezřelým objektům</Text>
+      <Token Lemma="čínský" POS="AAMS1" Stem="čínsk">Čínský</Token>
+      <Token Lemma="ledoborec" POS="NNMS1" Stem="ledoborec">ledoborec</Token>
+      <Token Lemma="změnit" POS="VpYS" Stem="změnil">změnil</Token>
+      <Token Lemma="kurs" POS="NNIS4" Stem="kurz">kurz</Token>
+      <Token Lemma="směr" POS="NNIS7" Stem="směr">směrem</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="podezřelý" POS="AAMS7" Stem="podezřel">podezřelým</Token>
+      <Token Lemma="objekt" POS="NNIP3" Stem="objekt">objektům</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Číňané prohledávající letadlo našli 'podezřelý objekt'</Text>
+      <Token Lemma="Číňan" POS="NNMP1" Stem="číňan">Číňané</Token>
+      <Token Lemma="prohledávající" POS="NNFS2" Stem="prohledávajíc">prohledávající</Token>
+      <Token Lemma="letadlo" POS="NNNS4" Stem="letadl">letadlo</Token>
+      <Token Lemma="najít" POS="VpMP" Stem="našl">našli</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="podezřelý" POS="AAMS1" Stem="podezřel">podezřelý</Token>
+      <Token Lemma="objekt" POS="NNIS1" Stem="objekt">objekt</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="26">
+    <Sentence>
+      <Text>Snowden narazil na překážky v pátrání po Azylu</Text>
+      <Token Lemma="Snowden" POS="NNMS1" Stem="snowden">Snowden</Token>
+      <Token Lemma="narazit" POS="VpYS" Stem="narazil">narazil</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="překážka" POS="NNFP4" Stem="překážk">překážky</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pátrání" POS="NNNS6" Stem="pátrán">pátrání</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="Azylu" POS="NNFS4" Stem="azyl">Azylu</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Snowden narazil na překážky v pátrání po Azylu</Text>
+      <Token Lemma="Snowden" POS="NNMS1" Stem="snowden">Snowden</Token>
+      <Token Lemma="narazit" POS="VpYS" Stem="narazil">narazil</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="překážka" POS="NNFP4" Stem="překážk">překážky</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pátrání" POS="NNNS6" Stem="pátrán">pátrání</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="Azylu" POS="NNFS4" Stem="azyl">Azylu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="27">
+    <Sentence>
+      <Text>Počet mrtvých způsobených zřícením budovy v Jižní Indii vyrostl na 47</Text>
+      <Token Lemma="počet" POS="NNIS1" Stem="počet">Počet</Token>
+      <Token Lemma="mrtvý" POS="AAMP2" Stem="mrtv">mrtvých</Token>
+      <Token Lemma="způsobený" POS="AAFP2" Stem="způsoben">způsobených</Token>
+      <Token Lemma="zřícením" POS="C" Stem="zříce">zřícením</Token>
+      <Token Lemma="budova" POS="NNFS2" Stem="budov">budovy</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jižní" POS="AAFS6" Stem="jižn">Jižní</Token>
+      <Token Lemma="Indie" POS="NNFS6" Stem="indi">Indii</Token>
+      <Token Lemma="vyrůst" POS="VpYS" Stem="vyrostl">vyrostl</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="47" POS="C" Stem="47">47</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Při zřícení budovy v Jižní Indii zemřeli 4 lidé</Text>
+      <Token Lemma="při" POS="RR" Stem="při">Při</Token>
+      <Token Lemma="zřícení" POS="NNNS6" Stem="zřícen">zřícení</Token>
+      <Token Lemma="budova" POS="NNFS2" Stem="budov">budovy</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jižní" POS="AAFS6" Stem="jižn">Jižní</Token>
+      <Token Lemma="Indie" POS="NNFS6" Stem="indi">Indii</Token>
+      <Token Lemma="zemřít" POS="VpMP" Stem="zemřel">zemřeli</Token>
+      <Token Lemma="4" POS="C" Stem="4">4</Token>
+      <Token Lemma="člověk" POS="NNMP1" Stem="lid">lidé</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="28">
+    <Sentence>
+      <Text>Pákistán uvalil dočasný zákaz vysílání 2 televizních stanic</Text>
+      <Token Lemma="Pákistán" POS="NNIS1" Stem="pákistán">Pákistán</Token>
+      <Token Lemma="uvalit" POS="VpYS" Stem="uvalil">uvalil</Token>
+      <Token Lemma="dočasný" POS="AAIS1" Stem="dočasn">dočasný</Token>
+      <Token Lemma="zákaz" POS="NNIS1" Stem="zákaz">zákaz</Token>
+      <Token Lemma="vysílání" POS="NNNS2" Stem="vysílán">vysílání</Token>
+      <Token Lemma="2" POS="C" Stem="2">2</Token>
+      <Token Lemma="televizní" POS="AAFP2" Stem="televizn">televizních</Token>
+      <Token Lemma="stanice" POS="NNFP2" Stem="stanic">stanic</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pákistán skončil soudní proces proti agentu FBI</Text>
+      <Token Lemma="Pákistán" POS="NNIS1" Stem="pákistán">Pákistán</Token>
+      <Token Lemma="skončit" POS="VpYS" Stem="skončil">skončil</Token>
+      <Token Lemma="soudní" POS="AAIS1" Stem="soudn">soudní</Token>
+      <Token Lemma="proces" POS="NNIS1" Stem="pro">proces</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="agent" POS="NNMS3" Stem="agent">agentu</Token>
+      <Token Lemma="FBI" POS="NNIXX" Stem="fbi">FBI</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="29">
+    <Sentence>
+      <Text>Palestinští vězni přijeli na Muqatu v Ramallah</Text>
+      <Token Lemma="palestinský" POS="AAMP1" Stem="palestinšt">Palestinští</Token>
+      <Token Lemma="vězeň" POS="NNMP1" Stem="vězn">vězni</Token>
+      <Token Lemma="přijet" POS="VpMP" Stem="přijel">přijeli</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="Muqatu" POS="NNFS4" Stem="muqat">Muqatu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Ramallah" POS="C" Stem="ramallah">Ramallah</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pákistánští vězni napadeni ve vězení v Jammu</Text>
+      <Token Lemma="Pákistánští" POS="Vf" Stem="pákistánšt">Pákistánští</Token>
+      <Token Lemma="vězeň" POS="NNMP1" Stem="vězn">vězni</Token>
+      <Token Lemma="napadnout" POS="VsMP" Stem="napaden">napadeni</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="vězení" POS="NNNS6" Stem="vězen">vězení</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Jammu" POS="NNFS4" Stem="jamm">Jammu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="30">
+    <Sentence>
+      <Text>10 mrtvých a pět zraněných si vyžádala dopravní nehoda v jihozápadní Číně</Text>
+      <Token Lemma="10" POS="C" Stem="10">10</Token>
+      <Token Lemma="mrtvý" POS="AAMP2" Stem="mrtv">mrtvých</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="pět" POS="Cn" Stem="pět">pět</Token>
+      <Token Lemma="zraněný" POS="AAMP2" Stem="zraněn">zraněných</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="vyžádat" POS="VpQW" Stem="vyžádal">vyžádala</Token>
+      <Token Lemma="dopravní" POS="AAFS1" Stem="dopravn">dopravní</Token>
+      <Token Lemma="nehoda" POS="NNFS1" Stem="nehod">nehoda</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jihozápadní" POS="AAFS6" Stem="jihozápadn">jihozápadní</Token>
+      <Token Lemma="Čína" POS="NNFS6" Stem="čín">Číně</Token>
+    </Sentence>
+    <Sentence>
+      <Text>5 zraněných si vyžádala autonehoda ve městě Gaza</Text>
+      <Token Lemma="5" POS="C" Stem="5">5</Token>
+      <Token Lemma="zraněný" POS="AAMP2" Stem="zraněn">zraněných</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="vyžádat" POS="VpQW" Stem="vyžádal">vyžádala</Token>
+      <Token Lemma="autonehoda" POS="Vf" Stem="autonehod">autonehoda</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="město" POS="NNNS6" Stem="měst">městě</Token>
+      <Token Lemma="Gaza" POS="NNFS1" Stem="gaz">Gaza</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="31">
+    <Sentence>
+      <Text>Math Smith opustil BBC seriál Doctor Who</Text>
+      <Token Lemma="Math" POS="NNMS1" Stem="math">Math</Token>
+      <Token Lemma="Smith" POS="NNMS1" Stem="smith">Smith</Token>
+      <Token Lemma="opustit" POS="VpYS" Stem="opustil">opustil</Token>
+      <Token Lemma="BBC" POS="NNFXX" Stem="bbc">BBC</Token>
+      <Token Lemma="seriál" POS="NNIS1" Stem="seriál">seriál</Token>
+      <Token Lemma="Doctor" POS="NNMS2" Stem="doctor">Doctor</Token>
+      <Token Lemma="Who" POS="NNMS2" Stem="who">Who</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Math Smith opustil BBC seriál Doctor Who</Text>
+      <Token Lemma="Math" POS="NNMS1" Stem="math">Math</Token>
+      <Token Lemma="Smith" POS="NNMS1" Stem="smith">Smith</Token>
+      <Token Lemma="opustit" POS="VpYS" Stem="opustil">opustil</Token>
+      <Token Lemma="BBC" POS="NNFXX" Stem="bbc">BBC</Token>
+      <Token Lemma="seriál" POS="NNIS1" Stem="seriál">seriál</Token>
+      <Token Lemma="Doctor" POS="NNMS2" Stem="doctor">Doctor</Token>
+      <Token Lemma="Who" POS="NNMS2" Stem="who">Who</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="32">
+    <Sentence>
+      <Text>Thaiská vláda svolala bezpečnostní složky k potlačení protestů v Bankoku</Text>
+      <Token Lemma="Thaiská" POS="AAFS1" Stem="thaisk">Thaiská</Token>
+      <Token Lemma="vláda" POS="NNFS1" Stem="vlád">vláda</Token>
+      <Token Lemma="svolat" POS="VpQW" Stem="svolal">svolala</Token>
+      <Token Lemma="bezpečnostní" POS="AAFP4" Stem="bezpečnostn">bezpečnostní</Token>
+      <Token Lemma="složka" POS="NNFP4" Stem="složk">složky</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="potlačení" POS="NNNS4" Stem="potlačen">potlačení</Token>
+      <Token Lemma="protest" POS="NNIP2" Stem="protest">protestů</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Bankoku" POS="NNFS4" Stem="bankok">Bankoku</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Thajské bezpečnostní složky zůstavají v kasárnách, protože protesty se uklidnily</Text>
+      <Token Lemma="thajský" POS="AAFP1" Stem="thajsk">Thajské</Token>
+      <Token Lemma="bezpečnostní" POS="AAFP1" Stem="bezpečnostn">bezpečnostní</Token>
+      <Token Lemma="složka" POS="NNFP1" Stem="složk">složky</Token>
+      <Token Lemma="zůstavají" POS="NNFS2" Stem="zůstavaj">zůstavají</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="kasárna" POS="NNNP6" Stem="kasárn">kasárnách</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="protože" POS="J" Stem="protoh">protože</Token>
+      <Token Lemma="protest" POS="NNIP1" Stem="protest">protesty</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="uklidnit" POS="VpTP" Stem="uklidnil">uklidnily</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="33">
+    <Sentence>
+      <Text>Aso odmítá odstoupit kvůli komentářům nacistů</Text>
+      <Token Lemma="Aso" POS="NNFS1" Stem="aso">Aso</Token>
+      <Token Lemma="odmítat" POS="VB" Stem="odmít">odmítá</Token>
+      <Token Lemma="odstoupit" POS="Vf" Stem="odstoupit">odstoupit</Token>
+      <Token Lemma="kvůli" POS="RR" Stem="kvůl">kvůli</Token>
+      <Token Lemma="komentář" POS="NNIP3" Stem="komentář">komentářům</Token>
+      <Token Lemma="nacista" POS="NNMP2" Stem="nacist">nacistů</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Španělský předseda vlády odmítá rezignovat kvůli korupčnímu skandálu</Text>
+      <Token Lemma="španělský" POS="AAMS1" Stem="španělsk">Španělský</Token>
+      <Token Lemma="předseda" POS="NNMS1" Stem="předsed">předseda</Token>
+      <Token Lemma="vláda" POS="NNFS2" Stem="vlád">vlády</Token>
+      <Token Lemma="odmítat" POS="VB" Stem="odmít">odmítá</Token>
+      <Token Lemma="rezignovat" POS="Vf" Stem="rezign">rezignovat</Token>
+      <Token Lemma="kvůli" POS="RR" Stem="kvůl">kvůli</Token>
+      <Token Lemma="korupční" POS="AAIS3" Stem="korupčním">korupčnímu</Token>
+      <Token Lemma="skandál" POS="NNIS3" Stem="skandál">skandálu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="34">
+    <Sentence>
+      <Text>Exploze zabila 29 lidí před dvěmi mešitami v Lebanonu ve městě Tripoli</Text>
+      <Token Lemma="exploze" POS="NNFS1" Stem="exploh">Exploze</Token>
+      <Token Lemma="zabít" POS="VpQW" Stem="zabil">zabila</Token>
+      <Token Lemma="29" POS="C" Stem="29">29</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="dvěmi" POS="NNMS2" Stem="dvě">dvěmi</Token>
+      <Token Lemma="mešitami" POS="NNMS2" Stem="mešit">mešitami</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Lebanonu" POS="C" Stem="lebanon">Lebanonu</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="město" POS="NNNS6" Stem="měst">městě</Token>
+      <Token Lemma="Tripoli" POS="NNNXX" Stem="tripol">Tripoli</Token>
+    </Sentence>
+    <Sentence>
+      <Text>2 exploze otřásli kameným městěm v severním Lebanonu</Text>
+      <Token Lemma="2" POS="C" Stem="2">2</Token>
+      <Token Lemma="exploze" POS="NNFS1" Stem="exploh">exploze</Token>
+      <Token Lemma="otřásli" POS="AAFS1" Stem="otřásl">otřásli</Token>
+      <Token Lemma="kameným" POS="AAFS1" Stem="kamen">kameným</Token>
+      <Token Lemma="městěm" POS="NNFS1" Stem="městěm">městěm</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="severní" POS="AAIS6" Stem="sever">severním</Token>
+      <Token Lemma="Lebanonu" POS="C" Stem="lebanon">Lebanonu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="35">
+    <Sentence>
+      <Text>Pákinstánská letadla bombardují 'úkryty Talibanu'</Text>
+      <Token Lemma="Pákinstánská" POS="C" Stem="pákinstánsk">Pákinstánská</Token>
+      <Token Lemma="letadlo" POS="NNNP1" Stem="letadl">letadla</Token>
+      <Token Lemma="bombardovat" POS="VB" Stem="bombarduj">bombardují</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="úkryt" POS="NNIP4" Stem="úkryt">úkryty</Token>
+      <Token Lemma="Taliban" POS="NNIS2" Stem="taliban">Talibanu</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pákistán požaduje zastavení dodávání vojenských zásob Sýrii</Text>
+      <Token Lemma="Pákistán" POS="NNIS1" Stem="pákistán">Pákistán</Token>
+      <Token Lemma="požadovat" POS="VB" Stem="požaduj">požaduje</Token>
+      <Token Lemma="zastavení" POS="NNNS1" Stem="zastaven">zastavení</Token>
+      <Token Lemma="dodávání" POS="NNNS4" Stem="dodáván">dodávání</Token>
+      <Token Lemma="vojenský" POS="AAFP2" Stem="vojensk">vojenských</Token>
+      <Token Lemma="zásoba" POS="NNFP2" Stem="zásob">zásob</Token>
+      <Token Lemma="Sýrie" POS="NNFS4" Stem="sýri">Sýrii</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="36">
+    <Sentence>
+      <Text>Taiwanská ekonomika vzrostla o 2.27% během druhého čtvrtletí</Text>
+      <Token Lemma="Taiwanská" POS="AAFS1" Stem="taiwansk">Taiwanská</Token>
+      <Token Lemma="ekonomika" POS="NNFS1" Stem="ekonomik">ekonomika</Token>
+      <Token Lemma="vzrůst" POS="VpQW" Stem="vzrostl">vzrostla</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="2.27" POS="NNFS4" Stem="2.27">2.27</Token>
+      <Token Lemma="%" POS="Z" Stem="%">%</Token>
+      <Token Lemma="během" POS="RR" Stem="běh">během</Token>
+      <Token Lemma="druhý" POS="AANS2" Stem="druh">druhého</Token>
+      <Token Lemma="čtvrtletí" POS="NNNS2" Stem="čtvrtlet">čtvrtletí</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Růst Čínské ekonomiky se zastavil na 7.8% za poslední čtvrtletí</Text>
+      <Token Lemma="růst" POS="NNIS1" Stem="růst">Růst</Token>
+      <Token Lemma="čínský" POS="AAIP1" Stem="čínsk">Čínské</Token>
+      <Token Lemma="ekonomika" POS="NNFS2" Stem="ekonomik">ekonomiky</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="zastavit" POS="VpYS" Stem="zastavil">zastavil</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="7.8" POS="C" Stem="7.8">7.8</Token>
+      <Token Lemma="%" POS="Z" Stem="%">%</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="poslední" POS="AANS4" Stem="posledn">poslední</Token>
+      <Token Lemma="čtvrtletí" POS="NNNS4" Stem="čtvrtlet">čtvrtletí</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="37">
+    <Sentence>
+      <Text>Střelec zabil osm lidí při druhém útoku v Keni</Text>
+      <Token Lemma="Střelec" POS="NNIS1" Stem="střelec">Střelec</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="osm" POS="Cn" Stem="osm">osm</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="při" POS="RR" Stem="při">při</Token>
+      <Token Lemma="druhý" POS="AAIS6" Stem="dru">druhém</Token>
+      <Token Lemma="útok" POS="NNIS6" Stem="útok">útoku</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Keňa" POS="NNFS6" Stem="ken">Keni</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Střelec 'zabil 15 lidí' v při druhém útoku v Keni</Text>
+      <Token Lemma="Střelec" POS="NNFS1" Stem="střelec">Střelec</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="15" POS="C" Stem="15">15</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="při" POS="RR" Stem="při">při</Token>
+      <Token Lemma="druhý" POS="AAIS6" Stem="dru">druhém</Token>
+      <Token Lemma="útok" POS="NNIS6" Stem="útok">útoku</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Keňa" POS="NNFS6" Stem="ken">Keni</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="38">
+    <Sentence>
+      <Text>Spojené státy obnovili, po zveřejnění, hledání ztracených Britských námořníků</Text>
+      <Token Lemma="spojený" POS="AAIP1" Stem="spojen">Spojené</Token>
+      <Token Lemma="stát" POS="NNIP1" Stem="stát">státy</Token>
+      <Token Lemma="obnovit" POS="VpMP" Stem="obnovil">obnovili</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="zveřejnění" POS="NNNS6" Stem="zveřejněn">zveřejnění</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="hledání" POS="NNNS6" Stem="hledán">hledání</Token>
+      <Token Lemma="ztracený" POS="AAFP2" Stem="ztracen">ztracených</Token>
+      <Token Lemma="Britských" POS="C" Stem="britsk">Britských</Token>
+      <Token Lemma="námořník" POS="NNMP2" Stem="námořník">námořníků</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pobřežní hlídka spojených států zastavila hledání Britských námořníků</Text>
+      <Token Lemma="pobřežní" POS="AAFS3" Stem="pobřežn">Pobřežní</Token>
+      <Token Lemma="hlídka" POS="NNFS1" Stem="hlídk">hlídka</Token>
+      <Token Lemma="spojený" POS="AAIP2" Stem="spojen">spojených</Token>
+      <Token Lemma="stát" POS="NNIP2" Stem="stát">států</Token>
+      <Token Lemma="zastavit" POS="VpQW" Stem="zastavil">zastavila</Token>
+      <Token Lemma="hledání" POS="NNNS4" Stem="hledán">hledání</Token>
+      <Token Lemma="Britských" POS="NNFS2" Stem="britsk">Britských</Token>
+      <Token Lemma="námořník" POS="NNMP2" Stem="námořník">námořníků</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="39">
+    <Sentence>
+      <Text>Záchranáři odklízejí trosky po pádu budov v Indii</Text>
+      <Token Lemma="záchranář" POS="NNMP1" Stem="záchranář">Záchranáři</Token>
+      <Token Lemma="odklízet" POS="VB" Stem="odklízej">odklízejí</Token>
+      <Token Lemma="troska" POS="NNFP4" Stem="trosk">trosky</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="pád" POS="NNIS6" Stem="pád">pádu</Token>
+      <Token Lemma="budova" POS="NNFP2" Stem="budov">budov</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Indie" POS="NNFS6" Stem="indi">Indii</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Vybrané obrázky zřícených budov v Bangladéši</Text>
+      <Token Lemma="vybraný" POS="AAFP1" Stem="vybran">Vybrané</Token>
+      <Token Lemma="obrázek" POS="NNIP1" Stem="obrázk">obrázky</Token>
+      <Token Lemma="zřícený" POS="AAFP2" Stem="zřícen">zřícených</Token>
+      <Token Lemma="budova" POS="NNFP2" Stem="budov">budov</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Bangladéš" POS="NNIS6" Stem="bangladéš">Bangladéši</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="40">
+    <Sentence>
+      <Text>Irácký bombový útok zabil minimálně 13 lidí</Text>
+      <Token Lemma="irácký" POS="AAIS1" Stem="iráck">Irácký</Token>
+      <Token Lemma="bombový" POS="NNIS1" Stem="bomb">bombový</Token>
+      <Token Lemma="útok" POS="NNIS1" Stem="útok">útok</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="minimálně" POS="Dg" Stem="minimáln">minimálně</Token>
+      <Token Lemma="13" POS="C" Stem="13">13</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Irácká bomba v autě zabila minimálně 14 lidí</Text>
+      <Token Lemma="irácký" POS="AAFS1" Stem="iráck">Irácká</Token>
+      <Token Lemma="bomba" POS="NNFS1" Stem="bomb">bomba</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="auto" POS="NNNS6" Stem="aut">autě</Token>
+      <Token Lemma="zabít" POS="VpQW" Stem="zabil">zabila</Token>
+      <Token Lemma="minimálně" POS="Dg" Stem="minimáln">minimálně</Token>
+      <Token Lemma="14" POS="C" Stem="14">14</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="41">
+    <Sentence>
+      <Text>Tamerlan Tsarnaev byl pohřben ve Virginii</Text>
+      <Token Lemma="Tamerlan" POS="NNMS1" Stem="tamerlan">Tamerlan</Token>
+      <Token Lemma="Tsarnaev" POS="NNMS1" Stem="tsarnaev">Tsarnaev</Token>
+      <Token Lemma="být" POS="VpYS" Stem="byl">byl</Token>
+      <Token Lemma="pohřbít" POS="VsYS" Stem="pohřben">pohřben</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="Virginie" POS="NNFS6" Stem="virgini">Virginii</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž podezřelý z bombového útoku byl pohřben na hřbitově ve Virginii</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="podezřelý" POS="AAMS1" Stem="podezřel">podezřelý</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="bombového" POS="NNFS2" Stem="bomb">bombového</Token>
+      <Token Lemma="útok" POS="NNIS2" Stem="útok">útoku</Token>
+      <Token Lemma="být" POS="VpYS" Stem="byl">byl</Token>
+      <Token Lemma="pohřbít" POS="VsYS" Stem="pohřben">pohřben</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="hřbitov" POS="NNIS6" Stem="hřbit">hřbitově</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="Virginie" POS="NNFS6" Stem="virgini">Virginii</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="42">
+    <Sentence>
+      <Text>Egyptské ozbrojené síly vyrazili uzavřít přístup do tábořišť Morsi protestantů</Text>
+      <Token Lemma="egyptský" POS="AAFS2" Stem="egyptsk">Egyptské</Token>
+      <Token Lemma="ozbrojený" POS="AAFS2" Stem="ozbrojen">ozbrojené</Token>
+      <Token Lemma="síla" POS="NNFS2" Stem="síl">síly</Token>
+      <Token Lemma="vyrazit" POS="VpMP" Stem="vyrazil">vyrazili</Token>
+      <Token Lemma="uzavřít" POS="Vf" Stem="uzavřít">uzavřít</Token>
+      <Token Lemma="přístup" POS="NNIS4" Stem="přístup">přístup</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="tábořišť" POS="NNFS2" Stem="tábořišť">tábořišť</Token>
+      <Token Lemma="Morsi" POS="C" Stem="mors">Morsi</Token>
+      <Token Lemma="protestant" POS="NNMP2" Stem="protestant">protestantů</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Egyptské ozbrojené síly vyrazili vyčistit tábořiště pro-Morsi protestantů</Text>
+      <Token Lemma="egyptský" POS="AAFS2" Stem="egyptsk">Egyptské</Token>
+      <Token Lemma="ozbrojený" POS="AAFS2" Stem="ozbrojen">ozbrojené</Token>
+      <Token Lemma="síla" POS="NNFS2" Stem="síl">síly</Token>
+      <Token Lemma="vyrazit" POS="VpMP" Stem="vyrazil">vyrazili</Token>
+      <Token Lemma="vyčistit" POS="Vf" Stem="vyčistit">vyčistit</Token>
+      <Token Lemma="tábořiště" POS="NNFS4" Stem="tábořišt">tábořiště</Token>
+      <Token Lemma="pro" POS="RR" Stem="pro">pro</Token>
+      <Token Lemma="-" POS="Z" Stem="-">-</Token>
+      <Token Lemma="Morsi" POS="NNFS4" Stem="mors">Morsi</Token>
+      <Token Lemma="protestant" POS="NNMP2" Stem="protestant">protestantů</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="43">
+    <Sentence>
+      <Text>Autorka Doris Lessing oceněná nobelovou cenou zemřela ve věku 94 let</Text>
+      <Token Lemma="autorka" POS="NNFS1" Stem="autork">Autorka</Token>
+      <Token Lemma="Doris" POS="NNMS1" Stem="doris">Doris</Token>
+      <Token Lemma="Lessing" POS="NNMS1" Stem="lessing">Lessing</Token>
+      <Token Lemma="oceněná" POS="VB" Stem="oceněn">oceněná</Token>
+      <Token Lemma="nobelovou" POS="Vf" Stem="nobel">nobelovou</Token>
+      <Token Lemma="cena" POS="NNFS7" Stem="cen">cenou</Token>
+      <Token Lemma="zemřít" POS="VpQW" Stem="zemřel">zemřela</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="věk" POS="NNIS6" Stem="věk">věku</Token>
+      <Token Lemma="94" POS="C" Stem="94">94</Token>
+      <Token Lemma="rok" POS="NNNP2" Stem="let">let</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Držitelka nobelovi ceny Doris Lessing zemřela ve věku 94 let</Text>
+      <Token Lemma="Držitelka" POS="AAFS1" Stem="držitelk">Držitelka</Token>
+      <Token Lemma="nobelovi" POS="NNFS1" Stem="nobel">nobelovi</Token>
+      <Token Lemma="cena" POS="NNFS2" Stem="cen">ceny</Token>
+      <Token Lemma="Doris" POS="NNFS1" Stem="doris">Doris</Token>
+      <Token Lemma="Lessing" POS="NNMS1" Stem="lessing">Lessing</Token>
+      <Token Lemma="zemřít" POS="VpQW" Stem="zemřel">zemřela</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="věk" POS="NNIS6" Stem="věk">věku</Token>
+      <Token Lemma="94" POS="C" Stem="94">94</Token>
+      <Token Lemma="rok" POS="NNNP2" Stem="let">let</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="44">
+    <Sentence>
+      <Text>Předseda Japonské opoziční strany kritizuje Abeho politiku v oblasti ekonomie</Text>
+      <Token Lemma="předseda" POS="NNMS1" Stem="předsed">Předseda</Token>
+      <Token Lemma="japonský" POS="AAFS2" Stem="japonsk">Japonské</Token>
+      <Token Lemma="opoziční" POS="AAFS2" Stem="opozičn">opoziční</Token>
+      <Token Lemma="strana" POS="NNFS2" Stem="stran">strany</Token>
+      <Token Lemma="kritizovat" POS="VB" Stem="kritizuj">kritizuje</Token>
+      <Token Lemma="Abeho" POS="Vf" Stem="abeh">Abeho</Token>
+      <Token Lemma="politika" POS="NNFS4" Stem="politik">politiku</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="oblast" POS="NNFS6" Stem="oblast">oblasti</Token>
+      <Token Lemma="ekonomie" POS="NNFS2" Stem="ekonomi">ekonomie</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Zimbabweaská opoziční strana MDC napadá vítezství Roberta Mugabeâ€šĂ„Ă ve volbách</Text>
+      <Token Lemma="Zimbabweaská" POS="AAFS1" Stem="zimbabweask">Zimbabweaská</Token>
+      <Token Lemma="opoziční" POS="AAFS1" Stem="opozičn">opoziční</Token>
+      <Token Lemma="strana" POS="NNFS1" Stem="stran">strana</Token>
+      <Token Lemma="MDC" POS="NNFS2" Stem="mdc">MDC</Token>
+      <Token Lemma="napadat" POS="VB" Stem="napad">napadá</Token>
+      <Token Lemma="vítezství" POS="NNIS1" Stem="vítezstv">vítezství</Token>
+      <Token Lemma="Robert" POS="NNMS2" Stem="robert">Roberta</Token>
+      <Token Lemma="Mugabeâ" POS="NNMS2" Stem="mugabeâ">Mugabeâ</Token>
+      <Token Lemma="šĂ" POS="NNMS2" Stem="šă">šĂ</Token>
+      <Token Lemma="Ă" POS="NNMS2" Stem="ă">Ă</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="volba" POS="NNFP6" Stem="volb">volbách</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="45">
+    <Sentence>
+      <Text>3 podezřelí vzati do vazby kvůli bombovému útoku v Bostonu</Text>
+      <Token Lemma="3" POS="C" Stem="3">3</Token>
+      <Token Lemma="podezřelý" POS="AAMP1" Stem="podezřel">podezřelí</Token>
+      <Token Lemma="vzít" POS="VsMP" Stem="vzat">vzati</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="vazba" POS="NNFS2" Stem="vazb">vazby</Token>
+      <Token Lemma="kvůli" POS="RR" Stem="kvůl">kvůli</Token>
+      <Token Lemma="bombovému" POS="C" Stem="bomb">bombovému</Token>
+      <Token Lemma="útok" POS="NNIS3" Stem="útok">útoku</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Boston" POS="NNIS6" Stem="boston">Bostonu</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Bostnoská policie říká, že vzala do vazby 3 pozdřelé spojené s bombovým útokem v Marathonu</Text>
+      <Token Lemma="Bostnoská" POS="AAFS1" Stem="bostnosk">Bostnoská</Token>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">policie</Token>
+      <Token Lemma="říkat" POS="VB" Stem="řík">říká</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="že" POS="J" Stem="že">že</Token>
+      <Token Lemma="vzít" POS="VpQW" Stem="vzal">vzala</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="vazba" POS="NNFS2" Stem="vazb">vazby</Token>
+      <Token Lemma="3" POS="C" Stem="3">3</Token>
+      <Token Lemma="pozdřelé" POS="VB" Stem="pozdřel">pozdřelé</Token>
+      <Token Lemma="spojený" POS="AANS1" Stem="spojen">spojené</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="bombovým" POS="NNMS2" Stem="bomb">bombovým</Token>
+      <Token Lemma="útok" POS="NNIS7" Stem="útok">útokem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Marathonu" POS="NNFS4" Stem="marathon">Marathonu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="46">
+    <Sentence>
+      <Text>Vůdce Ukrajinské opozice chce více protestů</Text>
+      <Token Lemma="vůdce" POS="NNMS1" Stem="vůdk">Vůdce</Token>
+      <Token Lemma="ukrajinský" POS="AANS1" Stem="ukrajinsk">Ukrajinské</Token>
+      <Token Lemma="opozice" POS="NNFS2" Stem="opozik">opozice</Token>
+      <Token Lemma="chtít" POS="VB" Stem="chk">chce</Token>
+      <Token Lemma="hodně" POS="Dg" Stem="vík">více</Token>
+      <Token Lemma="protest" POS="NNIP2" Stem="protest">protestů</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Protestanti na Ukrajině svrhli Leninovu sochu</Text>
+      <Token Lemma="protestant" POS="NNMP1" Stem="protestant">Protestanti</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="Ukrajina" POS="NNFS6" Stem="ukraj">Ukrajině</Token>
+      <Token Lemma="svrhli" POS="NNMS2" Stem="svrhl">svrhli</Token>
+      <Token Lemma="Leninovu" POS="NNMS2" Stem="lenin">Leninovu</Token>
+      <Token Lemma="socha" POS="NNFS4" Stem="soch">sochu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="47">
+    <Sentence>
+      <Text>Královna vzdala hold Nelsonovi Mandelovi</Text>
+      <Token Lemma="královna" POS="NNFS1" Stem="královn">Královna</Token>
+      <Token Lemma="vzdát" POS="VpQW" Stem="vzdal">vzdala</Token>
+      <Token Lemma="hold" POS="Vf" Stem="hold">hold</Token>
+      <Token Lemma="Nelsonovi" POS="NNFS1" Stem="nelson">Nelsonovi</Token>
+      <Token Lemma="Mandela" POS="NNMS3" Stem="mandel">Mandelovi</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Jihoafrické bratrstvo ragby oplakává Mandelu</Text>
+      <Token Lemma="jihoafrický" POS="AAFS2" Stem="jihoafrick">Jihoafrické</Token>
+      <Token Lemma="bratrstvo" POS="NNFS2" Stem="bratrstv">bratrstvo</Token>
+      <Token Lemma="ragby" POS="NNNXX" Stem="ragb">ragby</Token>
+      <Token Lemma="oplakává" POS="Vf" Stem="oplakáv">oplakává</Token>
+      <Token Lemma="Mandela" POS="NNMS4" Stem="mandel">Mandelu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="48">
+    <Sentence>
+      <Text>Pokles zboží na trhu spojených států se zklidňuje</Text>
+      <Token Lemma="pokles" POS="NNIS1" Stem="pok">Pokles</Token>
+      <Token Lemma="zboží" POS="NNNS2" Stem="zbož">zboží</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="trh" POS="NNIS6" Stem="trh">trhu</Token>
+      <Token Lemma="spojený" POS="AAIP2" Stem="spojen">spojených</Token>
+      <Token Lemma="stát" POS="NNIP2" Stem="stát">států</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="zklidňuje" POS="VB" Stem="zklidňuj">zklidňuje</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Výprodej technologíí snižuje obsah Asisjkého trhu</Text>
+      <Token Lemma="výprodej" POS="NNIS1" Stem="výprodej">Výprodej</Token>
+      <Token Lemma="technologíí" POS="NNFS2" Stem="technologí">technologíí</Token>
+      <Token Lemma="snižovat" POS="VB" Stem="snižuj">snižuje</Token>
+      <Token Lemma="obsah" POS="NNIS1" Stem="obsah">obsah</Token>
+      <Token Lemma="Asisjkého" POS="NNFS2" Stem="asisjk">Asisjkého</Token>
+      <Token Lemma="trh" POS="NNIS2" Stem="trh">trhu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="49">
+    <Sentence>
+      <Text>Poslední vlna proti muslinského násilí v Burmě zapříčinila 1 úmrtí a 10 zraněných</Text>
+      <Token Lemma="poslední" POS="AAFS1" Stem="posledn">Poslední</Token>
+      <Token Lemma="vlna" POS="NNFS1" Stem="vln">vlna</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="muslinského" POS="C" Stem="muslinsk">muslinského</Token>
+      <Token Lemma="násilí" POS="NNNS2" Stem="násil">násilí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Burmě" POS="NNFS4" Stem="burm">Burmě</Token>
+      <Token Lemma="zapříčinit" POS="VpQW" Stem="zapříčinil">zapříčinila</Token>
+      <Token Lemma="1" POS="C" Stem="1">1</Token>
+      <Token Lemma="úmrtí" POS="NNNP2" Stem="úmrt">úmrtí</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="10" POS="C" Stem="10">10</Token>
+      <Token Lemma="zraněný" POS="AAMP2" Stem="zraněn">zraněných</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Světová tisková konference: Smrtící proti muslimská vlna násilí je na vzestupu</Text>
+      <Token Lemma="světový" POS="AAFS1" Stem="svět">Světová</Token>
+      <Token Lemma="tiskový" POS="AAFS1" Stem="tisk">tisková</Token>
+      <Token Lemma="konference" POS="NNFS1" Stem="konferenk">konference</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="smrtící" POS="AAIS1" Stem="smrtíc">Smrtící</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="muslimský" POS="AAFS1" Stem="muslimsk">muslimská</Token>
+      <Token Lemma="vlna" POS="NNFS1" Stem="vln">vlna</Token>
+      <Token Lemma="násilí" POS="NNNS2" Stem="násil">násilí</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="vzestup" POS="NNIS6" Stem="vzestup">vzestupu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="50">
+    <Sentence>
+      <Text>Očekávaný útok drona zabil 5 lidí v Pákistánu</Text>
+      <Token Lemma="očekávaný" POS="AAIS1" Stem="očekávan">Očekávaný</Token>
+      <Token Lemma="útok" POS="NNIS1" Stem="útok">útok</Token>
+      <Token Lemma="drona" POS="NNFS2" Stem="dron">drona</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="5" POS="C" Stem="5">5</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Pákistán" POS="NNIS6" Stem="pákistán">Pákistánu</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dron spojených států zabil 5 lidí v Pákistánu</Text>
+      <Token Lemma="Dron" POS="NNIS1" Stem="dron">Dron</Token>
+      <Token Lemma="spojený" POS="AAIP2" Stem="spojen">spojených</Token>
+      <Token Lemma="stát" POS="NNIP2" Stem="stát">států</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="5" POS="C" Stem="5">5</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Pákistán" POS="NNIS6" Stem="pákistán">Pákistánu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="51">
+    <Sentence>
+      <Text>Ehud Olmert, bývalý premiér odsouzen na 6 let vězení za korupci.</Text>
+      <Token Lemma="Ehud" POS="NNMS1" Stem="ehud">Ehud</Token>
+      <Token Lemma="Olmert" POS="NNMS1" Stem="olmert">Olmert</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="bývalý" POS="AAMS1" Stem="býval">bývalý</Token>
+      <Token Lemma="premiér" POS="NNMS1" Stem="premiér">premiér</Token>
+      <Token Lemma="odsoudit" POS="VsYS" Stem="odsouzen">odsouzen</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="6" POS="C" Stem="6">6</Token>
+      <Token Lemma="rok" POS="NNNP2" Stem="let">let</Token>
+      <Token Lemma="vězení" POS="NNNS2" Stem="vězen">vězení</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="korupce" POS="NNFS4" Stem="korupk">korupci</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Ehud Olmert odsouzen na šest let v Izraeli.</Text>
+      <Token Lemma="Ehud" POS="NNIS1" Stem="ehud">Ehud</Token>
+      <Token Lemma="Olmert" POS="VB" Stem="olmert">Olmert</Token>
+      <Token Lemma="odsoudit" POS="VsYS" Stem="odsouzen">odsouzen</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="šest" POS="Cn" Stem="šest">šest</Token>
+      <Token Lemma="rok" POS="NNNP2" Stem="let">let</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Izrael" POS="NNIS6" Stem="izrael">Izraeli</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="52">
+    <Sentence>
+      <Text>Brahimi se omlouvá Sýrii nad nedostatkem progresu ohledně míru.</Text>
+      <Token Lemma="Brahimi" POS="NNFS1" Stem="brahi">Brahimi</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="omlouvat" POS="VB" Stem="omlouv">omlouvá</Token>
+      <Token Lemma="Sýrie" POS="NNFS3" Stem="sýri">Sýrii</Token>
+      <Token Lemma="nad" POS="RR" Stem="nad">nad</Token>
+      <Token Lemma="nedostatek" POS="NNIS7" Stem="nedostatk">nedostatkem</Token>
+      <Token Lemma="progresu" POS="Vf" Stem="progres">progresu</Token>
+      <Token Lemma="ohledně" POS="RR" Stem="ohledn">ohledně</Token>
+      <Token Lemma="mír" POS="NNIS2" Stem="mír">míru</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Prostředník se omlouvá Sýrii za nedostatek progresu ohledně míru.</Text>
+      <Token Lemma="Prostředník" POS="NNFS1" Stem="prostředník">Prostředník</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="omlouvat" POS="VB" Stem="omlouv">omlouvá</Token>
+      <Token Lemma="Sýrie" POS="NNFS4" Stem="sýri">Sýrii</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="nedostatek" POS="NNIS4" Stem="nedostatek">nedostatek</Token>
+      <Token Lemma="progresu" POS="NNMS2" Stem="progres">progresu</Token>
+      <Token Lemma="ohledně" POS="RR" Stem="ohledn">ohledně</Token>
+      <Token Lemma="mír" POS="NNIS2" Stem="mír">míru</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="53">
+    <Sentence>
+      <Text>Egyptští protestanti dali Morsimu odvolací ultimátum.</Text>
+      <Token Lemma="egyptský" POS="AAMP1" Stem="egyptšt">Egyptští</Token>
+      <Token Lemma="protestant" POS="NNMP1" Stem="protestant">protestanti</Token>
+      <Token Lemma="dát" POS="VpMP" Stem="dal">dali</Token>
+      <Token Lemma="Morsimu" POS="Vf" Stem="mors">Morsimu</Token>
+      <Token Lemma="odvolací" POS="AAFS3" Stem="odvolac">odvolací</Token>
+      <Token Lemma="ultimátum" POS="NNNS1" Stem="ultimátum">ultimátum</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Ukrajinští protestanti bojují s policijí v nových střetech.</Text>
+      <Token Lemma="ukrajinský" POS="AAMP1" Stem="ukrajinšt">Ukrajinští</Token>
+      <Token Lemma="protestant" POS="NNMP1" Stem="protestant">protestanti</Token>
+      <Token Lemma="bojovat" POS="VB" Stem="bojuj">bojují</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="policijí" POS="C" Stem="policij">policijí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="nový" POS="AAIP6" Stem="nov">nových</Token>
+      <Token Lemma="střet" POS="NNIP6" Stem="střet">střetech</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="54">
+    <Sentence>
+      <Text>5 faktů o olympiádě v Sochi.</Text>
+      <Token Lemma="5" POS="C" Stem="5">5</Token>
+      <Token Lemma="fakt" POS="NNIP2" Stem="fakt">faktů</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="olympiáda" POS="NNFS6" Stem="olympiád">olympiádě</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Sochi" POS="C" Stem="soch">Sochi</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>7 faktů o ethanolu</Text>
+      <Token Lemma="7" POS="C" Stem="7">7</Token>
+      <Token Lemma="fakt" POS="NNIP2" Stem="fakt">faktů</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="ethanolu" POS="NNFS4" Stem="ethanol">ethanolu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="55">
+    <Sentence>
+      <Text>Akcie Číny otevírají nízko ve středu.</Text>
+      <Token Lemma="akcie" POS="NNFP1" Stem="akci">Akcie</Token>
+      <Token Lemma="Čína" POS="NNFS2" Stem="čín">Číny</Token>
+      <Token Lemma="otevírat" POS="VB" Stem="otevíraj">otevírají</Token>
+      <Token Lemma="nízko" POS="Dg" Stem="nízk">nízko</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="středa" POS="NNIS6" Stem="střed">středu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Akcie Číny zavírají nízko v pondělí.</Text>
+      <Token Lemma="akcie" POS="NNFP1" Stem="akci">Akcie</Token>
+      <Token Lemma="Čína" POS="NNFS2" Stem="čín">Číny</Token>
+      <Token Lemma="zavírat" POS="VB" Stem="zavíraj">zavírají</Token>
+      <Token Lemma="nízko" POS="Dg" Stem="nízk">nízko</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pondělí" POS="NNNS4" Stem="ponděl">pondělí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="56">
+    <Sentence>
+      <Text>Zpoždění raketového testu zvedlo v USA napětí.</Text>
+      <Token Lemma="Zpoždění" POS="NNIS1" Stem="zpožděn">Zpoždění</Token>
+      <Token Lemma="raketový" POS="AAIS2" Stem="raket">raketového</Token>
+      <Token Lemma="test" POS="NNIS2" Stem="test">testu</Token>
+      <Token Lemma="zvednout" POS="VpNS" Stem="zvedl">zvedlo</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="USA" POS="NNIPX" Stem="usa">USA</Token>
+      <Token Lemma="napětí" POS="NNNS4" Stem="napět">napětí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>William Hague: rozhodnutí zastavit raketový test v USA 'citlivé'</Text>
+      <Token Lemma="William" POS="NNMS1" Stem="william">William</Token>
+      <Token Lemma="Hague" POS="NNMS1" Stem="hagu">Hague</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="rozhodnutí" POS="NNNS1" Stem="rozhodnut">rozhodnutí</Token>
+      <Token Lemma="zastavit" POS="Vf" Stem="zastavit">zastavit</Token>
+      <Token Lemma="raketový" POS="AAIS4" Stem="raket">raketový</Token>
+      <Token Lemma="test" POS="NNIS4" Stem="test">test</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="USA" POS="NNIPX" Stem="usa">USA</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+      <Token Lemma="citlivý" POS="AAIP1" Stem="citliv">citlivé</Token>
+      <Token Lemma="'" POS="Z" Stem="'">'</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="57">
+    <Sentence>
+      <Text>Požár v Pekingu zabil 10 lidí.</Text>
+      <Token Lemma="požár" POS="NNIS1" Stem="požár">Požár</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Peking" POS="NNIS6" Stem="peking">Pekingu</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="10" POS="C" Stem="10">10</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Požár v Pekingu zabil deset lidí.</Text>
+      <Token Lemma="požár" POS="NNIS1" Stem="požár">Požár</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Peking" POS="NNIS6" Stem="peking">Pekingu</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="deset" POS="Cn" Stem="deset">deset</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="58">
+    <Sentence>
+      <Text>Nejstarší muž na světě umřel ve 116.</Text>
+      <Token Lemma="starý" POS="AAMS1" Stem="nejstarš">Nejstarší</Token>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">muž</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="svět" POS="NNIS6" Stem="svět">světě</Token>
+      <Token Lemma="umřít" POS="VpYS" Stem="umřel">umřel</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="116." POS="NNFS4" Stem="116.">116.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Japonsko: nejstarší muž na světě umřel ve věku 116 let.  </Text>
+      <Token Lemma="Japonsko" POS="NNNS1" Stem="japonsk">Japonsko</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="starý" POS="AAFS1" Stem="nejstarš">nejstarší</Token>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">muž</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="svět" POS="NNIS6" Stem="svět">světě</Token>
+      <Token Lemma="umřít" POS="VpYS" Stem="umřel">umřel</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="věk" POS="NNIS6" Stem="věk">věku</Token>
+      <Token Lemma="116" POS="C" Stem="116">116</Token>
+      <Token Lemma="rok" POS="NNNP2" Stem="let">let</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="59">
+    <Sentence>
+      <Text>Indie, Čína inkoustový hraniční pakt; 8 nových ujednání.</Text>
+      <Token Lemma="Indie" POS="NNFS1" Stem="indi">Indie</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="Čína" POS="NNFS1" Stem="čín">Čína</Token>
+      <Token Lemma="inkoustový" POS="VB" Stem="inkoust">inkoustový</Token>
+      <Token Lemma="hraniční" POS="AAIS4" Stem="hraničn">hraniční</Token>
+      <Token Lemma="pakt" POS="NNIS4" Stem="pakt">pakt</Token>
+      <Token Lemma=";" POS="Z" Stem=";">;</Token>
+      <Token Lemma="8" POS="C" Stem="8">8</Token>
+      <Token Lemma="nový" POS="AAMP2" Stem="nov">nových</Token>
+      <Token Lemma="ujednání" POS="NNNS1" Stem="ujednán">ujednání</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Indie, čína inkoustové ujednání na hraničních řekách.</Text>
+      <Token Lemma="Indie" POS="NNFS1" Stem="indi">Indie</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="čína" POS="AAFS1" Stem="čín">čína</Token>
+      <Token Lemma="inkoustové" POS="NNFS1" Stem="inkoust">inkoustové</Token>
+      <Token Lemma="ujednání" POS="NNNS2" Stem="ujednán">ujednání</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="hraniční" POS="AAIP6" Stem="hraničn">hraničních</Token>
+      <Token Lemma="řeka" POS="NNFP6" Stem="řek">řekách</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="60">
+    <Sentence>
+      <Text>3 mrtvý, 4 pohřešovaní ve střední číně po konstruční nehodě.</Text>
+      <Token Lemma="3" POS="C" Stem="3">3</Token>
+      <Token Lemma="mrtvý" POS="AAMS1" Stem="mrtv">mrtvý</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="4" POS="C" Stem="4">4</Token>
+      <Token Lemma="pohřešovaní" POS="NNIS1" Stem="pohřešovan">pohřešovaní</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="střední" POS="AAFS6" Stem="středn">střední</Token>
+      <Token Lemma="číně" POS="C" Stem="čín">číně</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="konstruční" POS="NNMS2" Stem="konstručn">konstruční</Token>
+      <Token Lemma="nehoda" POS="NNFS6" Stem="nehod">nehodě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Jeden mrtvý, 8 pohřešovaných ve Vietnamu po lodní nehodě.</Text>
+      <Token Lemma="jeden" POS="ClYS1" Stem="jeden">Jeden</Token>
+      <Token Lemma="mrtvý" POS="AAMS1" Stem="mrtv">mrtvý</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="8" POS="C" Stem="8">8</Token>
+      <Token Lemma="pohřešovaný" POS="AAMP2" Stem="pohřešovan">pohřešovaných</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="Vietnam" POS="NNIS6" Stem="vietnam">Vietnamu</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="lodní" POS="AAIS4" Stem="lodn">lodní</Token>
+      <Token Lemma="nehoda" POS="NNFS3" Stem="nehod">nehodě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="61">
+    <Sentence>
+      <Text>Pakistánci hlasují v mezních volbách.</Text>
+      <Token Lemma="Pakistánci" POS="NNFS4" Stem="pakistánk">Pakistánci</Token>
+      <Token Lemma="hlasovat" POS="VB" Stem="hlasuj">hlasují</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="mezních" POS="C" Stem="mezn">mezních</Token>
+      <Token Lemma="volba" POS="NNFP6" Stem="volb">volbách</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pakistán drží mezník voleb, jako 29 zabitých v útocích.</Text>
+      <Token Lemma="Pakistán" POS="NNIS1" Stem="pakistán">Pakistán</Token>
+      <Token Lemma="držet" POS="VB" Stem="drž">drží</Token>
+      <Token Lemma="mezník" POS="NNIS4" Stem="mezník">mezník</Token>
+      <Token Lemma="volba" POS="NNFP2" Stem="voleb">voleb</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="jako" POS="J" Stem="jak">jako</Token>
+      <Token Lemma="29" POS="C" Stem="29">29</Token>
+      <Token Lemma="zabitý" POS="AAMP2" Stem="zabit">zabitých</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="útok" POS="NNIP6" Stem="útoc">útocích</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="62">
+    <Sentence>
+      <Text>Venezuela vyloučí tři americké diplomaty.</Text>
+      <Token Lemma="Venezuela" POS="NNFS1" Stem="venezuel">Venezuela</Token>
+      <Token Lemma="vyloučit" POS="VB" Stem="vylouč">vyloučí</Token>
+      <Token Lemma="tři" POS="ClXP4" Stem="tři">tři</Token>
+      <Token Lemma="americký" POS="AAMP4" Stem="americk">americké</Token>
+      <Token Lemma="diplomat" POS="NNMP4" Stem="diplom">diplomaty</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Venezuela vyloučí 3 americké diplomaty.</Text>
+      <Token Lemma="Venezuela" POS="NNFS1" Stem="venezuel">Venezuela</Token>
+      <Token Lemma="vyloučit" POS="VB" Stem="vylouč">vyloučí</Token>
+      <Token Lemma="3" POS="C" Stem="3">3</Token>
+      <Token Lemma="americký" POS="AANS4" Stem="americk">americké</Token>
+      <Token Lemma="diplomat" POS="NNMP4" Stem="diplom">diplomaty</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="63">
+    <Sentence>
+      <Text>Těžký smog zasáhl severní Čínské město, lety jsou zrušeny.</Text>
+      <Token Lemma="těžký" POS="AAIS1" Stem="těžk">Těžký</Token>
+      <Token Lemma="smog" POS="NNIS1" Stem="smog">smog</Token>
+      <Token Lemma="zasáhnout" POS="VpYS" Stem="zasáhl">zasáhl</Token>
+      <Token Lemma="severní" POS="AAFS4" Stem="severn">severní</Token>
+      <Token Lemma="čínský" POS="AANS1" Stem="čínsk">Čínské</Token>
+      <Token Lemma="město" POS="NNNS1" Stem="měst">město</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="rok" POS="NNIP1" Stem="let">lety</Token>
+      <Token Lemma="být" POS="VB" Stem="jso">jsou</Token>
+      <Token Lemma="zrušit" POS="VsTP" Stem="zrušen">zrušeny</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Těžký smog zasáhl severní Čínské město, lety jsou zrušeny.</Text>
+      <Token Lemma="těžký" POS="AAIS1" Stem="těžk">Těžký</Token>
+      <Token Lemma="smog" POS="NNIS1" Stem="smog">smog</Token>
+      <Token Lemma="zasáhnout" POS="VpYS" Stem="zasáhl">zasáhl</Token>
+      <Token Lemma="severní" POS="AAFS4" Stem="severn">severní</Token>
+      <Token Lemma="čínský" POS="AANS1" Stem="čínsk">Čínské</Token>
+      <Token Lemma="město" POS="NNNS1" Stem="měst">město</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="rok" POS="NNIP1" Stem="let">lety</Token>
+      <Token Lemma="být" POS="VB" Stem="jso">jsou</Token>
+      <Token Lemma="zrušit" POS="VsTP" Stem="zrušen">zrušeny</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="64">
+    <Sentence>
+      <Text>Rusko tvrdí, že zmařilo možný teroristický čin.</Text>
+      <Token Lemma="Rusko" POS="NNNS1" Stem="rusk">Rusko</Token>
+      <Token Lemma="tvrdit" POS="VB" Stem="tvrd">tvrdí</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="že" POS="J" Stem="že">že</Token>
+      <Token Lemma="zmařilo" POS="Vf" Stem="zmařil">zmařilo</Token>
+      <Token Lemma="možný" POS="AAIS4" Stem="možn">možný</Token>
+      <Token Lemma="teroristický" POS="AAIS4" Stem="teroristick">teroristický</Token>
+      <Token Lemma="čin" POS="NNIS4" Stem="čin">čin</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Rusko tvrdí, balistické objekty vystřeleny v Meditarenu.</Text>
+      <Token Lemma="Rusko" POS="NNNS1" Stem="rusk">Rusko</Token>
+      <Token Lemma="tvrdit" POS="VB" Stem="tvrd">tvrdí</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="balistický" POS="AAIP1" Stem="balistick">balistické</Token>
+      <Token Lemma="objekt" POS="NNIP1" Stem="objekt">objekty</Token>
+      <Token Lemma="vystřeleny" POS="NNFS2" Stem="vystřelen">vystřeleny</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Meditarenu" POS="C" Stem="meditaren">Meditarenu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="65">
+    <Sentence>
+      <Text>3 Čínští turisti zabiti v Pákistánu.</Text>
+      <Token Lemma="3" POS="C" Stem="3">3</Token>
+      <Token Lemma="čínský" POS="AAMP1" Stem="čínšt">Čínští</Token>
+      <Token Lemma="turisti" POS="Vf" Stem="turist">turisti</Token>
+      <Token Lemma="zabít" POS="VsMP" Stem="zabit">zabiti</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Pákistán" POS="NNIS6" Stem="pákistán">Pákistánu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Sedm únosců zabito v jižní Nigerii.</Text>
+      <Token Lemma="sedm" POS="Cn" Stem="sedm">Sedm</Token>
+      <Token Lemma="únosců" POS="VB" Stem="únosc">únosců</Token>
+      <Token Lemma="zabít" POS="VsNS" Stem="zabit">zabito</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jižní" POS="AAFS6" Stem="jižn">jižní</Token>
+      <Token Lemma="Nigerii" POS="C" Stem="nigeri">Nigerii</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="66">
+    <Sentence>
+      <Text>Sedmý světový pohár v Keni na dosah.</Text>
+      <Token Lemma="sedmý" POS="AAIS4" Stem="sedm">Sedmý</Token>
+      <Token Lemma="světový" POS="AAIS4" Stem="svět">světový</Token>
+      <Token Lemma="pohár" POS="NNIS4" Stem="pohár">pohár</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Keňa" POS="NNFS6" Stem="ken">Keni</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="dosah" POS="NNIS4" Stem="dosah">dosah</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Střet stylů u soudu otevře soud ve věci smrti mladého muže.</Text>
+      <Token Lemma="střet" POS="NNIS1" Stem="střet">Střet</Token>
+      <Token Lemma="styl" POS="NNIP2" Stem="styl">stylů</Token>
+      <Token Lemma="u" POS="RR" Stem="u">u</Token>
+      <Token Lemma="soud" POS="NNIS2" Stem="soud">soudu</Token>
+      <Token Lemma="otevřít" POS="VB" Stem="otevř">otevře</Token>
+      <Token Lemma="soud" POS="NNIS4" Stem="soud">soud</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="věc" POS="NNFS6" Stem="věk">věci</Token>
+      <Token Lemma="smrt" POS="NNFS2" Stem="smrt">smrti</Token>
+      <Token Lemma="mladý" POS="AAMS2" Stem="mlad">mladého</Token>
+      <Token Lemma="muž" POS="NNMS2" Stem="muh">muže</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="67">
+    <Sentence>
+      <Text>USA, Čína selhali v nápravě vazeb.</Text>
+      <Token Lemma="USA" POS="NNIPX" Stem="usa">USA</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="Čína" POS="NNFS1" Stem="čín">Čína</Token>
+      <Token Lemma="selhali" POS="AAFS1" Stem="selhal">selhali</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="náprava" POS="NNFS6" Stem="náprav">nápravě</Token>
+      <Token Lemma="vazba" POS="NNFP2" Stem="vazeb">vazeb</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Čína: pokles v nasazení, jak se víra k nalezení popohřešovaných se rozplývá.</Text>
+      <Token Lemma="Čína" POS="NNFS1" Stem="čín">Čína</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="pokles" POS="NNIS1" Stem="pok">pokles</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="nasazení" POS="NNNS6" Stem="nasazen">nasazení</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="jak" POS="Db" Stem="jak">jak</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="víra" POS="NNFS1" Stem="vír">víra</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="nalezení" POS="NNNS3" Stem="nalezen">nalezení</Token>
+      <Token Lemma="popohřešovaných" POS="NNFS2" Stem="popohřešovan">popohřešovaných</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="rozplývat" POS="VB" Stem="rozplýv">rozplývá</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="68">
+    <Sentence>
+      <Text>Ozbrojenec zabil 10 cizinců v severním pakistánu.</Text>
+      <Token Lemma="Ozbrojenec" POS="NNIS1" Stem="ozbrojenec">Ozbrojenec</Token>
+      <Token Lemma="zabít" POS="VpYS" Stem="zabil">zabil</Token>
+      <Token Lemma="10" POS="C" Stem="10">10</Token>
+      <Token Lemma="cizinec" POS="NNMP2" Stem="cizinc">cizinců</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="severní" POS="AAIS6" Stem="sever">severním</Token>
+      <Token Lemma="pakistánu" POS="C" Stem="pakistán">pakistánu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Islámský militanti zabili 9 zahraničních turistů a 1 Pakistánce </Text>
+      <Token Lemma="islámský" POS="AAIS1" Stem="islámsk">Islámský</Token>
+      <Token Lemma="militanti" POS="NNIS1" Stem="militant">militanti</Token>
+      <Token Lemma="zabít" POS="VpMP" Stem="zabil">zabili</Token>
+      <Token Lemma="9" POS="C" Stem="9">9</Token>
+      <Token Lemma="zahraniční" POS="AAMP2" Stem="zahraničn">zahraničních</Token>
+      <Token Lemma="turista" POS="NNMP2" Stem="turist">turistů</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="1" POS="C" Stem="1">1</Token>
+      <Token Lemma="Pakistánce" POS="NNFS2" Stem="pakistánk">Pakistánce</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="69">
+    <Sentence>
+      <Text>Rakušani našli nahromaděných 56 ukradených lebek v domácím muzeu.</Text>
+      <Token Lemma="Rakušani" POS="NNFS4" Stem="rakušan">Rakušani</Token>
+      <Token Lemma="najít" POS="VpMP" Stem="našl">našli</Token>
+      <Token Lemma="nahromaděný" POS="AAIP2" Stem="nahromaděn">nahromaděných</Token>
+      <Token Lemma="56" POS="C" Stem="56">56</Token>
+      <Token Lemma="ukradený" POS="AAIP2" Stem="ukraden">ukradených</Token>
+      <Token Lemma="lebek" POS="C" Stem="lebek">lebek</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="domácí" POS="AANS6" Stem="domá">domácím</Token>
+      <Token Lemma="muzeum" POS="NNNS6" Stem="muze">muzeu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Ukradené lebky nalezeny v domácím muzeu.</Text>
+      <Token Lemma="Ukradené" POS="NNIS1" Stem="ukraden">Ukradené</Token>
+      <Token Lemma="lebka" POS="NNFS2" Stem="lebk">lebky</Token>
+      <Token Lemma="naleznout" POS="VsTP" Stem="nalezen">nalezeny</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="domácí" POS="AANS6" Stem="domá">domácím</Token>
+      <Token Lemma="muzeum" POS="NNNS6" Stem="muze">muzeu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="70">
+    <Sentence>
+      <Text>Egypt zahájil ofensivu proti sinajským militantům.</Text>
+      <Token Lemma="Egypt" POS="NNIS1" Stem="egypt">Egypt</Token>
+      <Token Lemma="zahájit" POS="VpYS" Stem="zahájil">zahájil</Token>
+      <Token Lemma="ofensivu" POS="Vf" Stem="ofensiv">ofensivu</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="sinajským" POS="C" Stem="sinajsk">sinajským</Token>
+      <Token Lemma="militantům" POS="C" Stem="militant">militantům</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Egypt zahájil ofenzivu proti sinajským povstalcům.</Text>
+      <Token Lemma="Egypt" POS="NNIS1" Stem="egypt">Egypt</Token>
+      <Token Lemma="zahájit" POS="VpYS" Stem="zahájil">zahájil</Token>
+      <Token Lemma="ofenziva" POS="NNFS4" Stem="ofenziv">ofenzivu</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="sinajským" POS="C" Stem="sinajsk">sinajským</Token>
+      <Token Lemma="povstalec" POS="NNMP3" Stem="povstalc">povstalcům</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="71">
+    <Sentence>
+      <Text>Nahrávací nastavení jihozápadně po tepelné vně se ukázalo fatální.</Text>
+      <Token Lemma="Nahrávací" POS="NNFS1" Stem="nahrávac">Nahrávací</Token>
+      <Token Lemma="nastavení" POS="NNNS1" Stem="nastaven">nastavení</Token>
+      <Token Lemma="jihozápadně" POS="Dg" Stem="jihozápadn">jihozápadně</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="tepelný" POS="AAFP4" Stem="tepeln">tepelné</Token>
+      <Token Lemma="vně" POS="RR" Stem="vně">vně</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="ukázat" POS="VpNS" Stem="ukázal">ukázalo</Token>
+      <Token Lemma="fatální" POS="AAFS7" Stem="fatáln">fatální</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Minimálně jeden mrtvý, 40 hospitalizovaných na jihozápadě po tepelné vlně.</Text>
+      <Token Lemma="minimálně" POS="Dg" Stem="minimáln">Minimálně</Token>
+      <Token Lemma="jeden" POS="ClYS1" Stem="jeden">jeden</Token>
+      <Token Lemma="mrtvý" POS="AAMS1" Stem="mrtv">mrtvý</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="40" POS="C" Stem="40">40</Token>
+      <Token Lemma="hospitalizovaný" POS="AAMP2" Stem="hospitalizovan">hospitalizovaných</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="jihozápad" POS="NNIS6" Stem="jihozápad">jihozápadě</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="tepelný" POS="AAFP4" Stem="tepeln">tepelné</Token>
+      <Token Lemma="vlna" POS="NNFS3" Stem="vln">vlně</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="72">
+    <Sentence>
+      <Text>Detroit je zodpovědný za ochranu proti bankrotu: soudce USA.</Text>
+      <Token Lemma="Detroit" POS="NNIS1" Stem="detroit">Detroit</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="zodpovědný" POS="AAIS1" Stem="zodpovědn">zodpovědný</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="ochrana" POS="NNFS4" Stem="ochran">ochranu</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="bankrot" POS="NNIS3" Stem="bankrot">bankrotu</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="soudce" POS="NNMS1" Stem="soudk">soudce</Token>
+      <Token Lemma="USA" POS="NNIPX" Stem="usa">USA</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Detroit je zodpovědný za ochranu proti bankrotu.</Text>
+      <Token Lemma="Detroit" POS="NNIS1" Stem="detroit">Detroit</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="zodpovědný" POS="AAIS1" Stem="zodpovědn">zodpovědný</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="ochrana" POS="NNFS4" Stem="ochran">ochranu</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="bankrot" POS="NNIS3" Stem="bankrot">bankrotu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="73">
+    <Sentence>
+      <Text>Alegeriiský prezident je na terapii po infarktu: státní media.</Text>
+      <Token Lemma="Alegeriiský" POS="NNMS1" Stem="alegeriisk">Alegeriiský</Token>
+      <Token Lemma="prezident" POS="NNMS1" Stem="prezident">prezident</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="terapie" POS="NNFS4" Stem="terapi">terapii</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="infarkt" POS="NNIS6" Stem="infarkt">infarktu</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="státní" POS="AAMS1" Stem="státn">státní</Token>
+      <Token Lemma="medium" POS="NNNP1" Stem="medi">media</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Bulharský prezident zkouší zlomit pat ve volbách.</Text>
+      <Token Lemma="Bulharský" POS="NNMS1" Stem="bulharsk">Bulharský</Token>
+      <Token Lemma="prezident" POS="NNMS1" Stem="prezident">prezident</Token>
+      <Token Lemma="zkoušet" POS="VB" Stem="zkouš">zkouší</Token>
+      <Token Lemma="zlomit" POS="Vf" Stem="zlomit">zlomit</Token>
+      <Token Lemma="pat" POS="NNIS1" Stem="pat">pat</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="volba" POS="NNFP6" Stem="volb">volbách</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="74">
+    <Sentence>
+      <Text>Britský výherce nobelovi ceny, autor Doris Lessing umřel.</Text>
+      <Token Lemma="britský" POS="AAMS1" Stem="britsk">Britský</Token>
+      <Token Lemma="výherce" POS="NNMS1" Stem="výherk">výherce</Token>
+      <Token Lemma="nobelovi" POS="NNMS2" Stem="nobel">nobelovi</Token>
+      <Token Lemma="cena" POS="NNFS2" Stem="cen">ceny</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="autor" POS="NNMS1" Stem="autor">autor</Token>
+      <Token Lemma="Doris" POS="NNMS1" Stem="doris">Doris</Token>
+      <Token Lemma="Lessing" POS="NNMS1" Stem="lessing">Lessing</Token>
+      <Token Lemma="umřít" POS="VpYS" Stem="umřel">umřel</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Výherce nobelovi ceny, autor Doris Lessing umřel.</Text>
+      <Token Lemma="výherce" POS="NNMS4" Stem="výherk">Výherce</Token>
+      <Token Lemma="nobelovi" POS="NNMS2" Stem="nobel">nobelovi</Token>
+      <Token Lemma="cena" POS="NNFS2" Stem="cen">ceny</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="autor" POS="NNMS1" Stem="autor">autor</Token>
+      <Token Lemma="Doris" POS="NNMS1" Stem="doris">Doris</Token>
+      <Token Lemma="Lessing" POS="NNMS1" Stem="lessing">Lessing</Token>
+      <Token Lemma="umřít" POS="VpYS" Stem="umřel">umřel</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="75">
+    <Sentence>
+      <Text>Úřady israelské vlády, nové vyrovnání před před projednáním.</Text>
+      <Token Lemma="úřad" POS="NNIP1" Stem="úřad">Úřady</Token>
+      <Token Lemma="israelské" POS="NNFS2" Stem="israelsk">israelské</Token>
+      <Token Lemma="vláda" POS="NNFS2" Stem="vlád">vlády</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="nový" POS="AANS4" Stem="nov">nové</Token>
+      <Token Lemma="vyrovnání" POS="NNNS4" Stem="vyrovnán">vyrovnání</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="projednání" POS="NNNS7" Stem="projedná">projednáním</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>israel vylepšuje nová vyrovnání, doma před mírovým projednáním.</Text>
+      <Token Lemma="israel" POS="NNFS1" Stem="israel">israel</Token>
+      <Token Lemma="vylepšovat" POS="VB" Stem="vylepšuj">vylepšuje</Token>
+      <Token Lemma="nový" POS="AAFS1" Stem="nov">nová</Token>
+      <Token Lemma="vyrovnání" POS="NNNS1" Stem="vyrovnán">vyrovnání</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="doma" POS="Db" Stem="dom">doma</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="mírový" POS="AAIS7" Stem="mírov">mírovým</Token>
+      <Token Lemma="projednání" POS="NNNS7" Stem="projedná">projednáním</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="76">
+    <Sentence>
+      <Text>Světový pohár živě: Francie 0-0 Německo.</Text>
+      <Token Lemma="světový" POS="AAIS1" Stem="svět">Světový</Token>
+      <Token Lemma="pohár" POS="NNIS1" Stem="pohár">pohár</Token>
+      <Token Lemma="živě" POS="Dg" Stem="živ">živě</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="Francie" POS="NNFS1" Stem="franci">Francie</Token>
+      <Token Lemma="0" POS="C" Stem="0">0</Token>
+      <Token Lemma="-" POS="Z" Stem="-">-</Token>
+      <Token Lemma="0" POS="C" Stem="0">0</Token>
+      <Token Lemma="Německo" POS="NNNS1" Stem="německ">Německo</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Světový pohár živě: Německo 0-0 Ghana.</Text>
+      <Token Lemma="světový" POS="AAIS1" Stem="svět">Světový</Token>
+      <Token Lemma="pohár" POS="NNIS1" Stem="pohár">pohár</Token>
+      <Token Lemma="živě" POS="Dg" Stem="živ">živě</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="Německo" POS="NNNS1" Stem="německ">Německo</Token>
+      <Token Lemma="0" POS="C" Stem="0">0</Token>
+      <Token Lemma="-" POS="Z" Stem="-">-</Token>
+      <Token Lemma="0" POS="C" Stem="0">0</Token>
+      <Token Lemma="Ghana" POS="C" Stem="ghan">Ghana</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="77">
+    <Sentence>
+      <Text>Tokyo bude hostit hry v roce 2020.</Text>
+      <Token Lemma="Tokyo" POS="NNIS1" Stem="toky">Tokyo</Token>
+      <Token Lemma="být" POS="VB" Stem="bud">bude</Token>
+      <Token Lemma="hostit" POS="Vf" Stem="hostit">hostit</Token>
+      <Token Lemma="hra" POS="NNFP4" Stem="hry">hry</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="rok" POS="NNIS6" Stem="rok">roce</Token>
+      <Token Lemma="2020." POS="C" Stem="2020.">2020.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Tokyo vyhrálo závody o hostování onlimpijských her v roce 2020.</Text>
+      <Token Lemma="Tokyo" POS="NNFS4" Stem="toky">Tokyo</Token>
+      <Token Lemma="vyhrát" POS="VpNS" Stem="vyhrál">vyhrálo</Token>
+      <Token Lemma="závod" POS="NNIP4" Stem="závod">závody</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="hostování" POS="NNNS4" Stem="hostován">hostování</Token>
+      <Token Lemma="onlimpijských" POS="C" Stem="onlimpijsk">onlimpijských</Token>
+      <Token Lemma="hra" POS="NNFP2" Stem="her">her</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="rok" POS="NNIS6" Stem="rok">roce</Token>
+      <Token Lemma="2020." POS="C" Stem="2020.">2020.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="78">
+    <Sentence>
+      <Text>Pákistánský Talibanský velitel zabit při útoku amerického dronu.</Text>
+      <Token Lemma="pákistánský" POS="AAIS1" Stem="pákistánsk">Pákistánský</Token>
+      <Token Lemma="Talibanský" POS="NNIS1" Stem="talibansk">Talibanský</Token>
+      <Token Lemma="velitel" POS="NNMS1" Stem="velitel">velitel</Token>
+      <Token Lemma="zabít" POS="VsYS" Stem="zabit">zabit</Token>
+      <Token Lemma="při" POS="RR" Stem="při">při</Token>
+      <Token Lemma="útok" POS="NNIS6" Stem="útok">útoku</Token>
+      <Token Lemma="americký" POS="AAMS2" Stem="americk">amerického</Token>
+      <Token Lemma="dronu" POS="NNMS2" Stem="dron">dronu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pohřeb pro Pákistánského Talibanského vůdce‚ který se uskuteční.</Text>
+      <Token Lemma="pohřeb" POS="NNIS1" Stem="pohřeb">Pohřeb</Token>
+      <Token Lemma="pro" POS="RR" Stem="pro">pro</Token>
+      <Token Lemma="Pákistánského" POS="NNFS4" Stem="pákistánsk">Pákistánského</Token>
+      <Token Lemma="Talibanského" POS="NNMS2" Stem="talibansk">Talibanského</Token>
+      <Token Lemma="vůdce" POS="NNMS2" Stem="vůdk">vůdce</Token>
+      <Token Lemma="který" POS="P4YS1" Stem="kter">který</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="uskutečnit" POS="VB" Stem="uskutečn">uskuteční</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="79">
+    <Sentence>
+      <Text>Putin podepisuje krymský dodatek úmluvy</Text>
+      <Token Lemma="Putin" POS="NNFS1" Stem="putin">Putin</Token>
+      <Token Lemma="podepisovat" POS="VB" Stem="podepisuj">podepisuje</Token>
+      <Token Lemma="krymský" POS="Vf" Stem="krymsk">krymský</Token>
+      <Token Lemma="dodatek" POS="NNIS4" Stem="dodatek">dodatek</Token>
+      <Token Lemma="úmluva" POS="NNFS2" Stem="úmluv">úmluvy</Token>
+    </Sentence>
+    <Sentence>
+      <Text>09:32 Putin ukončuje anexi Krymu</Text>
+      <Token Lemma="09" POS="C" Stem="09">09</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="32" POS="C" Stem="32">32</Token>
+      <Token Lemma="Putin" POS="NNIS1" Stem="putin">Putin</Token>
+      <Token Lemma="ukončovat" POS="VB" Stem="ukončuj">ukončuje</Token>
+      <Token Lemma="anexe" POS="NNFS3" Stem="anex">anexi</Token>
+      <Token Lemma="Krymu" POS="Vf" Stem="krym">Krymu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="80">
+    <Sentence>
+      <Text>FAA pokračuje v zákazu US letů do Tel Avivu</Text>
+      <Token Lemma="FAA" POS="NNIS1" Stem="faa">FAA</Token>
+      <Token Lemma="pokračovat" POS="VB" Stem="pokračuj">pokračuje</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="zákaz" POS="NNIS6" Stem="zákaz">zákazu</Token>
+      <Token Lemma="US" POS="AAXXX" Stem="us">US</Token>
+      <Token Lemma="let" POS="NNIP2" Stem="let">letů</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="Tel" POS="NNIXX" Stem="tel">Tel</Token>
+      <Token Lemma="Aviv" POS="NNIS2" Stem="aviv">Avivu</Token>
+    </Sentence>
+    <Sentence>
+      <Text>FAA ruší zákaz U.S. letů do Tel Avivu</Text>
+      <Token Lemma="FAA" POS="NNIS1" Stem="faa">FAA</Token>
+      <Token Lemma="rušit" POS="VB" Stem="ruš">ruší</Token>
+      <Token Lemma="zákaz" POS="NNIS4" Stem="zákaz">zákaz</Token>
+      <Token Lemma="u" POS="RR" Stem="u">U</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+      <Token Lemma="S" POS="NNFXX" Stem="s">S</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+      <Token Lemma="let" POS="NNIP2" Stem="let">letů</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="Tel" POS="NNIXX" Stem="tel">Tel</Token>
+      <Token Lemma="Aviv" POS="NNIS2" Stem="aviv">Avivu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="81">
+    <Sentence>
+      <Text>Francie varuje před radikály (extremisty) těžícími z egyptských násilností</Text>
+      <Token Lemma="Francie" POS="NNFS1" Stem="franci">Francie</Token>
+      <Token Lemma="varovat" POS="VB" Stem="varuj">varuje</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="radikál" POS="NNIP7" Stem="radikál">radikály</Token>
+      <Token Lemma="(" POS="Z" Stem="(">(</Token>
+      <Token Lemma="extremista" POS="NNMP7" Stem="extremist">extremisty</Token>
+      <Token Lemma=")" POS="Z" Stem=")">)</Token>
+      <Token Lemma="těžícími" POS="VB" Stem="těžíc">těžícími</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="egyptský" POS="AAFP2" Stem="egyptsk">egyptských</Token>
+      <Token Lemma="násilnost" POS="NNFP2" Stem="násilnost">násilností</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Francie se obává, že extrémisté budou těžit z egyptských násilností</Text>
+      <Token Lemma="Francie" POS="NNFS1" Stem="franci">Francie</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="obávat" POS="VB" Stem="obáv">obává</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="že" POS="J" Stem="že">že</Token>
+      <Token Lemma="extremista" POS="NNMP1" Stem="extrémist">extrémisté</Token>
+      <Token Lemma="být" POS="VB" Stem="bud">budou</Token>
+      <Token Lemma="těžit" POS="Vf" Stem="těžit">těžit</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="egyptský" POS="AAFP2" Stem="egyptsk">egyptských</Token>
+      <Token Lemma="násilnost" POS="NNFP2" Stem="násilnost">násilností</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="82">
+    <Sentence>
+      <Text>Čínští vyslanci vyvracejí vietnamské, filipínské obvinění kvůli Severočínskému moři</Text>
+      <Token Lemma="čínský" POS="AAMP1" Stem="čínšt">Čínští</Token>
+      <Token Lemma="vyslanec" POS="NNMP1" Stem="vyslank">vyslanci</Token>
+      <Token Lemma="vyvracet" POS="VB" Stem="vyvracej">vyvracejí</Token>
+      <Token Lemma="vietnamský" POS="AAFS2" Stem="vietnamsk">vietnamské</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="filipínský" POS="AAFS2" Stem="filipínsk">filipínské</Token>
+      <Token Lemma="obvinění" POS="NNNS1" Stem="obviněn">obvinění</Token>
+      <Token Lemma="kvůli" POS="RR" Stem="kvůl">kvůli</Token>
+      <Token Lemma="Severočínskému" POS="C" Stem="severočínsk">Severočínskému</Token>
+      <Token Lemma="moře" POS="NNNS3" Stem="moř">moři</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Čínský Xi říká Vietnamu, že chce mír v Jihočínském moři</Text>
+      <Token Lemma="čínský" POS="AAIS1" Stem="čínsk">Čínský</Token>
+      <Token Lemma="Xi" POS="NNIS1" Stem="xi">Xi</Token>
+      <Token Lemma="říkat" POS="VB" Stem="řík">říká</Token>
+      <Token Lemma="Vietnam" POS="NNIS3" Stem="vietnam">Vietnamu</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="že" POS="J" Stem="že">že</Token>
+      <Token Lemma="chtít" POS="VB" Stem="chk">chce</Token>
+      <Token Lemma="mír" POS="NNIS4" Stem="mír">mír</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Jihočínském" POS="NNFS4" Stem="jihočíns">Jihočínském</Token>
+      <Token Lemma="moře" POS="NNNS3" Stem="moř">moři</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="83">
+    <Sentence>
+      <Text>Čtyři lidé zatčení při největším australském ilegálním dovozu tabáku syndicate</Text>
+      <Token Lemma="čtyři" POS="ClXP1" Stem="čtyř">Čtyři</Token>
+      <Token Lemma="člověk" POS="NNMP1" Stem="lid">lidé</Token>
+      <Token Lemma="zatčení" POS="NNNP2" Stem="zatčen">zatčení</Token>
+      <Token Lemma="při" POS="RR" Stem="při">při</Token>
+      <Token Lemma="velký" POS="AAIS6" Stem="největ">největším</Token>
+      <Token Lemma="australský" POS="AAIS6" Stem="australs">australském</Token>
+      <Token Lemma="ilegální" POS="AAIS6" Stem="ilegál">ilegálním</Token>
+      <Token Lemma="dovoz" POS="NNIS6" Stem="dovoz">dovozu</Token>
+      <Token Lemma="tabák" POS="NNIS2" Stem="tabák">tabáku</Token>
+      <Token Lemma="syndicate" POS="NNMS2" Stem="syndicat">syndicate</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Policie se zaměřuje na ilegální tabákový syndikát</Text>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">Policie</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="zaměřovat" POS="VB" Stem="zaměřuj">zaměřuje</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="ilegální" POS="AAMP4" Stem="ilegáln">ilegální</Token>
+      <Token Lemma="tabákový" POS="AAIP4" Stem="tabák">tabákový</Token>
+      <Token Lemma="syndikát" POS="AAFS1" Stem="syndikát">syndikát</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="84">
+    <Sentence>
+      <Text>Jemen: bitva na severu zabito přes 120 lidí </Text>
+      <Token Lemma="Jemen" POS="NNIS1" Stem="jemen">Jemen</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="bitva" POS="NNFS1" Stem="bitv">bitva</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="sever" POS="NNIS6" Stem="sever">severu</Token>
+      <Token Lemma="zabít" POS="VsNS" Stem="zabit">zabito</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="120" POS="C" Stem="120">120</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Janet Yellen: pět věcí, které by jste nemuseli vědět</Text>
+      <Token Lemma="Janet" POS="NNFXX" Stem="janet">Janet</Token>
+      <Token Lemma="Yellen" POS="NNFS1" Stem="yellen">Yellen</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="pět" POS="Cn" Stem="pět">pět</Token>
+      <Token Lemma="věc" POS="NNFP2" Stem="věc">věcí</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="který" POS="P4FP1" Stem="kter">které</Token>
+      <Token Lemma="být" POS="Vc" Stem="by">by</Token>
+      <Token Lemma="být" POS="VB" Stem="jst">jste</Token>
+      <Token Lemma="muset" POS="VpMP" Stem="nemusel">nemuseli</Token>
+      <Token Lemma="vědět" POS="Vf" Stem="vědět">vědět</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="85">
+    <Sentence>
+      <Text>Obama se přesune k naplnění federálního úřadu, Fischer bude číslo 2</Text>
+      <Token Lemma="Obama" POS="NNFS1" Stem="obam">Obama</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="přesunout" POS="VB" Stem="přesun">přesune</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="naplnění" POS="NNNS3" Stem="naplněn">naplnění</Token>
+      <Token Lemma="federální" POS="AAIS2" Stem="federáln">federálního</Token>
+      <Token Lemma="úřad" POS="NNIS2" Stem="úřad">úřadu</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="Fischer" POS="NNMS1" Stem="fischer">Fischer</Token>
+      <Token Lemma="být" POS="VB" Stem="bud">bude</Token>
+      <Token Lemma="číslo" POS="NNNS1" Stem="čísl">číslo</Token>
+      <Token Lemma="2" POS="C" Stem="2">2</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Obama je ochotný mluvit s GOP o rozpočtu</Text>
+      <Token Lemma="Obama" POS="NNMS1" Stem="obam">Obama</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="ochotný" POS="AAMS1" Stem="ochotn">ochotný</Token>
+      <Token Lemma="mluvit" POS="Vf" Stem="mluvit">mluvit</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="GOP" POS="C" Stem="gop">GOP</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="rozpočet" POS="NNIS6" Stem="rozpočt">rozpočtu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="86">
+    <Sentence>
+      <Text>Pákistánský Musharraf obviněn z Bhuttovo vraždy</Text>
+      <Token Lemma="pákistánský" POS="AAIS1" Stem="pákistánsk">Pákistánský</Token>
+      <Token Lemma="Musharraf" POS="NNIS1" Stem="musharraf">Musharraf</Token>
+      <Token Lemma="obvinit" POS="VsYS" Stem="obviněn">obviněn</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="Bhuttovo" POS="NNFS2" Stem="bhutt">Bhuttovo</Token>
+      <Token Lemma="vražda" POS="NNFS2" Stem="vražd">vraždy</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pákistánský Musharraf obviněn z Bhuttovo smrti</Text>
+      <Token Lemma="pákistánský" POS="AAIS1" Stem="pákistánsk">Pákistánský</Token>
+      <Token Lemma="Musharraf" POS="NNIS1" Stem="musharraf">Musharraf</Token>
+      <Token Lemma="obvinit" POS="VsYS" Stem="obviněn">obviněn</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="Bhuttovo" POS="NNFS2" Stem="bhutt">Bhuttovo</Token>
+      <Token Lemma="smrt" POS="NNFS2" Stem="smrt">smrti</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="87">
+    <Sentence>
+      <Text>Íránský prezident odsuzuje použití chemických zbraní v Sýrii</Text>
+      <Token Lemma="íránský" POS="AAMS1" Stem="íránsk">Íránský</Token>
+      <Token Lemma="prezident" POS="NNMS1" Stem="prezident">prezident</Token>
+      <Token Lemma="odsuzovat" POS="VB" Stem="odsuzuj">odsuzuje</Token>
+      <Token Lemma="použití" POS="NNNS4" Stem="použit">použití</Token>
+      <Token Lemma="chemický" POS="AAFP2" Stem="chemick">chemických</Token>
+      <Token Lemma="zbraň" POS="NNFP2" Stem="zbran">zbraní</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Sýrie" POS="NNFS6" Stem="sýri">Sýrii</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Vyšetrování údajného použití chemických zbraní v Sýrii</Text>
+      <Token Lemma="Vyšetrování" POS="NNIS1" Stem="vyšetrován">Vyšetrování</Token>
+      <Token Lemma="údajný" POS="AANS2" Stem="údajn">údajného</Token>
+      <Token Lemma="použití" POS="NNNS2" Stem="použit">použití</Token>
+      <Token Lemma="chemický" POS="AAFP2" Stem="chemick">chemických</Token>
+      <Token Lemma="zbraň" POS="NNFP2" Stem="zbran">zbraní</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Sýrie" POS="NNFS6" Stem="sýri">Sýrii</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="88">
+    <Sentence>
+      <Text>Třepení společnosti na okrajích</Text>
+      <Token Lemma="Třepení" POS="NNIS1" Stem="třepen">Třepení</Token>
+      <Token Lemma="společnost" POS="NNFS2" Stem="společnost">společnosti</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="okraj" POS="NNIP6" Stem="okraj">okrajích</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Zarovnání starých TV způsobuje trhliny na okrajích</Text>
+      <Token Lemma="Zarovnání" POS="NNIS1" Stem="zarovnán">Zarovnání</Token>
+      <Token Lemma="starý" POS="AAFP2" Stem="star">starých</Token>
+      <Token Lemma="televize" POS="NNFXX" Stem="tv">TV</Token>
+      <Token Lemma="způsobovat" POS="VB" Stem="způsobuj">způsobuje</Token>
+      <Token Lemma="trhlina" POS="NNFP4" Stem="trhl">trhliny</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="okraj" POS="NNIP6" Stem="okraj">okrajích</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="89">
+    <Sentence>
+      <Text>UN zve Írán na syrskou mírovou konferenci</Text>
+      <Token Lemma="UN" POS="NNIXX" Stem="un">UN</Token>
+      <Token Lemma="zvát" POS="VB" Stem="zve">zve</Token>
+      <Token Lemma="Írán" POS="NNIS1" Stem="írán">Írán</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="syrský" POS="AAFS4" Stem="syrsk">syrskou</Token>
+      <Token Lemma="mírový" POS="AAFS4" Stem="mírov">mírovou</Token>
+      <Token Lemma="konference" POS="NNFS4" Stem="konferenk">konferenci</Token>
+    </Sentence>
+    <Sentence>
+      <Text>UN: Írán pozván zúčastnit se syrské mírové konference</Text>
+      <Token Lemma="UN" POS="NNIXX" Stem="un">UN</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="Írán" POS="NNIS1" Stem="írán">Írán</Token>
+      <Token Lemma="pozvat" POS="VsYS" Stem="pozván">pozván</Token>
+      <Token Lemma="zúčastnit" POS="Vf" Stem="zúčastnit">zúčastnit</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="syrský" POS="AAFS2" Stem="syrsk">syrské</Token>
+      <Token Lemma="mírový" POS="AAFS2" Stem="mír">mírové</Token>
+      <Token Lemma="konference" POS="NNFS2" Stem="konferenk">konference</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="90">
+    <Sentence>
+      <Text>Počet obětí havárie italského autobusu stoupá</Text>
+      <Token Lemma="počet" POS="NNIS1" Stem="počet">Počet</Token>
+      <Token Lemma="oběť" POS="NNFP2" Stem="obět">obětí</Token>
+      <Token Lemma="havárie" POS="NNFS2" Stem="havári">havárie</Token>
+      <Token Lemma="italský" POS="AAIS2" Stem="italsk">italského</Token>
+      <Token Lemma="autobus" POS="NNIS2" Stem="autobus">autobusu</Token>
+      <Token Lemma="stoupat" POS="VB" Stem="stoup">stoupá</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Starbucks uvolňuje cestu k vysokoškolskému titulu pro zaměstnance</Text>
+      <Token Lemma="Starbucks" POS="NNIS1" Stem="starbucks">Starbucks</Token>
+      <Token Lemma="uvolňovat" POS="VB" Stem="uvolňuj">uvolňuje</Token>
+      <Token Lemma="cesta" POS="NNFS4" Stem="cest">cestu</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="vysokoškolský" POS="AANS3" Stem="vysokoškolsk">vysokoškolskému</Token>
+      <Token Lemma="titul" POS="NNIS2" Stem="titul">titulu</Token>
+      <Token Lemma="pro" POS="RR" Stem="pro">pro</Token>
+      <Token Lemma="zaměstnanec" POS="NNMP4" Stem="zaměstnank">zaměstnance</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="91">
+    <Sentence>
+      <Text>Fotbalový rozhodčí napadený hráčem umírá</Text>
+      <Token Lemma="fotbalový" POS="AAMS1" Stem="fotbal">Fotbalový</Token>
+      <Token Lemma="rozhodčí" POS="NNMS1" Stem="rozhodč">rozhodčí</Token>
+      <Token Lemma="napadený" POS="AAMS1" Stem="napaden">napadený</Token>
+      <Token Lemma="hráč" POS="NNMS7" Stem="hrák">hráčem</Token>
+      <Token Lemma="umírat" POS="VB" Stem="umír">umírá</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Policie: Utažský fotbalový rozhodčí napadený hráčem umírá</Text>
+      <Token Lemma="policie" POS="NNFS1" Stem="polici">Policie</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="Utažský" POS="VB" Stem="utažsk">Utažský</Token>
+      <Token Lemma="fotbalový" POS="AAMS1" Stem="fotbal">fotbalový</Token>
+      <Token Lemma="rozhodčí" POS="NNMS1" Stem="rozhodč">rozhodčí</Token>
+      <Token Lemma="napadený" POS="AAMS1" Stem="napaden">napadený</Token>
+      <Token Lemma="hráč" POS="NNMS7" Stem="hrák">hráčem</Token>
+      <Token Lemma="umírat" POS="VB" Stem="umír">umírá</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="92">
+    <Sentence>
+      <Text>Angela Merkelová směřuje k těsnému vítězství v německých volbách</Text>
+      <Token Lemma="Angelo" POS="NNMS2" Stem="angel">Angela</Token>
+      <Token Lemma="Merkelová" POS="NNMS2" Stem="merkel">Merkelová</Token>
+      <Token Lemma="směřovat" POS="VB" Stem="směřuj">směřuje</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="těsný" POS="AANS3" Stem="těsn">těsnému</Token>
+      <Token Lemma="vítězství" POS="NNNS3" Stem="vítězstv">vítězství</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="německý" POS="AAFP6" Stem="německ">německých</Token>
+      <Token Lemma="volba" POS="NNFP6" Stem="volb">volbách</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Nový prezident Malawi byl uveden do úřadu po zpochybněných volbách</Text>
+      <Token Lemma="nový" POS="AAMS1" Stem="nov">Nový</Token>
+      <Token Lemma="prezident" POS="NNMS1" Stem="prezident">prezident</Token>
+      <Token Lemma="Malawi" POS="NNMS1" Stem="malaw">Malawi</Token>
+      <Token Lemma="být" POS="VpYS" Stem="byl">byl</Token>
+      <Token Lemma="uvést" POS="VsYS" Stem="uveden">uveden</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="úřad" POS="NNIS2" Stem="úřad">úřadu</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="zpochybněných" POS="C" Stem="zpochybněn">zpochybněných</Token>
+      <Token Lemma="volba" POS="NNFP6" Stem="volb">volbách</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="93">
+    <Sentence>
+      <Text>Britský teenager zabit pádem z hotelu v Magaluf</Text>
+      <Token Lemma="britský" POS="AAIS1" Stem="britsk">Britský</Token>
+      <Token Lemma="teenager" POS="NNIS1" Stem="teenager">teenager</Token>
+      <Token Lemma="zabít" POS="VsYS" Stem="zabit">zabit</Token>
+      <Token Lemma="pád" POS="NNIS7" Stem="pád">pádem</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="hotel" POS="NNIS2" Stem="hotel">hotelu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Magaluf" POS="NNFS4" Stem="magaluf">Magaluf</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Britský teenager zabit pádem v magalufském hotelu</Text>
+      <Token Lemma="britský" POS="AAIS1" Stem="britsk">Britský</Token>
+      <Token Lemma="teenager" POS="NNIS1" Stem="teenager">teenager</Token>
+      <Token Lemma="zabít" POS="VsYS" Stem="zabit">zabit</Token>
+      <Token Lemma="pád" POS="NNIS7" Stem="pád">pádem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="magalufském" POS="C" Stem="magalufs">magalufském</Token>
+      <Token Lemma="hotel" POS="NNIS6" Stem="hotel">hotelu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="94">
+    <Sentence>
+      <Text>Izrael zadržuje 37 palestinců zatímco zatýkací operace pokračuje</Text>
+      <Token Lemma="Izrael" POS="NNIS1" Stem="izrael">Izrael</Token>
+      <Token Lemma="zadržovat" POS="VB" Stem="zadržuj">zadržuje</Token>
+      <Token Lemma="37" POS="C" Stem="37">37</Token>
+      <Token Lemma="palestinců" POS="NNFS1" Stem="palestinc">palestinců</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="zatýkací" POS="AAFS1" Stem="zatýkac">zatýkací</Token>
+      <Token Lemma="operace" POS="NNFS1" Stem="operak">operace</Token>
+      <Token Lemma="pokračovat" POS="VB" Stem="pokračuj">pokračuje</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Izrael kritizuje palestinský postoj k imigrantům</Text>
+      <Token Lemma="Izrael" POS="NNIS1" Stem="izrael">Izrael</Token>
+      <Token Lemma="kritizovat" POS="VB" Stem="kritizuj">kritizuje</Token>
+      <Token Lemma="palestinský" POS="AAIS4" Stem="palestinsk">palestinský</Token>
+      <Token Lemma="postoj" POS="NNIS4" Stem="postoj">postoj</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="imigrant" POS="NNMP3" Stem="imigrant">imigrantům</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="95">
+    <Sentence>
+      <Text>Rebelové zabíjejí 21 civilistů v syrské obci Alawite</Text>
+      <Token Lemma="rebel" POS="NNMP1" Stem="rebel">Rebelové</Token>
+      <Token Lemma="zabíjet" POS="VB" Stem="zabíjej">zabíjejí</Token>
+      <Token Lemma="21" POS="C" Stem="21">21</Token>
+      <Token Lemma="civilista" POS="NNMP2" Stem="civilist">civilistů</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="syrský" POS="AAIP1" Stem="syrsk">syrské</Token>
+      <Token Lemma="obec" POS="NNFS3" Stem="obk">obci</Token>
+      <Token Lemma="Alawite" POS="Vf" Stem="alawit">Alawite</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Bomba zabíjí 18 civilistů v Afghánistánu</Text>
+      <Token Lemma="bomba" POS="NNFS1" Stem="bomb">Bomba</Token>
+      <Token Lemma="zabíjet" POS="VB" Stem="zabíj">zabíjí</Token>
+      <Token Lemma="18" POS="C" Stem="18">18</Token>
+      <Token Lemma="civilista" POS="NNMP2" Stem="civilist">civilistů</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Afghánistán" POS="NNIS6" Stem="afghánistán">Afghánistánu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="96">
+    <Sentence>
+      <Text>Svět posílá krizovou pomoc pošramoceným Filipínám</Text>
+      <Token Lemma="svět" POS="NNIS1" Stem="svět">Svět</Token>
+      <Token Lemma="posílat" POS="VB" Stem="posíl">posílá</Token>
+      <Token Lemma="krizový" POS="AAFS4" Stem="kriz">krizovou</Token>
+      <Token Lemma="pomoc" POS="NNFS4" Stem="pomoc">pomoc</Token>
+      <Token Lemma="pošramoceným" POS="NNMS2" Stem="pošramocen">pošramoceným</Token>
+      <Token Lemma="Filipínám" POS="NNMS2" Stem="filipín">Filipínám</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Typhoon Haiyan: svět zasílá pomoc pošramoceným Filipínám</Text>
+      <Token Lemma="Typhoon" POS="AAFS1" Stem="typhoon">Typhoon</Token>
+      <Token Lemma="Haiyan" POS="NNFS1" Stem="haiyan">Haiyan</Token>
+      <Token Lemma=":" POS="Z" Stem=":">:</Token>
+      <Token Lemma="svět" POS="NNIS1" Stem="svět">svět</Token>
+      <Token Lemma="zasílat" POS="VB" Stem="zasíl">zasílá</Token>
+      <Token Lemma="pomoc" POS="NNFS4" Stem="pomoc">pomoc</Token>
+      <Token Lemma="pošramoceným" POS="NNMS2" Stem="pošramocen">pošramoceným</Token>
+      <Token Lemma="Filipínám" POS="NNMS2" Stem="filipín">Filipínám</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="97">
+    <Sentence>
+      <Text>Palestinský protestní hladovkář, Izrael dosahuje dohodu</Text>
+      <Token Lemma="palestinský" POS="AAMS1" Stem="palestinsk">Palestinský</Token>
+      <Token Lemma="protestní" POS="AAFS4" Stem="protestn">protestní</Token>
+      <Token Lemma="hladovkář" POS="NNFS4" Stem="hladovkář">hladovkář</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="Izrael" POS="NNIS1" Stem="izrael">Izrael</Token>
+      <Token Lemma="dosahovat" POS="VB" Stem="dosahuj">dosahuje</Token>
+      <Token Lemma="dohoda" POS="NNFS4" Stem="dohod">dohodu</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Palestinský aktivista zadržen při razii v Izraeli</Text>
+      <Token Lemma="palestinský" POS="AAMS1" Stem="palestinsk">Palestinský</Token>
+      <Token Lemma="aktivista" POS="NNMS1" Stem="aktivist">aktivista</Token>
+      <Token Lemma="zadržet" POS="VsYS" Stem="zadržen">zadržen</Token>
+      <Token Lemma="při" POS="RR" Stem="při">při</Token>
+      <Token Lemma="razie" POS="NNFS6" Stem="razi">razii</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Izrael" POS="NNIS6" Stem="izrael">Izraeli</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="98">
+    <Sentence>
+      <Text>Assad říká, že Sýrie bude plnit rezoluci UN o zbraních</Text>
+      <Token Lemma="Assad" POS="NNFS1" Stem="assad">Assad</Token>
+      <Token Lemma="říkat" POS="VB" Stem="řík">říká</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="že" POS="J" Stem="že">že</Token>
+      <Token Lemma="Sýrie" POS="NNFS1" Stem="sýri">Sýrie</Token>
+      <Token Lemma="být" POS="VB" Stem="bud">bude</Token>
+      <Token Lemma="plnit" POS="Vf" Stem="plnit">plnit</Token>
+      <Token Lemma="rezoluce" POS="NNFS4" Stem="rezoluk">rezoluci</Token>
+      <Token Lemma="UN" POS="NNIXX" Stem="un">UN</Token>
+      <Token Lemma="o" POS="RR" Stem="o">o</Token>
+      <Token Lemma="zbraň" POS="NNFP6" Stem="zbran">zbraních</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Syriský Assad slibuje plnění U.N. rezoluce</Text>
+      <Token Lemma="Syriský" POS="AAFS1" Stem="syrisk">Syriský</Token>
+      <Token Lemma="Assad" POS="NNFS1" Stem="assad">Assad</Token>
+      <Token Lemma="slibovat" POS="VB" Stem="slibuj">slibuje</Token>
+      <Token Lemma="plnění" POS="NNNS4" Stem="plněn">plnění</Token>
+      <Token Lemma="u" POS="RR" Stem="u">U</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+      <Token Lemma="N" POS="NNFXX" Stem="n">N</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+      <Token Lemma="rezoluce" POS="NNFS1" Stem="rezoluk">rezoluce</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="99">
+    <Sentence>
+      <Text>Jihokorejský prezident lituje reakce trajektu</Text>
+      <Token Lemma="jihokorejský" POS="AAMS1" Stem="jihokorejsk">Jihokorejský</Token>
+      <Token Lemma="prezident" POS="NNMS1" Stem="prezident">prezident</Token>
+      <Token Lemma="litovat" POS="VB" Stem="lituj">lituje</Token>
+      <Token Lemma="reakce" POS="NNFP4" Stem="reakk">reakce</Token>
+      <Token Lemma="trajekt" POS="NNIS2" Stem="trajekt">trajektu</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Severokorejský prezident lituje katastrofy trajektu </Text>
+      <Token Lemma="Severokorejský" POS="NNMS1" Stem="severokorejsk">Severokorejský</Token>
+      <Token Lemma="prezident" POS="NNMS1" Stem="prezident">prezident</Token>
+      <Token Lemma="litovat" POS="VB" Stem="lituj">lituje</Token>
+      <Token Lemma="katastrofa" POS="NNFP4" Stem="katastrof">katastrofy</Token>
+      <Token Lemma="trajekt" POS="NNIS2" Stem="trajekt">trajektu</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="100">
+    <Sentence>
+      <Text>Prudký růst cen jídla v Íránu je znepokojující</Text>
+      <Token Lemma="prudký" POS="AAIS1" Stem="prudk">Prudký</Token>
+      <Token Lemma="růst" POS="NNIS1" Stem="růst">růst</Token>
+      <Token Lemma="cena" POS="NNFP2" Stem="cen">cen</Token>
+      <Token Lemma="jídlo" POS="NNNS2" Stem="jídl">jídla</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Írán" POS="NNIS6" Stem="írán">Íránu</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="znepokojující" POS="AGNS1" Stem="znepokojujíc">znepokojující</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Američan Chris Horner vyhrává Tour of Spain</Text>
+      <Token Lemma="Američan" POS="NNMS1" Stem="američan">Američan</Token>
+      <Token Lemma="Chris" POS="NNMS1" Stem="chris">Chris</Token>
+      <Token Lemma="Horner" POS="NNMS1" Stem="horner">Horner</Token>
+      <Token Lemma="vyhrávat" POS="VB" Stem="vyhráv">vyhrává</Token>
+      <Token Lemma="Tour" POS="NNFXX" Stem="tour">Tour</Token>
+      <Token Lemma="of" POS="RR" Stem="of">of</Token>
+      <Token Lemma="Spain" POS="NNMS2" Stem="spain">Spain</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="101">
+    <Sentence>
+      <Text>Obama udělal rozhodnutí na poslední chvíli v syrském schválení</Text>
+      <Token Lemma="Obama" POS="NNMS1" Stem="obam">Obama</Token>
+      <Token Lemma="udělat" POS="VpYS" Stem="udělal">udělal</Token>
+      <Token Lemma="rozhodnutí" POS="NNNS4" Stem="rozhodnut">rozhodnutí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="poslední" POS="AAFS6" Stem="posledn">poslední</Token>
+      <Token Lemma="chvíle" POS="NNFS6" Stem="chvíl">chvíli</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="syrský" POS="AAIS6" Stem="syrs">syrském</Token>
+      <Token Lemma="schválení" POS="NNNS6" Stem="schválen">schválení</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Obama zvažuje limitovanou vojenskou akci v Sýrii</Text>
+      <Token Lemma="Obama" POS="NNFS1" Stem="obam">Obama</Token>
+      <Token Lemma="zvažovat" POS="VB" Stem="zvažuj">zvažuje</Token>
+      <Token Lemma="limitovanou" POS="Vf" Stem="limitovan">limitovanou</Token>
+      <Token Lemma="vojenský" POS="AAFS4" Stem="vojensk">vojenskou</Token>
+      <Token Lemma="akce" POS="NNFS4" Stem="akk">akci</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Sýrie" POS="NNFS6" Stem="sýri">Sýrii</Token>
+    </Sentence>
+  </Pair></Sentences>

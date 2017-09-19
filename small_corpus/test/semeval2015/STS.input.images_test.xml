@@ -1,0 +1,3730 @@
+<?xml version="1.0" ?>
+<Sentences>
+<Pair ID="601">
+    <Sentence>
+      <Text>Skupina čtyř dětí tancujících na dvorku.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="čtyři" POS="ClXP2" Stem="čtyř">čtyř</Token>
+      <Token Lemma="dítě" POS="NNFP2" Stem="dět">dětí</Token>
+      <Token Lemma="tancujících" POS="VB" Stem="tancujíc">tancujících</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="dvorek" POS="NNIS6" Stem="dvork">dvorku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skupina dětí se protahuje na barevných podložkách.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="dítě" POS="NNFP2" Stem="dět">dětí</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="protahovat" POS="VB" Stem="protahuj">protahuje</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="barevný" POS="AAIP2" Stem="barevn">barevných</Token>
+      <Token Lemma="podložkách" POS="C" Stem="podložk">podložkách</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="602">
+    <Sentence>
+      <Text>Dva černí psi si hrají na trávě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="černý" POS="AAMP1" Stem="čern">černí</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva černí psi si hrají na travnaté planině.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="černý" POS="AAMP1" Stem="čern">černí</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="travnatý" POS="AANS4" Stem="travnat">travnaté</Token>
+      <Token Lemma="planině" POS="VB" Stem="plan">planině</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="603">
+    <Sentence>
+      <Text>Skupina teenagerů skáče do vzduchu na pláži.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="teenager" POS="NNMP2" Stem="teenager">teenagerů</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="vzduch" POS="NNIS2" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skupina mladých lidí, vyskakuje do vzduchu, zatímco jsou na pláži.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="mladý" POS="AAMP2" Stem="mlad">mladých</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="vyskakuje" POS="VB" Stem="vyskakuj">vyskakuje</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="vzduch" POS="NNIS2" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="být" POS="VB" Stem="jso">jsou</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="604">
+    <Sentence>
+      <Text>Černo hnědý pes žvýká velký klacek.</Text>
+      <Token Lemma="Černo" POS="NNIS1" Stem="čern">Černo</Token>
+      <Token Lemma="hnědý" POS="AAIS1" Stem="hněd">hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="žvýká" POS="VB" Stem="žvýk">žvýká</Token>
+      <Token Lemma="velký" POS="AAIS4" Stem="velk">velký</Token>
+      <Token Lemma="klacek" POS="NNIS4" Stem="klacek">klacek</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černo bílý pes hrající si v písku.</Text>
+      <Token Lemma="Černo" POS="NNMS1" Stem="čern">Černo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="hrající" POS="AGMS1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="písek" POS="NNIS6" Stem="písk">písku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="605">
+    <Sentence>
+      <Text>Chlapec mává koulem prskavkou.</Text>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">Chlapec</Token>
+      <Token Lemma="mávat" POS="VB" Stem="máv">mává</Token>
+      <Token Lemma="koulem" POS="NNMS1" Stem="koul">koulem</Token>
+      <Token Lemma="prskavkou" POS="NNMS1" Stem="prskavk">prskavkou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Mladý chlapec je kroutí prskavkou kolem ve vzduchu.</Text>
+      <Token Lemma="mladý" POS="AAMS1" Stem="mlad">Mladý</Token>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">chlapec</Token>
+      <Token Lemma="být" POS="PPXP4" Stem="je">je</Token>
+      <Token Lemma="kroutit" POS="VB" Stem="krout">kroutí</Token>
+      <Token Lemma="prskavkou" POS="Vf" Stem="prskavk">prskavkou</Token>
+      <Token Lemma="kolem" POS="RR" Stem="kol">kolem</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="vzduch" POS="NNIS2" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="606">
+    <Sentence>
+      <Text>Dva černí psi hrající si v trávě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="černý" POS="AAMP1" Stem="čern">černí</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi si hrají v trávě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="607">
+    <Sentence>
+      <Text>Několik lidí v noci posedává okolo ohně.</Text>
+      <Token Lemma="několik" POS="Ca" Stem="několik">Několik</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="noc" POS="NNFS6" Stem="nok">noci</Token>
+      <Token Lemma="posedává" POS="NNMS2" Stem="posedáv">posedává</Token>
+      <Token Lemma="okolo" POS="RR" Stem="okol">okolo</Token>
+      <Token Lemma="oheň" POS="NNIS2" Stem="ohn">ohně</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skupina lidí v noci postává a posedává kolem na zemi.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="noc" POS="NNFS6" Stem="nok">noci</Token>
+      <Token Lemma="postává" POS="C" Stem="postáv">postává</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="posedává" POS="C" Stem="posedáv">posedává</Token>
+      <Token Lemma="kolem" POS="RR" Stem="kol">kolem</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="země" POS="NNFS6" Stem="zem">zemi</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="608">
+    <Sentence>
+      <Text>Dva chlapci skákají do bazénu.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="chlapec" POS="NNMP1" Stem="chlapk">chlapci</Token>
+      <Token Lemma="skákají" POS="Vf" Stem="skákaj">skákají</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="bazén" POS="NNIS2" Stem="bazén">bazénu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva chlapci jsou ve vzduchu při skákání do vnitřního bazénu.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="chlapec" POS="NNMP1" Stem="chlapk">chlapci</Token>
+      <Token Lemma="být" POS="VB" Stem="jso">jsou</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="vzduch" POS="NNIS6" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="při" POS="RR" Stem="při">při</Token>
+      <Token Lemma="skákání" POS="C" Stem="skákán">skákání</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="vnitřní" POS="AAIS2" Stem="vnitřn">vnitřního</Token>
+      <Token Lemma="bazén" POS="NNIS2" Stem="bazén">bazénu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="609">
+    <Sentence>
+      <Text>Dvě různá plemena hnědých a bílých psů si hrájí na pláži.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="různý" POS="AANP1" Stem="různ">různá</Token>
+      <Token Lemma="plemena" POS="NNMS2" Stem="plemen">plemena</Token>
+      <Token Lemma="hnědých" POS="NNMS2" Stem="hněd">hnědých</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="bílý" POS="AAMP2" Stem="bíl">bílých</Token>
+      <Token Lemma="pes" POS="NNMP2" Stem="psů">psů</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrájí" POS="VB" Stem="hráj">hrájí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi hrající si v písku na pláži.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="písek" POS="NNIS6" Stem="písk">písku</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="610">
+    <Sentence>
+      <Text>Muž a dvě ženy oblečeni v upířích kostýmech.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="dva" POS="ClHP4" Stem="dvě">dvě</Token>
+      <Token Lemma="žena" POS="NNFP4" Stem="žen">ženy</Token>
+      <Token Lemma="oblečeni" POS="NNFS2" Stem="oblečen">oblečeni</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="upířích" POS="NNMS2" Stem="upíř">upířích</Token>
+      <Token Lemma="kostýmech" POS="NNMS2" Stem="kostým">kostýmech</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž a dvě ženy oblečeni v kostýmech.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="dva" POS="ClHP4" Stem="dvě">dvě</Token>
+      <Token Lemma="žena" POS="NNFP4" Stem="žen">ženy</Token>
+      <Token Lemma="oblečeni" POS="NNFS2" Stem="oblečen">oblečeni</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="kostýmech" POS="C" Stem="kostým">kostýmech</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="611">
+    <Sentence>
+      <Text>Dva chlapci, jeden s kloboukem, na hřišti.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="chlapec" POS="NNMP1" Stem="chlapk">chlapci</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="jeden" POS="ClYS1" Stem="jeden">jeden</Token>
+      <Token Lemma="s" POS="NNFXX" Stem="s">s</Token>
+      <Token Lemma="kloboukem" POS="VB" Stem="klobouk">kloboukem</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="hřiště" POS="NNNS6" Stem="hřišt">hřišti</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Chlapec v béžovém klobouku se směje, zatímco sedí poblíž vybavení hřiště.</Text>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">Chlapec</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="béžovém" POS="NNMS2" Stem="béžo">béžovém</Token>
+      <Token Lemma="klobouk" POS="NNIS6" Stem="klobouk">klobouku</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="smát" POS="VB" Stem="směj">směje</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="poblíž" POS="RR" Stem="poblíž">poblíž</Token>
+      <Token Lemma="vybavení" POS="NNNS2" Stem="vybaven">vybavení</Token>
+      <Token Lemma="hřiště" POS="NNNS2" Stem="hřišt">hřiště</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="612">
+    <Sentence>
+      <Text>Dva psi hrající si ve sněhu.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi si hrají ve sněhu.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="613">
+    <Sentence>
+      <Text>Žena drží dítě, zatímco muž se kouká na jiného muže držícího dětské hodinky.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="držet" POS="VB" Stem="drž">drží</Token>
+      <Token Lemma="dítě" POS="NNNS4" Stem="dít">dítě</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">muž</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="koukat" POS="VB" Stem="kouk">kouká</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="jiný" POS="AAMS4" Stem="jin">jiného</Token>
+      <Token Lemma="muž" POS="NNMS4" Stem="muh">muže</Token>
+      <Token Lemma="držícího" POS="Vf" Stem="držíc">držícího</Token>
+      <Token Lemma="dětský" POS="AAFP4" Stem="dětsk">dětské</Token>
+      <Token Lemma="hodinky" POS="NNFP4" Stem="hodink">hodinky</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena stojí v obchodě s rukama venku, zatímco jiná žena drží kameru.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="obchod" POS="NNIS6" Stem="obchod">obchodě</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="ruka" POS="NNFD7" Stem="ruk">rukama</Token>
+      <Token Lemma="venku" POS="Db" Stem="venk">venku</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="jiný" POS="AAFS1" Stem="jin">jiná</Token>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">žena</Token>
+      <Token Lemma="držet" POS="VB" Stem="drž">drží</Token>
+      <Token Lemma="kamera" POS="NNFS4" Stem="kamer">kameru</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="614">
+    <Sentence>
+      <Text>Bílý načechraný pes běží v čistě bílém sněhu.</Text>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">Bílý</Token>
+      <Token Lemma="načechraný" POS="NNMS1" Stem="načechran">načechraný</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="čistě" POS="Dg" Stem="čist">čistě</Token>
+      <Token Lemma="bílý" POS="AAIS6" Stem="bí">bílém</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Načechrané, bílý pes běžící ve sněhu.</Text>
+      <Token Lemma="Načechrané" POS="NNMS1" Stem="načechran">Načechrané</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="615">
+    <Sentence>
+      <Text>Žena držící noviny.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="držící" POS="AGIS4" Stem="držíc">držící</Token>
+      <Token Lemma="noviny" POS="NNFP4" Stem="novin">noviny</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž na kolečkových bruslích na kovové tyči.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolečkový" POS="AAFP6" Stem="kolečk">kolečkových</Token>
+      <Token Lemma="brusle" POS="NNFP6" Stem="brusl">bruslích</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kovový" POS="AAFS6" Stem="kov">kovové</Token>
+      <Token Lemma="tyč" POS="NNFS6" Stem="tyk">tyči</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="616">
+    <Sentence>
+      <Text>Skupina mužů hrajících na dechové nástroje.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="muž" POS="NNMP2" Stem="muž">mužů</Token>
+      <Token Lemma="hrající" POS="AGMP2" Stem="hrajíc">hrajících</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="dechový" POS="AAIP4" Stem="dech">dechové</Token>
+      <Token Lemma="nástroj" POS="NNIP4" Stem="nástroj">nástroje</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skupina chlápků hraje venku na nástroje.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="chlápků" POS="NNFS2" Stem="chlápk">chlápků</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hraje</Token>
+      <Token Lemma="venku" POS="Db" Stem="venk">venku</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="nástroj" POS="NNIP4" Stem="nástroj">nástroje</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="617">
+    <Sentence>
+      <Text>Dvě dívky na břehu pozorjí lidi v rybářské lodi.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="dívka" POS="NNFP1" Stem="dívk">dívky</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="břeh" POS="NNIS6" Stem="břeh">břehu</Token>
+      <Token Lemma="pozorjí" POS="Vf" Stem="pozorj">pozorjí</Token>
+      <Token Lemma="člověk" POS="NNMP4" Stem="lid">lidi</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="rybářský" POS="AAFP4" Stem="rybářsk">rybářské</Token>
+      <Token Lemma="loď" POS="NNFP4" Stem="lod">lodi</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva muži, jeden v červeném a jeden v bílém hrající basketbal.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="muž" POS="NNMP1" Stem="muh">muži</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="jeden" POS="ClYS1" Stem="jeden">jeden</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="AAIS6" Stem="červe">červeném</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="jeden" POS="ClYS1" Stem="jeden">jeden</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="bílý" POS="AAIS6" Stem="bí">bílém</Token>
+      <Token Lemma="hrající" POS="AGIS4" Stem="hrajíc">hrající</Token>
+      <Token Lemma="basketbal" POS="NNIS4" Stem="basketbal">basketbal</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="618">
+    <Sentence>
+      <Text>Snowbordista skáče do vzduchu.</Text>
+      <Token Lemma="Snowbordista" POS="NNFS1" Stem="snowbordist">Snowbordista</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="vzduch" POS="NNIS2" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Snowbordista letí vzduchem.</Text>
+      <Token Lemma="Snowbordista" POS="NNIS1" Stem="snowbordist">Snowbordista</Token>
+      <Token Lemma="letět" POS="VB" Stem="let">letí</Token>
+      <Token Lemma="vzduch" POS="NNIS7" Stem="vzduch">vzduchem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="619">
+    <Sentence>
+      <Text>Bílý pes s červenýma ušima beží ve sněhu.</Text>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">Bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="červený" POS="AAFD7" Stem="červeným">červenýma</Token>
+      <Token Lemma="ucho" POS="NNFD7" Stem="ušim">ušima</Token>
+      <Token Lemma="beží" POS="NNMS2" Stem="bež">beží</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Mokrý černý pes s červeným obojkem je v řece.</Text>
+      <Token Lemma="Mokrý" POS="NNMS1" Stem="mokr">Mokrý</Token>
+      <Token Lemma="černý" POS="AAMS1" Stem="čern">černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="červený" POS="AAIS7" Stem="červen">červeným</Token>
+      <Token Lemma="obojek" POS="NNIS7" Stem="obojk">obojkem</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="řeka" POS="NNFS6" Stem="řek">řece</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="620">
+    <Sentence>
+      <Text>Holčička a chlapec se drží za ruce na lesklé skluzavce.</Text>
+      <Token Lemma="Holčička" POS="NNMS1" Stem="holčičk">Holčička</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">chlapec</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="držet" POS="VB" Stem="drž">drží</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="ruka" POS="NNFP4" Stem="ruk">ruce</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="lesklý" POS="AAFP1" Stem="leskl">lesklé</Token>
+      <Token Lemma="skluzavce" POS="C" Stem="skluzavk">skluzavce</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Holčička v kašmírových šatech běží přes písečné hřiště.</Text>
+      <Token Lemma="Holčička" POS="NNFS1" Stem="holčičk">Holčička</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="kašmírových" POS="C" Stem="kašmír">kašmírových</Token>
+      <Token Lemma="šat" POS="NNIP6" Stem="šat">šatech</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="písečný" POS="AAFP4" Stem="písečn">písečné</Token>
+      <Token Lemma="hřiště" POS="NNNS2" Stem="hřišt">hřiště</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="621">
+    <Sentence>
+      <Text>Děti hrají fotbal na hřišti.</Text>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">Děti</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="fotbal" POS="NNIS4" Stem="fotbal">fotbal</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="hřiště" POS="NNNS6" Stem="hřišt">hřišti</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Tři chlapci hrající fotbal na hřišti.</Text>
+      <Token Lemma="tři" POS="ClXP1" Stem="tři">Tři</Token>
+      <Token Lemma="chlapec" POS="NNMP1" Stem="chlapk">chlapci</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="fotbal" POS="NNIS4" Stem="fotbal">fotbal</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="hřiště" POS="NNNS6" Stem="hřišt">hřišti</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="622">
+    <Sentence>
+      <Text>Skupina mužů jde a visí na lanech.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="muž" POS="NNMP2" Stem="muž">mužů</Token>
+      <Token Lemma="jít" POS="VB" Stem="jde">jde</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="viset" POS="VB" Stem="vis">visí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="lanech" POS="NNFS4" Stem="lan">lanech</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skupina mužů hraje vysokoškolský fotbal.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="muž" POS="NNMP2" Stem="muž">mužů</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hraje</Token>
+      <Token Lemma="vysokoškolský" POS="AAIS1" Stem="vysokoškolsk">vysokoškolský</Token>
+      <Token Lemma="fotbal" POS="NNIS1" Stem="fotbal">fotbal</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="623">
+    <Sentence>
+      <Text>Muž skáče z jedné střechy na druhou.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="jeden" POS="ClFS2" Stem="jedn">jedné</Token>
+      <Token Lemma="střecha" POS="NNFS2" Stem="střech">střechy</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="druhý" POS="AAFS4" Stem="druh">druhou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Mladý muž skáče z jednoho balkónu na druhý.</Text>
+      <Token Lemma="mladý" POS="AAMS1" Stem="mlad">Mladý</Token>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">muž</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="jeden" POS="ClZS2" Stem="jednoh">jednoho</Token>
+      <Token Lemma="balkón" POS="NNIS2" Stem="balkón">balkónu</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="druhý" POS="AAIS4" Stem="druh">druhý</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="624">
+    <Sentence>
+      <Text>Černoch v černo červeném spí na lavičce s otevřeným deštníkem.</Text>
+      <Token Lemma="černoch" POS="NNMS1" Stem="černoch">Černoch</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černo" POS="NNNS4" Stem="čern">černo</Token>
+      <Token Lemma="červený" POS="AAIS6" Stem="červe">červeném</Token>
+      <Token Lemma="spát" POS="VB" Stem="spí">spí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="lavička" POS="NNFS6" Stem="lavičk">lavičce</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="otevřený" POS="AAIS7" Stem="otevřen">otevřeným</Token>
+      <Token Lemma="deštník" POS="NNIS7" Stem="deštník">deštníkem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž sedící na lavičce v parku dávající si šlofíka s otevřeným deštníkem, který ho chrání před sluncem.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="sedící" POS="AGMS1" Stem="sedíc">sedící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="lavička" POS="NNFS6" Stem="lavičk">lavičce</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="park" POS="NNIS6" Stem="park">parku</Token>
+      <Token Lemma="dávající" POS="AGFS3" Stem="dávajíc">dávající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="šlofík" POS="NNIS4" Stem="šlofík">šlofíka</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="otevřený" POS="AAIS7" Stem="otevřen">otevřeným</Token>
+      <Token Lemma="deštník" POS="NNIS7" Stem="deštník">deštníkem</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="který" POS="P4YS1" Stem="kter">který</Token>
+      <Token Lemma="on" POS="PHZS4" Stem="ho">ho</Token>
+      <Token Lemma="chránit" POS="VB" Stem="chrán">chrání</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="slunce" POS="NNNS7" Stem="slunk">sluncem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="625">
+    <Sentence>
+      <Text>Jedno dítě tahá jiné, sedící v červeném voze, podél písku.</Text>
+      <Token Lemma="jeden" POS="ClNS1" Stem="jedn">Jedno</Token>
+      <Token Lemma="dítě" POS="NNNS1" Stem="dít">dítě</Token>
+      <Token Lemma="tahat" POS="VB" Stem="tah">tahá</Token>
+      <Token Lemma="jiný" POS="AANS1" Stem="jin">jiné</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="sedící" POS="AGNS1" Stem="sedíc">sedící</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="AAIS6" Stem="červe">červeném</Token>
+      <Token Lemma="vůz" POS="NNIS6" Stem="voh">voze</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="podél" POS="RR" Stem="podél">podél</Token>
+      <Token Lemma="písek" POS="NNIS2" Stem="písk">písku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Chlapec táhne jiného chlapce v hloupém klobouku v radio flyer vozu.</Text>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">Chlapec</Token>
+      <Token Lemma="táhnout" POS="VB" Stem="táhn">táhne</Token>
+      <Token Lemma="jiný" POS="AAMS4" Stem="jin">jiného</Token>
+      <Token Lemma="chlapec" POS="NNMS4" Stem="chlapk">chlapce</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="hloupém" POS="NNFS4" Stem="hlou">hloupém</Token>
+      <Token Lemma="klobouk" POS="NNIS2" Stem="klobouk">klobouku</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="rádio" POS="NNNS4" Stem="radi">radio</Token>
+      <Token Lemma="flyer" POS="NNFS2" Stem="flyer">flyer</Token>
+      <Token Lemma="vůz" POS="NNIS2" Stem="voz">vozu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="626">
+    <Sentence>
+      <Text>Dvě štěňata hrající si s plastovou taškou.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="štěně" POS="NNNP4" Stem="štěň">štěňata</Token>
+      <Token Lemma="hrající" POS="AGMS1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="plastovou" POS="NNMS2" Stem="plast">plastovou</Token>
+      <Token Lemma="taška" POS="NNFS7" Stem="tašk">taškou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi hrající si na dvorku.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="dvorek" POS="NNIS6" Stem="dvork">dvorku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="627">
+    <Sentence>
+      <Text>Sova má své křídla nahoře a roztažené v průběhu dne.</Text>
+      <Token Lemma="Sova" POS="NNMS1" Stem="sov">Sova</Token>
+      <Token Lemma="mít" POS="VB" Stem="má">má</Token>
+      <Token Lemma="svůj" POS="P8YP4" Stem="své">své</Token>
+      <Token Lemma="křídlo" POS="NNNP1" Stem="křídl">křídla</Token>
+      <Token Lemma="nahoře" POS="Db" Stem="nahoř">nahoře</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="roztažené" POS="NNIS1" Stem="roztažen">roztažené</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="průběh" POS="NNIS6" Stem="průběh">průběhu</Token>
+      <Token Lemma="den" POS="NNIS2" Stem="dne">dne</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pták v průběhu letu má své křída roztažené.</Text>
+      <Token Lemma="Pták" POS="NNFS1" Stem="pták">Pták</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="průběh" POS="NNIS6" Stem="průběh">průběhu</Token>
+      <Token Lemma="let" POS="NNIS2" Stem="let">letu</Token>
+      <Token Lemma="mít" POS="VB" Stem="má">má</Token>
+      <Token Lemma="svůj" POS="P8FP4" Stem="své">své</Token>
+      <Token Lemma="křída" POS="NNFS1" Stem="kříd">křída</Token>
+      <Token Lemma="roztažené" POS="C" Stem="roztažen">roztažené</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="628">
+    <Sentence>
+      <Text>Muž v modré čepici sedí na stoličce pod stromem.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="modrý" POS="AAFS6" Stem="modr">modré</Token>
+      <Token Lemma="čepice" POS="NNFS6" Stem="čepik">čepici</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="stolička" POS="NNFS6" Stem="stoličk">stoličce</Token>
+      <Token Lemma="pod" POS="RR" Stem="pod">pod</Token>
+      <Token Lemma="strom" POS="NNIS7" Stem="strom">stromem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes stojící na pláži s míčem poblíž.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="stojící" POS="AGMS1" Stem="stojíc">stojící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="míč" POS="NNIS7" Stem="mík">míčem</Token>
+      <Token Lemma="poblíž" POS="RR" Stem="poblíž">poblíž</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="629">
+    <Sentence>
+      <Text>Žena zpívá do mikrofonu vedle muže hrajícího na kytaru.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="zpívat" POS="VB" Stem="zpív">zpívá</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="mikrofon" POS="NNIS2" Stem="mikrofon">mikrofonu</Token>
+      <Token Lemma="vedle" POS="RR" Stem="vedl">vedle</Token>
+      <Token Lemma="muž" POS="NNMS2" Stem="muh">muže</Token>
+      <Token Lemma="hrající" POS="AGMS2" Stem="hrajíc">hrajícího</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kytara" POS="NNFS4" Stem="kytar">kytaru</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena zpívá do mikrofonu s kytaristou v pozadí.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="zpívat" POS="VB" Stem="zpív">zpívá</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="mikrofon" POS="NNIS2" Stem="mikrofon">mikrofonu</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="kytarista" POS="NNMS7" Stem="kytarist">kytaristou</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pozadí" POS="NNNS6" Stem="pozad">pozadí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="630">
+    <Sentence>
+      <Text>Tři ovce se pasou na louce se psem jdoucím za nimi.</Text>
+      <Token Lemma="tři" POS="ClXP1" Stem="tři">Tři</Token>
+      <Token Lemma="ovce" POS="NNFP1" Stem="ovk">ovce</Token>
+      <Token Lemma="s" POS="P7" Stem="se">se</Token>
+      <Token Lemma="pasou" POS="VB" Stem="pas">pasou</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="louka" POS="NNFS6" Stem="louk">louce</Token>
+      <Token Lemma="s" POS="RV" Stem="se">se</Token>
+      <Token Lemma="pes" POS="NNMS7" Stem="psem">psem</Token>
+      <Token Lemma="jdoucím" POS="Vf" Stem="jdou">jdoucím</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="on" POS="P5XP7" Stem="nim">nimi</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Malá skupina koz v trávě s černo bílým psem v pozadí.</Text>
+      <Token Lemma="malý" POS="AAFS1" Stem="mal">Malá</Token>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">skupina</Token>
+      <Token Lemma="koza" POS="NNFP2" Stem="koz">koz</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="černo" POS="NNNS4" Stem="čern">černo</Token>
+      <Token Lemma="bílý" POS="AANS7" Stem="bíl">bílým</Token>
+      <Token Lemma="pes" POS="NNMS7" Stem="psem">psem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pozadí" POS="NNNS6" Stem="pozad">pozadí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="631">
+    <Sentence>
+      <Text>Cyklista skáče na kole mezi dvěma kameny.</Text>
+      <Token Lemma="cyklista" POS="NNMS1" Stem="cyklist">Cyklista</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolo" POS="NNNS6" Stem="kol">kole</Token>
+      <Token Lemma="mezi" POS="RR" Stem="meh">mezi</Token>
+      <Token Lemma="dva" POS="ClXP7" Stem="dvěm">dvěma</Token>
+      <Token Lemma="kámen" POS="NNIP7" Stem="kamen">kameny</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž skáče na kole ve vzduchu mezi dvěma kameny.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolo" POS="NNNS6" Stem="kol">kole</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="vzduch" POS="NNIS6" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="mezi" POS="RR" Stem="meh">mezi</Token>
+      <Token Lemma="dva" POS="ClXP7" Stem="dvěm">dvěma</Token>
+      <Token Lemma="kámen" POS="NNIP7" Stem="kamen">kameny</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="632">
+    <Sentence>
+      <Text>Muž se šedivým plnovousem jezdí na kole na pláži oceánu.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="šedivý" POS="AANS7" Stem="šediv">šedivým</Token>
+      <Token Lemma="plnovousem" POS="NNIS1" Stem="plnovous">plnovousem</Token>
+      <Token Lemma="jezdit" POS="VB" Stem="jezd">jezdí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolo" POS="NNNS6" Stem="kol">kole</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="oceán" POS="NNIS2" Stem="oceán">oceánu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skvrnitý pes stojí na zadních nohách a chytá míč na pláži.</Text>
+      <Token Lemma="Skvrnitý" POS="NNMS1" Stem="skvrnit">Skvrnitý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="zadní" POS="AANP6" Stem="zadn">zadních</Token>
+      <Token Lemma="noha" POS="NNFP6" Stem="noh">nohách</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="chytat" POS="VB" Stem="chyt">chytá</Token>
+      <Token Lemma="míč" POS="NNIS4" Stem="míč">míč</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="633">
+    <Sentence>
+      <Text>Muž v černém obleku surfuje sám po ničivých vlnách.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černý" POS="AAIS6" Stem="čer">černém</Token>
+      <Token Lemma="oblek" POS="NNIS6" Stem="oblek">obleku</Token>
+      <Token Lemma="surfuje" POS="Vf" Stem="surfuj">surfuje</Token>
+      <Token Lemma="sám" POS="PLYS1" Stem="sám">sám</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="ničivý" POS="AAFP6" Stem="ničiv">ničivých</Token>
+      <Token Lemma="vlna" POS="NNFP6" Stem="vln">vlnách</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Surfař v černém potápěčském obleku jede na bílé vlně v oceánu.</Text>
+      <Token Lemma="Surfař" POS="NNFS1" Stem="surfař">Surfař</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černý" POS="AAIS6" Stem="čer">černém</Token>
+      <Token Lemma="potápěčském" POS="NNMS2" Stem="potápěčs">potápěčském</Token>
+      <Token Lemma="oblek" POS="NNIS6" Stem="oblek">obleku</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="bílý" POS="AAFS6" Stem="bíl">bílé</Token>
+      <Token Lemma="vlna" POS="NNFS6" Stem="vln">vlně</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="oceán" POS="NNIS6" Stem="oceán">oceánu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="634">
+    <Sentence>
+      <Text>Mladá dívka s nasazeným růžovým kloboukem se žlutou budovu v pozadí.</Text>
+      <Token Lemma="mladý" POS="AAFS1" Stem="mlad">Mladá</Token>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">dívka</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="nasazený" POS="AAMS7" Stem="nasazen">nasazeným</Token>
+      <Token Lemma="růžový" POS="AAIS7" Stem="růžov">růžovým</Token>
+      <Token Lemma="kloboukem" POS="VB" Stem="klobouk">kloboukem</Token>
+      <Token Lemma="se" POS="RV" Stem="se">se</Token>
+      <Token Lemma="žlutý" POS="AAFS7" Stem="žlut">žlutou</Token>
+      <Token Lemma="budova" POS="NNFS4" Stem="budov">budovu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pozadí" POS="NNNS6" Stem="pozad">pozadí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Mladá dívka v růžových šatech s něčím v ruce.</Text>
+      <Token Lemma="mladý" POS="AAFS1" Stem="mlad">Mladá</Token>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">dívka</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="růžový" POS="AAFP6" Stem="růžov">růžových</Token>
+      <Token Lemma="šat" POS="NNIP6" Stem="šat">šatech</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="něco" POS="PZ" Stem="ně">něčím</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="ruka" POS="NNFS6" Stem="ruk">ruce</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="635">
+    <Sentence>
+      <Text>Dívka v růžových šatech jede na kole podél bílého kolíkového plotu.</Text>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">Dívka</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="růžový" POS="AAFP6" Stem="růžov">růžových</Token>
+      <Token Lemma="šat" POS="NNIP6" Stem="šat">šatech</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolo" POS="NNNS6" Stem="kol">kole</Token>
+      <Token Lemma="podél" POS="RR" Stem="podél">podél</Token>
+      <Token Lemma="bílý" POS="AAMS2" Stem="bíl">bílého</Token>
+      <Token Lemma="kolíkového" POS="NNMS2" Stem="kolík">kolíkového</Token>
+      <Token Lemma="plot" POS="NNIS2" Stem="plot">plotu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dívka v červených šatech jede na kole před bílým plotem.</Text>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">Dívka</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="AAFP6" Stem="červen">červených</Token>
+      <Token Lemma="šat" POS="NNIP6" Stem="šat">šatech</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolo" POS="NNNS6" Stem="kol">kole</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="bílý" POS="AANS7" Stem="bíl">bílým</Token>
+      <Token Lemma="plot" POS="NNIS7" Stem="plot">plotem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="636">
+    <Sentence>
+      <Text>Hnědé chlupaté zvíře stojí za nějakými rostlinami.</Text>
+      <Token Lemma="Hnědé" POS="C" Stem="hněd">Hnědé</Token>
+      <Token Lemma="chlupatý" POS="AAFP1" Stem="chlupat">chlupaté</Token>
+      <Token Lemma="zvíře" POS="NNNS1" Stem="zvíř">zvíře</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="nějaký" POS="PZXP7" Stem="nějak">nějakými</Token>
+      <Token Lemma="rostlina" POS="NNFP7" Stem="rostl">rostlinami</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes kouká, zatímco stojí v lese.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="koukat" POS="VB" Stem="kouk">kouká</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="les" POS="NNIS6" Stem="les">lese</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="637">
+    <Sentence>
+      <Text>Dítě v červené košili použivá černý wake board, aby přecáknul plážovou vlnu.</Text>
+      <Token Lemma="dítě" POS="NNNS1" Stem="dít">Dítě</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="AAFS6" Stem="červen">červené</Token>
+      <Token Lemma="košile" POS="NNFS6" Stem="košil">košili</Token>
+      <Token Lemma="použivá" POS="VB" Stem="použiv">použivá</Token>
+      <Token Lemma="černý" POS="AAMS1" Stem="čern">černý</Token>
+      <Token Lemma="wake" POS="NNMS1" Stem="wak">wake</Token>
+      <Token Lemma="board" POS="VB" Stem="board">board</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="aby" POS="J" Stem="aby">aby</Token>
+      <Token Lemma="přecáknul" POS="VB" Stem="přecáknul">přecáknul</Token>
+      <Token Lemma="plážovou" POS="Vf" Stem="pláž">plážovou</Token>
+      <Token Lemma="vlna" POS="NNFS4" Stem="vln">vlnu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž v člunu vesluje přes modrou vodou.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="člun" POS="NNIS6" Stem="člun">člunu</Token>
+      <Token Lemma="vesluje" POS="NNFS2" Stem="vesluj">vesluje</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="modrý" POS="AAFS4" Stem="modr">modrou</Token>
+      <Token Lemma="voda" POS="NNFS7" Stem="vod">vodou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="638">
+    <Sentence>
+      <Text>Béžovo bílý pes běží v poli.</Text>
+      <Token Lemma="Béžovo" POS="NNMS1" Stem="béžov">Béžovo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pole" POS="NNNS6" Stem="pol">poli</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hnědo bílý pes běží skrz pole.</Text>
+      <Token Lemma="Hnědo" POS="NNMS1" Stem="hněd">Hnědo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="skrz" POS="RR" Stem="skrz">skrz</Token>
+      <Token Lemma="pole" POS="NNNS4" Stem="pol">pole</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="639">
+    <Sentence>
+      <Text>Tři malé dívky sedí na trávě.</Text>
+      <Token Lemma="tři" POS="ClXP1" Stem="tři">Tři</Token>
+      <Token Lemma="malý" POS="AAFP1" Stem="mal">malé</Token>
+      <Token Lemma="dívka" POS="NNFP1" Stem="dívk">dívky</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva pudlové běží sněhem.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pudlové" POS="NNIS1" Stem="pudl">pudlové</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="sníh" POS="NNIS7" Stem="sněh">sněhem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="640">
+    <Sentence>
+      <Text>Hnědý pes běží směrem k fotoaparátu na prašné stezce s horami v pozadí.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="směr" POS="NNIS7" Stem="směr">směrem</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="fotoaparát" POS="NNIS2" Stem="fotoaparát">fotoaparátu</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="prašný" POS="AAIP1" Stem="prašn">prašné</Token>
+      <Token Lemma="stezka" POS="NNFS6" Stem="stezk">stezce</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="hora" POS="NNFP7" Stem="hor">horami</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pozadí" POS="NNNS6" Stem="pozad">pozadí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hnědý pes běží dolů směrem ke kameře po skalní stezce skrz křoví s horami v pozadí.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="dolů" POS="Db" Stem="dol">dolů</Token>
+      <Token Lemma="směr" POS="NNIS7" Stem="směr">směrem</Token>
+      <Token Lemma="k" POS="RV" Stem="ke">ke</Token>
+      <Token Lemma="kameře" POS="NNFS4" Stem="kameř">kameře</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="skalní" POS="AAMP4" Stem="skaln">skalní</Token>
+      <Token Lemma="stezka" POS="NNFS6" Stem="stezk">stezce</Token>
+      <Token Lemma="skrz" POS="RR" Stem="skrz">skrz</Token>
+      <Token Lemma="křoví" POS="NNNS4" Stem="křov">křoví</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="hora" POS="NNFP7" Stem="hor">horami</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pozadí" POS="NNNS6" Stem="pozad">pozadí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="641">
+    <Sentence>
+      <Text>Zlatý retrívr skákající z dřevěné verandy.</Text>
+      <Token Lemma="zlatý" POS="AAIS1" Stem="zlat">Zlatý</Token>
+      <Token Lemma="retrívr" POS="NNIS1" Stem="retrívr">retrívr</Token>
+      <Token Lemma="skákající" POS="AGFS2" Stem="skákajíc">skákající</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="dřevěný" POS="AAFS2" Stem="dřevěn">dřevěné</Token>
+      <Token Lemma="verandy" POS="NNFS2" Stem="verand">verandy</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Zlatý retrívr skáče z dřevěné verandy.</Text>
+      <Token Lemma="zlatý" POS="AAIS1" Stem="zlat">Zlatý</Token>
+      <Token Lemma="retrívr" POS="NNIS1" Stem="retrívr">retrívr</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="dřevěný" POS="AAFS2" Stem="dřevěn">dřevěné</Token>
+      <Token Lemma="verandy" POS="NNFS2" Stem="verand">verandy</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="642">
+    <Sentence>
+      <Text>Pes je skáče dolů po rampě.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="důl" POS="Db" Stem="dol">dolů</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="rampa" POS="NNFS6" Stem="ramp">rampě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dívka skáče v písku.</Text>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">Dívka</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="písek" POS="NNIS6" Stem="písk">písku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="643">
+    <Sentence>
+      <Text>Pes si hraje v parku.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hraje</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="park" POS="NNIS6" Stem="park">parku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes skáče přes plot v parku.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="plot" POS="NNIS4" Stem="plot">plot</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="park" POS="NNIS6" Stem="park">parku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="644">
+    <Sentence>
+      <Text>Dvě mladé dívky, jedna se usmívá.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="mladý" POS="AAFP1" Stem="mlad">mladé</Token>
+      <Token Lemma="dívka" POS="NNFP1" Stem="dívk">dívky</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="jeden" POS="ClFS1" Stem="jedn">jedna</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="usmívat" POS="VB" Stem="usmív">usmívá</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Holčička na dětské houpačce.</Text>
+      <Token Lemma="Holčička" POS="NNIS1" Stem="holčičk">Holčička</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="dětský" POS="AANS4" Stem="dětsk">dětské</Token>
+      <Token Lemma="houpačce" POS="VB" Stem="houpačk">houpačce</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="645">
+    <Sentence>
+      <Text>Dva ptáci škádlící se v trávě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pták" POS="NNMP1" Stem="pták">ptáci</Token>
+      <Token Lemma="škádlící" POS="NNMS2" Stem="škádlíc">škádlící</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi si spolu venku hrají.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="spolu" POS="Db" Stem="spol">spolu</Token>
+      <Token Lemma="venku" POS="Db" Stem="venk">venku</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="646">
+    <Sentence>
+      <Text>Čtyři psi stojí ve sněhu.</Text>
+      <Token Lemma="čtyři" POS="ClXP1" Stem="čtyř">Čtyři</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Čtyři psi hrající si ve sněhu.</Text>
+      <Token Lemma="čtyři" POS="ClXP1" Stem="čtyř">Čtyři</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="647">
+    <Sentence>
+      <Text>Hnědí a černí psi ve sněhu, ukazující zuby a štěkající na sebe.</Text>
+      <Token Lemma="Hnědí" POS="NNMS1" Stem="hněd">Hnědí</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="černý" POS="AAMP1" Stem="čern">černí</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="ukazující" POS="AGFS1" Stem="ukazujíc">ukazující</Token>
+      <Token Lemma="zub" POS="NNIP4" Stem="zub">zuby</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="štěkající" POS="AGFS2" Stem="štěkajíc">štěkající</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="se" POS="P6" Stem="seb">sebe</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černý pes bojující s hnědým psem ve sněhu.</Text>
+      <Token Lemma="Černý" POS="AAMS1" Stem="čern">Černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="bojující" POS="AGMP1" Stem="bojujíc">bojující</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="hnědý" POS="AAIS7" Stem="hněd">hnědým</Token>
+      <Token Lemma="pes" POS="NNMS7" Stem="psem">psem</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="648">
+    <Sentence>
+      <Text>Dva turisté stojí na vrcholu zasněžené hory.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="turista" POS="NNMP1" Stem="turist">turisté</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="vrchol" POS="NNIS6" Stem="vrchol">vrcholu</Token>
+      <Token Lemma="zasněžené" POS="NNFS2" Stem="zasněžen">zasněžené</Token>
+      <Token Lemma="hora" POS="NNFS2" Stem="hor">hory</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva horolezci stojí na vrcholu hory rozhlížející se kolem sebe.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="horolezec" POS="NNMP1" Stem="horolezk">horolezci</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="vrchol" POS="NNIS6" Stem="vrchol">vrcholu</Token>
+      <Token Lemma="hora" POS="NNFS2" Stem="hor">hory</Token>
+      <Token Lemma="rozhlížející" POS="Vf" Stem="rozhlížejíc">rozhlížející</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="kolem" POS="RR" Stem="kol">kolem</Token>
+      <Token Lemma="se" POS="P6" Stem="seb">sebe</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="649">
+    <Sentence>
+      <Text>Muž běžící na trati.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="trať" POS="NNFS6" Stem="trat">trati</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Běžící muž na trati.</Text>
+      <Token Lemma="Běžící" POS="NNMS1" Stem="běžíc">Běžící</Token>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">muž</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="trať" POS="NNFS6" Stem="trat">trati</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="650">
+    <Sentence>
+      <Text>Dvě děti v poli červených květin.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">děti</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pole" POS="NNNS6" Stem="pol">poli</Token>
+      <Token Lemma="červený" POS="AAFP2" Stem="červen">červených</Token>
+      <Token Lemma="květina" POS="NNFP2" Stem="květ">květin</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dvě děti si hrají v poli červených květin.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">děti</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pole" POS="NNNS6" Stem="pol">poli</Token>
+      <Token Lemma="červený" POS="AAFP2" Stem="červen">červených</Token>
+      <Token Lemma="květina" POS="NNFP2" Stem="květ">květin</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="651">
+    <Sentence>
+      <Text>Mladí muži skáčou ze skály do jezera.</Text>
+      <Token Lemma="mladý" POS="AAMP1" Stem="mlad">Mladí</Token>
+      <Token Lemma="muž" POS="NNMP1" Stem="muh">muži</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skáč">skáčou</Token>
+      <Token Lemma="z" POS="RV" Stem="ze">ze</Token>
+      <Token Lemma="skála" POS="NNFP1" Stem="skál">skály</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="jezero" POS="NNNS2" Stem="jezer">jezera</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Mladý muž v červených plavkách skáče z velké skály do vody.</Text>
+      <Token Lemma="mladý" POS="AAMS1" Stem="mlad">Mladý</Token>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">muž</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="AAFP6" Stem="červen">červených</Token>
+      <Token Lemma="plavky" POS="NNFP6" Stem="plavk">plavkách</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="velký" POS="AAFS2" Stem="velk">velké</Token>
+      <Token Lemma="skála" POS="NNFP1" Stem="skál">skály</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="voda" POS="NNFS2" Stem="vod">vody</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="652">
+    <Sentence>
+      <Text>Malý černý pes je v trávě.</Text>
+      <Token Lemma="malý" POS="AAMS1" Stem="mal">Malý</Token>
+      <Token Lemma="černý" POS="AAMS1" Stem="čern">černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černý pes běží v trávě.</Text>
+      <Token Lemma="Černý" POS="AAMS1" Stem="čern">Černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="653">
+    <Sentence>
+      <Text>Dáma v kimonu se dívá do kamery.</Text>
+      <Token Lemma="dáma" POS="NNFS1" Stem="dám">Dáma</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="kimonu" POS="NNFS4" Stem="kimon">kimonu</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="dívat" POS="VB" Stem="dív">dívá</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="kamera" POS="NNFS2" Stem="kamer">kamery</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dvě dívky oblečené v černém sedí v místnosti, dělající sugestivní pózy na kameru.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="dívka" POS="NNFP1" Stem="dívk">dívky</Token>
+      <Token Lemma="oblečené" POS="NNFS2" Stem="oblečen">oblečené</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černý" POS="AANS6" Stem="čer">černém</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="místnost" POS="NNFS6" Stem="místnost">místnosti</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="dělající" POS="AAFS1" Stem="dělajíc">dělající</Token>
+      <Token Lemma="sugestivní" POS="AAFS1" Stem="sugestivn">sugestivní</Token>
+      <Token Lemma="pózy" POS="NNFS1" Stem="póz">pózy</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kamera" POS="NNFS4" Stem="kamer">kameru</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="654">
+    <Sentence>
+      <Text>Skupina lidí nafukuje horkovzdušný balón.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="nafukovat" POS="VB" Stem="nafukuj">nafukuje</Token>
+      <Token Lemma="horkovzdušný" POS="AAFS1" Stem="horkovzdušn">horkovzdušný</Token>
+      <Token Lemma="balón" POS="NNFS1" Stem="balón">balón</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Velká skupina lidí jedoucí na hnědých a bílých koních.</Text>
+      <Token Lemma="velký" POS="AAFS1" Stem="velk">Velká</Token>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">skupina</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="jedoucí" POS="AGIS1" Stem="jedouc">jedoucí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="hnědých" POS="NNFS4" Stem="hněd">hnědých</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="bílý" POS="AAMP2" Stem="bíl">bílých</Token>
+      <Token Lemma="kůň" POS="NNMP6" Stem="kon">koních</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="655">
+    <Sentence>
+      <Text>Děti si hrají na boj s meči.</Text>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">Děti</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="boj" POS="NNIS4" Stem="boj">boj</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="meč" POS="NNIP7" Stem="mek">meči</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dítě a rodič se mazlí s koněm.</Text>
+      <Token Lemma="dítě" POS="NNNS1" Stem="dít">Dítě</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="rodič" POS="NNMS1" Stem="rodič">rodič</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="mazlit" POS="VB" Stem="mazl">mazlí</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="kůň" POS="NNMS7" Stem="koněm">koněm</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="656">
+    <Sentence>
+      <Text>Muž jede na windsurfu v oceánu.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="windsurfu" POS="NNFS4" Stem="windsurf">windsurfu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="oceán" POS="NNIS6" Stem="oceán">oceánu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes běží oceánem.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="oceán" POS="NNIS7" Stem="oceán">oceánem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="657">
+    <Sentence>
+      <Text>Muž na bruslích sjíždí řadu schodů.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="brusle" POS="NNFP6" Stem="brusl">bruslích</Token>
+      <Token Lemma="sjíždět" POS="VB" Stem="sjížd">sjíždí</Token>
+      <Token Lemma="řada" POS="NNFS4" Stem="řad">řadu</Token>
+      <Token Lemma="schod" POS="NNIP2" Stem="schod">schodů</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž na lýžích sjíždí zasněžený kopec.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="lýžích" POS="NNFS4" Stem="lýž">lýžích</Token>
+      <Token Lemma="sjíždět" POS="VB" Stem="sjížd">sjíždí</Token>
+      <Token Lemma="zasněžený" POS="Vf" Stem="zasněžen">zasněžený</Token>
+      <Token Lemma="kopec" POS="NNIS1" Stem="kopec">kopec</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="658">
+    <Sentence>
+      <Text>Tři psi závodící na prašné dráze.</Text>
+      <Token Lemma="tři" POS="ClXP1" Stem="tři">Tři</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="závodící" POS="NNFS2" Stem="závodíc">závodící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="prašný" POS="AAIP1" Stem="prašn">prašné</Token>
+      <Token Lemma="dráha" POS="NNFS3" Stem="dráh">dráze</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Auta závodící na prašné dráze.</Text>
+      <Token Lemma="auto" POS="NNNP1" Stem="aut">Auta</Token>
+      <Token Lemma="závodící" POS="NNFS2" Stem="závodíc">závodící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="prašný" POS="AAIP1" Stem="prašn">prašné</Token>
+      <Token Lemma="dráha" POS="NNFS3" Stem="dráh">dráze</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="659">
+    <Sentence>
+      <Text>Dva lidé držící se za ruce a jdoucí v poli.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="člověk" POS="NNMP1" Stem="lid">lidé</Token>
+      <Token Lemma="držící" POS="AGIS4" Stem="držíc">držící</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="ruka" POS="NNFP4" Stem="ruk">ruce</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="jdoucí" POS="AGFP1" Stem="jdouc">jdoucí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pole" POS="NNNS6" Stem="pol">poli</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva muži, procházející kolem nástěnné malby auta.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="muž" POS="NNMP1" Stem="muh">muži</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="procházející" POS="AGFS1" Stem="procházejíc">procházející</Token>
+      <Token Lemma="kolem" POS="RR" Stem="kol">kolem</Token>
+      <Token Lemma="nástěnný" POS="AAIP4" Stem="nástěnn">nástěnné</Token>
+      <Token Lemma="malba" POS="NNFS2" Stem="malb">malby</Token>
+      <Token Lemma="auto" POS="NNNS2" Stem="aut">auta</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="660">
+    <Sentence>
+      <Text>Hnědý pes honí Frisbee.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="honí" POS="NNMS1" Stem="hon">honí</Token>
+      <Token Lemma="Frisbee" POS="NNMS1" Stem="frisbe">Frisbee</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hnědý pes válející se na trávě.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="válející" POS="NNMS1" Stem="válejíc">válející</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="661">
+    <Sentence>
+      <Text>Dáma ve žlutém oblečení je ve vzduchu nad postelí ve žluté místnosti.</Text>
+      <Token Lemma="dáma" POS="NNFS1" Stem="dám">Dáma</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="žlutý" POS="AANS6" Stem="žlu">žlutém</Token>
+      <Token Lemma="oblečení" POS="NNNS6" Stem="oblečen">oblečení</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="vzduch" POS="NNIS6" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="nad" POS="RR" Stem="nad">nad</Token>
+      <Token Lemma="postel" POS="NNFS7" Stem="postel">postelí</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="žlutý" POS="AAFS6" Stem="žlut">žluté</Token>
+      <Token Lemma="místnost" POS="NNFS6" Stem="místnost">místnosti</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes s červeným vodítkem je stále zapojen do honičky po trávě za tenisovým míčkem.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="červený" POS="AANS7" Stem="červen">červeným</Token>
+      <Token Lemma="vodítko" POS="NNNS7" Stem="vodítk">vodítkem</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="stále" POS="Db" Stem="stál">stále</Token>
+      <Token Lemma="zapojit" POS="VsYS" Stem="zapojen">zapojen</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="honička" POS="NNFP4" Stem="honičk">honičky</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="za" POS="RR" Stem="za">za</Token>
+      <Token Lemma="tenisový" POS="AAIS7" Stem="tenis">tenisovým</Token>
+      <Token Lemma="míčkem" POS="C" Stem="míčk">míčkem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="662">
+    <Sentence>
+      <Text>Žena v červených montérkách, stojící na chodníku.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="AAFP6" Stem="červen">červených</Token>
+      <Token Lemma="montérkách" POS="C" Stem="montérk">montérkách</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="stojící" POS="AGFS1" Stem="stojíc">stojící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="chodník" POS="NNIS6" Stem="chodník">chodníku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena v červených montérkách stojí na chodníku.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="AAFP6" Stem="červen">červených</Token>
+      <Token Lemma="montérkách" POS="C" Stem="montérk">montérkách</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="chodník" POS="NNIS6" Stem="chodník">chodníku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="663">
+    <Sentence>
+      <Text>Pes běží přes dvorek plný listů.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="dvorek" POS="NNFS4" Stem="dvorek">dvorek</Token>
+      <Token Lemma="plný" POS="AAIS1" Stem="pln">plný</Token>
+      <Token Lemma="list" POS="NNIP2" Stem="list">listů</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Tři psi běží přes pole.</Text>
+      <Token Lemma="tři" POS="ClXP1" Stem="tři">Tři</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="pole" POS="NNNS4" Stem="pol">pole</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="664">
+    <Sentence>
+      <Text>Dvě štěňata hrající si kolem v trávě.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="štěně" POS="NNNP4" Stem="štěň">štěňata</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="kolem" POS="Db" Stem="kol">kolem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dvě štěňata si hrají v trávě.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="štěně" POS="NNNP4" Stem="štěň">štěňata</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="665">
+    <Sentence>
+      <Text>Světle zbarvený pes běží v trávě.</Text>
+      <Token Lemma="Světle" POS="NNIS1" Stem="světl">Světle</Token>
+      <Token Lemma="zbarvený" POS="AAIS1" Stem="zbarven">zbarvený</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes běží přes trávu.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="tráva" POS="NNFS4" Stem="tráv">trávu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="666">
+    <Sentence>
+      <Text>Dva černo bílí psi si hrají spolu venku.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="černo" POS="NNNS4" Stem="čern">černo</Token>
+      <Token Lemma="bílý" POS="AAMP1" Stem="bíl">bílí</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="spolu" POS="Db" Stem="spol">spolu</Token>
+      <Token Lemma="venku" POS="Db" Stem="venk">venku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dvě děti a černý pes si hrají venku ve sněhu.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">děti</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="černý" POS="AAMS1" Stem="čern">černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="venku" POS="Db" Stem="venk">venku</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="667">
+    <Sentence>
+      <Text>Tři psi běžící vodou.</Text>
+      <Token Lemma="tři" POS="ClXP1" Stem="tři">Tři</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="voda" POS="NNFS7" Stem="vod">vodou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černý pes běžící vodou.</Text>
+      <Token Lemma="Černý" POS="AAMS1" Stem="čern">Černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="voda" POS="NNFS7" Stem="vod">vodou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="668">
+    <Sentence>
+      <Text>Žena sedí sama naproti cihlové zdi.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="sám" POS="PLFS1" Stem="sam">sama</Token>
+      <Token Lemma="naproti" POS="Db" Stem="naprot">naproti</Token>
+      <Token Lemma="cihlové" POS="NNIS1" Stem="cihl">cihlové</Token>
+      <Token Lemma="zeď" POS="NNFS2" Stem="zdi">zdi</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena se prochází se svojí červenou taškou.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="procházet" POS="VB" Stem="procház">prochází</Token>
+      <Token Lemma="se" POS="RV" Stem="se">se</Token>
+      <Token Lemma="svůj" POS="P8FS7" Stem="svoj">svojí</Token>
+      <Token Lemma="červený" POS="AAFS7" Stem="červen">červenou</Token>
+      <Token Lemma="taška" POS="NNFS7" Stem="tašk">taškou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="669">
+    <Sentence>
+      <Text>Lyžař je skákáče do vzduchu přes sněhové pole v blízkosti pohoří.</Text>
+      <Token Lemma="Lyžař" POS="NNFS1" Stem="lyžař">Lyžař</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="skákáče" POS="Vf" Stem="skákák">skákáče</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="vzduch" POS="NNIS2" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="sněhový" POS="AAFP4" Stem="sněh">sněhové</Token>
+      <Token Lemma="pole" POS="NNNP1" Stem="pol">pole</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="blízkost" POS="NNFS6" Stem="blízkost">blízkosti</Token>
+      <Token Lemma="pohoří" POS="NNNS2" Stem="pohoř">pohoří</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena sedí u záhonu s výhledem do tunelu.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="u" POS="RR" Stem="u">u</Token>
+      <Token Lemma="záhonu" POS="NNFS2" Stem="záhon">záhonu</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="výhled" POS="NNIS7" Stem="výhled">výhledem</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="tunel" POS="NNIS2" Stem="tunel">tunelu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="670">
+    <Sentence>
+      <Text>Hnědý pes nesoucí klacek v tlamě.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="nesoucí" POS="AGMS1" Stem="nesouc">nesoucí</Token>
+      <Token Lemma="klacek" POS="NNIS4" Stem="klacek">klacek</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="NNFS4" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes plavající s klacek v tlamě.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="plavající" POS="NNMS1" Stem="plavajíc">plavající</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="klacek" POS="NNIS4" Stem="klacek">klacek</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="NNFS4" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="671">
+    <Sentence>
+      <Text>Mladá žena se naklání k talíři při jídle.</Text>
+      <Token Lemma="mladý" POS="AAFS1" Stem="mlad">Mladá</Token>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">žena</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="naklánět" POS="VB" Stem="naklán">naklání</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="talíř" POS="NNIP7" Stem="talíř">talíři</Token>
+      <Token Lemma="při" POS="RR" Stem="při">při</Token>
+      <Token Lemma="jídlo" POS="NNNS6" Stem="jídl">jídle</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Mladá žena, nahoře bez s výjimkou barvy nebo bahna.</Text>
+      <Token Lemma="mladý" POS="AAFS1" Stem="mlad">Mladá</Token>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">žena</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="nahoře" POS="Db" Stem="nahoř">nahoře</Token>
+      <Token Lemma="bez" POS="RR" Stem="bez">bez</Token>
+      <Token Lemma="s" POS="NNFXX" Stem="s">s</Token>
+      <Token Lemma="výjimka" POS="NNFS7" Stem="výjimk">výjimkou</Token>
+      <Token Lemma="barva" POS="NNFS2" Stem="barv">barvy</Token>
+      <Token Lemma="nebo" POS="J" Stem="neb">nebo</Token>
+      <Token Lemma="bahno" POS="NNNS2" Stem="bahn">bahna</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="672">
+    <Sentence>
+      <Text>Psi si hrají ve sněhu.</Text>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">Psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi hrající si na pobřeží.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pobřeží" POS="NNNS6" Stem="pobřež">pobřeží</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="673">
+    <Sentence>
+      <Text>Mladý chlapec v červených plavkách skáče do bazénu.</Text>
+      <Token Lemma="mladý" POS="AAMS1" Stem="mlad">Mladý</Token>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">chlapec</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="AAFP6" Stem="červen">červených</Token>
+      <Token Lemma="plavky" POS="NNFP6" Stem="plavk">plavkách</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="bazén" POS="NNIS2" Stem="bazén">bazénu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes je stříkán hadicí, zatímco skáče do brouzdaliště.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="stříkán" POS="NNFS4" Stem="stříkán">stříkán</Token>
+      <Token Lemma="hadicí" POS="Vf" Stem="hadic">hadicí</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="brouzdaliště" POS="NNNS1" Stem="brouzdališt">brouzdaliště</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="674">
+    <Sentence>
+      <Text>Osoba, která leze na zasněžené kopce, je následvána jejím psem.</Text>
+      <Token Lemma="osoba" POS="NNFS1" Stem="osob">Osoba</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="který" POS="P4FS1" Stem="kter">která</Token>
+      <Token Lemma="lézt" POS="VB" Stem="leh">leze</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="zasněžené" POS="NNFS4" Stem="zasněžen">zasněžené</Token>
+      <Token Lemma="kopec" POS="NNIS2" Stem="kopk">kopce</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="následvána" POS="NNFS4" Stem="následván">následvána</Token>
+      <Token Lemma="jeho" POS="PSZS7FS3" Stem="je">jejím</Token>
+      <Token Lemma="pes" POS="NNMS7" Stem="psem">psem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Osoba šplhá na zasněžené kopce, zatímco černý pes následuje.</Text>
+      <Token Lemma="osoba" POS="NNFS1" Stem="osob">Osoba</Token>
+      <Token Lemma="šplhat" POS="VB" Stem="šplh">šplhá</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="zasněžené" POS="NNFS4" Stem="zasněžen">zasněžené</Token>
+      <Token Lemma="kopec" POS="NNIS2" Stem="kopk">kopce</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="černý" POS="AAMS1" Stem="čern">černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="následovat" POS="VB" Stem="následuj">následuje</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="675">
+    <Sentence>
+      <Text>Hnědý pes sedí na pláži.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes běžící na pláži.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="676">
+    <Sentence>
+      <Text>Potápěč ponořený ve vodě.</Text>
+      <Token Lemma="Potápěč" POS="NNIS1" Stem="potápěč">Potápěč</Token>
+      <Token Lemma="ponořený" POS="AAIS4" Stem="ponořen">ponořený</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="voda" POS="NNFS6" Stem="vod">vodě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Potápěč je pod vodou.</Text>
+      <Token Lemma="Potápěč" POS="NNIS1" Stem="potápěč">Potápěč</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="pod" POS="RR" Stem="pod">pod</Token>
+      <Token Lemma="voda" POS="NNFS7" Stem="vod">vodou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="677">
+    <Sentence>
+      <Text>Muž jede na kole ze zaprášeného kopce.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolo" POS="NNNS6" Stem="kol">kole</Token>
+      <Token Lemma="z" POS="RV" Stem="ze">ze</Token>
+      <Token Lemma="zaprášeného" POS="NNFS2" Stem="zaprášen">zaprášeného</Token>
+      <Token Lemma="kopec" POS="NNIS2" Stem="kopk">kopce</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Cyklista sjíždí dolů po zábradlí.</Text>
+      <Token Lemma="cyklista" POS="NNMS1" Stem="cyklist">Cyklista</Token>
+      <Token Lemma="sjíždět" POS="VB" Stem="sjížd">sjíždí</Token>
+      <Token Lemma="důl" POS="Db" Stem="dol">dolů</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="zábradlí" POS="NNNS6" Stem="zábradl">zábradlí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="678">
+    <Sentence>
+      <Text>Velký šedý pes si hraje v hlubokém sněhu.</Text>
+      <Token Lemma="velký" POS="AAIS1" Stem="velk">Velký</Token>
+      <Token Lemma="šedý" POS="AAIS1" Stem="šed">šedý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hraje</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="hluboký" POS="AAIS6" Stem="hlubo">hlubokém</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Čtyři psi hrající si ve sněhu.</Text>
+      <Token Lemma="čtyři" POS="ClXP1" Stem="čtyř">Čtyři</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="hrající" POS="AGMP1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="679">
+    <Sentence>
+      <Text>Muž jedoucí na kole na pláži u oceánu.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="jedoucí" POS="AGMS1" Stem="jedouc">jedoucí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolo" POS="NNNS6" Stem="kol">kole</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="u" POS="RR" Stem="u">u</Token>
+      <Token Lemma="oceán" POS="NNIS2" Stem="oceán">oceánu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž jdoucí se svou krávou po straně silnice.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="jdoucí" POS="AGIP1" Stem="jdouc">jdoucí</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="svůj" POS="P8FS7" Stem="svo">svou</Token>
+      <Token Lemma="kráva" POS="NNFS7" Stem="kráv">krávou</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="strana" POS="NNFS6" Stem="stran">straně</Token>
+      <Token Lemma="silnice" POS="NNFS2" Stem="silnik">silnice</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="680">
+    <Sentence>
+      <Text>Dva psi běží na trávě před stromy.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="strom" POS="NNIP7" Stem="strom">stromy</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hnědý pes běží na trávě v před nějakými stromy.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="nějaký" POS="PZXP7" Stem="nějak">nějakými</Token>
+      <Token Lemma="strom" POS="NNIP7" Stem="strom">stromy</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="681">
+    <Sentence>
+      <Text>Pes v autě.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="auto" POS="NNNS6" Stem="aut">autě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes kouše do mopu.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="kousat" POS="VB" Stem="kouš">kouše</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="mopu" POS="C" Stem="mop">mopu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="682">
+    <Sentence>
+      <Text>Dítě drží objekt, který je v jednom ohni.</Text>
+      <Token Lemma="dítě" POS="NNNS1" Stem="dít">Dítě</Token>
+      <Token Lemma="držet" POS="VB" Stem="drž">drží</Token>
+      <Token Lemma="objekt" POS="NNIS4" Stem="objekt">objekt</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="který" POS="P4YS1" Stem="kter">který</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jeden" POS="ClZS6" Stem="jednom">jednom</Token>
+      <Token Lemma="oheň" POS="NNIS6" Stem="ohn">ohni</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dítě v růžové má objekt, který se zdá být v jednom ohni.</Text>
+      <Token Lemma="dítě" POS="NNNS1" Stem="dít">Dítě</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="růžový" POS="AANS1" Stem="růž">růžové</Token>
+      <Token Lemma="mít" POS="VB" Stem="má">má</Token>
+      <Token Lemma="objekt" POS="NNIS4" Stem="objekt">objekt</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="který" POS="P4YS1" Stem="kter">který</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="zdát" POS="VB" Stem="zdá">zdá</Token>
+      <Token Lemma="být" POS="Vf" Stem="být">být</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jeden" POS="ClZS6" Stem="jednom">jednom</Token>
+      <Token Lemma="oheň" POS="NNIS6" Stem="ohn">ohni</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="683">
+    <Sentence>
+      <Text>Pes s plandavýma ušima jdoucí směrem k fotoaparátu v lese.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="s" POS="NNFXX" Stem="s">s</Token>
+      <Token Lemma="plandavýma" POS="NNMS1" Stem="plandavým">plandavýma</Token>
+      <Token Lemma="ucho" POS="NNFD7" Stem="ušim">ušima</Token>
+      <Token Lemma="jdoucí" POS="AGIP1" Stem="jdouc">jdoucí</Token>
+      <Token Lemma="směr" POS="NNIS7" Stem="směr">směrem</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="fotoaparát" POS="NNIS2" Stem="fotoaparát">fotoaparátu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="les" POS="NNIS6" Stem="les">lese</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dítě před vlastním odrazem otáčící se na kameru a usmívající se.</Text>
+      <Token Lemma="dítě" POS="NNNS1" Stem="dít">Dítě</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="vlastní" POS="AAIS7" Stem="vlast">vlastním</Token>
+      <Token Lemma="odraz" POS="NNIS7" Stem="odrah">odrazem</Token>
+      <Token Lemma="otáčící" POS="Vf" Stem="otáčíc">otáčící</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kamera" POS="NNFS4" Stem="kamer">kameru</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="usmívající" POS="VB" Stem="usmívajíc">usmívající</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="684">
+    <Sentence>
+      <Text>Hnědý pes stříkající vodu všude otřepáváním vody ze sebe.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="stříkající" POS="AGFS2" Stem="stříkajíc">stříkající</Token>
+      <Token Lemma="voda" POS="NNFS4" Stem="vod">vodu</Token>
+      <Token Lemma="všude" POS="Db" Stem="všud">všude</Token>
+      <Token Lemma="otřepáváním" POS="NNFS4" Stem="otřepává">otřepáváním</Token>
+      <Token Lemma="voda" POS="NNFS2" Stem="vod">vody</Token>
+      <Token Lemma="z" POS="RV" Stem="ze">ze</Token>
+      <Token Lemma="se" POS="P6" Stem="seb">sebe</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Bílý pes stojí u řeky, otřásající se do sucha.</Text>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">Bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="u" POS="RR" Stem="u">u</Token>
+      <Token Lemma="řeka" POS="NNFS2" Stem="řek">řeky</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="otřásající" POS="AGFS1" Stem="otřásajíc">otřásající</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="sucho" POS="NNNS2" Stem="such">sucha</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="685">
+    <Sentence>
+      <Text>Mladý chlapec lezoucí na skalní stěnu.</Text>
+      <Token Lemma="mladý" POS="AAMS1" Stem="mlad">Mladý</Token>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">chlapec</Token>
+      <Token Lemma="lezoucí" POS="VB" Stem="lezouc">lezoucí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="skalní" POS="AAMP4" Stem="skaln">skalní</Token>
+      <Token Lemma="stěna" POS="NNFS4" Stem="stěn">stěnu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pět chrtů závodí na pískové dráze.</Text>
+      <Token Lemma="pět" POS="Cn" Stem="pět">Pět</Token>
+      <Token Lemma="chrt" POS="NNMP2" Stem="chrt">chrtů</Token>
+      <Token Lemma="závodit" POS="VB" Stem="závod">závodí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pískové" POS="NNFS4" Stem="písk">pískové</Token>
+      <Token Lemma="dráha" POS="NNFS3" Stem="dráh">dráze</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="686">
+    <Sentence>
+      <Text>Černo bílý pes běží na pláži.</Text>
+      <Token Lemma="Černo" POS="NNMS1" Stem="čern">Černo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černo hnědý pes běží sněhem.</Text>
+      <Token Lemma="Černo" POS="NNIS1" Stem="čern">Černo</Token>
+      <Token Lemma="hnědý" POS="AAIS1" Stem="hněd">hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="sníh" POS="NNIS7" Stem="sněh">sněhem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="687">
+    <Sentence>
+      <Text>Mnoho lidí ze středního východu sedí v zadní části modrého vozu.</Text>
+      <Token Lemma="mnoho" POS="Ca" Stem="mnoh">Mnoho</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="z" POS="RV" Stem="ze">ze</Token>
+      <Token Lemma="střední" POS="AAIS2" Stem="středn">středního</Token>
+      <Token Lemma="východ" POS="NNIS2" Stem="východ">východu</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="zadní" POS="AAFS6" Stem="zadn">zadní</Token>
+      <Token Lemma="část" POS="NNFS6" Stem="část">části</Token>
+      <Token Lemma="modrý" POS="AAIS2" Stem="modr">modrého</Token>
+      <Token Lemma="vůz" POS="NNIS2" Stem="voz">vozu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skupina lidí jede v zadní části kamionu.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="zadní" POS="AAFS6" Stem="zadn">zadní</Token>
+      <Token Lemma="část" POS="NNFS6" Stem="část">části</Token>
+      <Token Lemma="kamión" POS="NNIS2" Stem="kamion">kamionu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="688">
+    <Sentence>
+      <Text>Člověk se dvěmi lyžařskými hůlkami sjíždící zasněžený kopec.</Text>
+      <Token Lemma="člověk" POS="NNMS1" Stem="člověk">Člověk</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="dvěmi" POS="VB" Stem="dvě">dvěmi</Token>
+      <Token Lemma="lyžařský" POS="AAFP7" Stem="lyžařsk">lyžařskými</Token>
+      <Token Lemma="hůlkami" POS="VB" Stem="hůlk">hůlkami</Token>
+      <Token Lemma="sjíždící" POS="AAFS1" Stem="sjíždíc">sjíždící</Token>
+      <Token Lemma="zasněžený" POS="NNFS1" Stem="zasněžen">zasněžený</Token>
+      <Token Lemma="kopec" POS="NNIS1" Stem="kopec">kopec</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Člověk na lyžích sjíždící zasněžený kopec.</Text>
+      <Token Lemma="člověk" POS="NNMS1" Stem="člověk">Člověk</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="lyže" POS="NNFP6" Stem="lyž">lyžích</Token>
+      <Token Lemma="sjíždící" POS="NNMS2" Stem="sjíždíc">sjíždící</Token>
+      <Token Lemma="zasněžený" POS="NNMS2" Stem="zasněžen">zasněžený</Token>
+      <Token Lemma="kopec" POS="NNIS1" Stem="kopec">kopec</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="689">
+    <Sentence>
+      <Text>Žena jí ryby v restauraci.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="on" POS="VB" Stem="jí">jí</Token>
+      <Token Lemma="ryba" POS="NNFP4" Stem="ryb">ryby</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="restaurace" POS="NNFS6" Stem="restaurak">restauraci</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena jí velkou rybu v restauraci.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="on" POS="VB" Stem="jí">jí</Token>
+      <Token Lemma="velký" POS="AAFS4" Stem="velk">velkou</Token>
+      <Token Lemma="ryba" POS="NNFS4" Stem="ryb">rybu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="restaurace" POS="NNFS6" Stem="restaurak">restauraci</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="690">
+    <Sentence>
+      <Text>Dítě a dva psi si hrají ve vodě.</Text>
+      <Token Lemma="dítě" POS="NNNS1" Stem="dít">Dítě</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="voda" POS="NNFS6" Stem="vod">vodě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dítě v červeno modrých rukávkách dívající se na vodu.</Text>
+      <Token Lemma="dítě" POS="NNNS1" Stem="dít">Dítě</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="červený" POS="A2" Stem="červen">červeno</Token>
+      <Token Lemma="modrý" POS="AAIP2" Stem="modr">modrých</Token>
+      <Token Lemma="rukávkách" POS="VB" Stem="rukávk">rukávkách</Token>
+      <Token Lemma="dívající" POS="Vf" Stem="dívajíc">dívající</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="voda" POS="NNFS4" Stem="vod">vodu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="691">
+    <Sentence>
+      <Text>Skateboardista dělájící trik na kamenné zdi.</Text>
+      <Token Lemma="Skateboardista" POS="NNIS1" Stem="skateboardist">Skateboardista</Token>
+      <Token Lemma="dělájící" POS="VB" Stem="dělájíc">dělájící</Token>
+      <Token Lemma="trik" POS="NNIS4" Stem="trik">trik</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kamenný" POS="AAFP4" Stem="kamenn">kamenné</Token>
+      <Token Lemma="zeď" POS="NNFP4" Stem="zdi">zdi</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skateboardista jedoucí do svahu.</Text>
+      <Token Lemma="Skateboardista" POS="NNIS1" Stem="skateboardist">Skateboardista</Token>
+      <Token Lemma="jedoucí" POS="AGIS1" Stem="jedouc">jedoucí</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="svah" POS="NNIS2" Stem="svah">svahu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="692">
+    <Sentence>
+      <Text>Lidé stojí na eskalátoru jedoucím nahoru.</Text>
+      <Token Lemma="člověk" POS="NNMP1" Stem="lid">Lidé</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="eskalátor" POS="NNIS2" Stem="eskalátor">eskalátoru</Token>
+      <Token Lemma="jedoucí" POS="AGIS7" Stem="jedou">jedoucím</Token>
+      <Token Lemma="nahoru" POS="Db" Stem="nahor">nahoru</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Lidé jedou nahoru na eskalátoru.</Text>
+      <Token Lemma="člověk" POS="NNMP1" Stem="lid">Lidé</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jedou</Token>
+      <Token Lemma="nahoru" POS="Db" Stem="nahor">nahoru</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="eskalátor" POS="NNIS2" Stem="eskalátor">eskalátoru</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="693">
+    <Sentence>
+      <Text>Dáma běží se svým psem na kurzu hbitosti.</Text>
+      <Token Lemma="dáma" POS="NNFS1" Stem="dám">Dáma</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="se" POS="RV" Stem="se">se</Token>
+      <Token Lemma="svůj" POS="P8ZS7" Stem="svým">svým</Token>
+      <Token Lemma="pes" POS="NNMS7" Stem="psem">psem</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kurs" POS="NNIS6" Stem="kurz">kurzu</Token>
+      <Token Lemma="hbitosti" POS="C" Stem="hbitost">hbitosti</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Trenér běží se svým psem na tréninkovém kurzu v zelené trubce.</Text>
+      <Token Lemma="trenér" POS="NNMS1" Stem="trenér">Trenér</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="se" POS="RV" Stem="se">se</Token>
+      <Token Lemma="svůj" POS="P8ZS7" Stem="svým">svým</Token>
+      <Token Lemma="pes" POS="NNMS7" Stem="psem">psem</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="tréninkový" POS="AAIS6" Stem="tréninko">tréninkovém</Token>
+      <Token Lemma="kurs" POS="NNIS6" Stem="kurz">kurzu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="zelený" POS="AAFS6" Stem="zelen">zelené</Token>
+      <Token Lemma="trubce" POS="C" Stem="trubk">trubce</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="694">
+    <Sentence>
+      <Text>Bílo hnědý pes si oklepává uši.</Text>
+      <Token Lemma="Bílo" POS="NNIS1" Stem="bíl">Bílo</Token>
+      <Token Lemma="hnědý" POS="AAIS1" Stem="hněd">hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="oklepává" POS="VB" Stem="oklepáv">oklepává</Token>
+      <Token Lemma="ucho" POS="NNFP4" Stem="uši">uši</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hnědý pes běží přes písek.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="písek" POS="NNIS4" Stem="písek">písek</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="695">
+    <Sentence>
+      <Text>Skateboardista skáče ze schodů.</Text>
+      <Token Lemma="Skateboardista" POS="NNIS1" Stem="skateboardist">Skateboardista</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="z" POS="RV" Stem="ze">ze</Token>
+      <Token Lemma="schod" POS="NNIP2" Stem="schod">schodů</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes skáče ze schodů.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="z" POS="RV" Stem="ze">ze</Token>
+      <Token Lemma="schod" POS="NNIP2" Stem="schod">schodů</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="696">
+    <Sentence>
+      <Text>Některé děti zvedají ruce a tleskájí.</Text>
+      <Token Lemma="některý" POS="PZFP1" Stem="někter">Některé</Token>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">děti</Token>
+      <Token Lemma="zvedat" POS="VB" Stem="zvedaj">zvedají</Token>
+      <Token Lemma="ruka" POS="NNFP4" Stem="ruk">ruce</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="tleskájí" POS="NNFS4" Stem="tleskáj">tleskájí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Tři děti hrají fotbal na písku.</Text>
+      <Token Lemma="tři" POS="ClXP1" Stem="tři">Tři</Token>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">děti</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="fotbal" POS="NNIS4" Stem="fotbal">fotbal</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="písek" POS="NNIS6" Stem="písk">písku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="697">
+    <Sentence>
+      <Text>Muž vyfoukávající velké bubliny.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="vyfoukávající" POS="NNMS2" Stem="vyfoukávajíc">vyfoukávající</Token>
+      <Token Lemma="velký" POS="AAFS2" Stem="velk">velké</Token>
+      <Token Lemma="bubliny" POS="NNFS2" Stem="bubl">bubliny</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž venčící velkého černého koně.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="venčící" POS="VB" Stem="venčíc">venčící</Token>
+      <Token Lemma="velký" POS="AAMS4" Stem="velk">velkého</Token>
+      <Token Lemma="černý" POS="AAMS4" Stem="čern">černého</Token>
+      <Token Lemma="kůň" POS="NNMS4" Stem="kon">koně</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="698">
+    <Sentence>
+      <Text>Dva lidé sedí v doku kousek od vody.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="člověk" POS="NNMP1" Stem="lid">lidé</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="doku" POS="NNFS4" Stem="dok">doku</Token>
+      <Token Lemma="kousek" POS="NNIS4" Stem="kousek">kousek</Token>
+      <Token Lemma="od" POS="RR" Stem="od">od</Token>
+      <Token Lemma="voda" POS="NNFS2" Stem="vod">vody</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva lidé sedí na konci doku uprostřed klidné vody.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="člověk" POS="NNMP1" Stem="lid">lidé</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="konec" POS="NNIS6" Stem="konk">konci</Token>
+      <Token Lemma="doku" POS="VB" Stem="dok">doku</Token>
+      <Token Lemma="uprostřed" POS="Db" Stem="uprostřed">uprostřed</Token>
+      <Token Lemma="klidný" POS="AANS1" Stem="klidn">klidné</Token>
+      <Token Lemma="voda" POS="NNFS2" Stem="vod">vody</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="699">
+    <Sentence>
+      <Text>Dva psi běžící společně a jeden má kachní hračku v tlamě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="společně" POS="Dg" Stem="společn">společně</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="jeden" POS="ClYS1" Stem="jeden">jeden</Token>
+      <Token Lemma="mít" POS="VB" Stem="má">má</Token>
+      <Token Lemma="kachní" POS="AAFS1" Stem="kachn">kachní</Token>
+      <Token Lemma="hračku" POS="NNFS1" Stem="hračk">hračku</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="C" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černo bílý pes jdoucí po trávě s dlouhým klackem v tlamě.</Text>
+      <Token Lemma="Černo" POS="NNMS1" Stem="čern">Černo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="jdoucí" POS="AGIS1" Stem="jdouc">jdoucí</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="dlouhý" POS="AAIS7" Stem="dlouh">dlouhým</Token>
+      <Token Lemma="klackem" POS="NNIS1" Stem="klack">klackem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="NNFS4" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="700">
+    <Sentence>
+      <Text>Černo bílý pes běží po trávě.</Text>
+      <Token Lemma="Černo" POS="NNMS1" Stem="čern">Černo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černo bílý pes plave v modré vodě.</Text>
+      <Token Lemma="Černo" POS="NNMS1" Stem="čern">Černo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="plavat" POS="VB" Stem="plav">plave</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="modrý" POS="AAFS6" Stem="modr">modré</Token>
+      <Token Lemma="voda" POS="NNFS6" Stem="vod">vodě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="701">
+    <Sentence>
+      <Text>Hokejový brankář ležící na ledu před brankou.</Text>
+      <Token Lemma="hokejový" POS="AAIS1" Stem="hokej">Hokejový</Token>
+      <Token Lemma="brankář" POS="NNMS1" Stem="brankář">brankář</Token>
+      <Token Lemma="ležící" POS="AGIS1" Stem="ležíc">ležící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="led" POS="NNIS6" Stem="led">ledu</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="branka" POS="NNFS7" Stem="brank">brankou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hokejový hráč leží na ledu v před bránou.</Text>
+      <Token Lemma="hokejový" POS="AAIS1" Stem="hokej">Hokejový</Token>
+      <Token Lemma="hráč" POS="NNMS1" Stem="hráč">hráč</Token>
+      <Token Lemma="ležet" POS="VB" Stem="lež">leží</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="led" POS="NNIS6" Stem="led">ledu</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="brána" POS="NNFS7" Stem="brán">bránou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="702">
+    <Sentence>
+      <Text>Lyžař má na sobě modré oteplovací kalhoty, letí vzduchem poblíž skokánku.</Text>
+      <Token Lemma="Lyžař" POS="NNIS1" Stem="lyžař">Lyžař</Token>
+      <Token Lemma="mít" POS="VB" Stem="má">má</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="se" POS="P6" Stem="sob">sobě</Token>
+      <Token Lemma="modrý" POS="AAIP4" Stem="modr">modré</Token>
+      <Token Lemma="oteplovací" POS="AAIP4" Stem="oteplovac">oteplovací</Token>
+      <Token Lemma="kalhoty" POS="NNFP4" Stem="kalhot">kalhoty</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="letět" POS="VB" Stem="let">letí</Token>
+      <Token Lemma="vzduch" POS="NNIS7" Stem="vzduch">vzduchem</Token>
+      <Token Lemma="poblíž" POS="RR" Stem="poblíž">poblíž</Token>
+      <Token Lemma="skokánku" POS="NNFS2" Stem="skokánk">skokánku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Lyžař stojí na ruce na sněhu před videokamerou.</Text>
+      <Token Lemma="Lyžař" POS="NNIS1" Stem="lyžař">Lyžař</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="ruka" POS="NNFS6" Stem="ruk">ruce</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="videokamera" POS="NNFS7" Stem="videokamer">videokamerou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="703">
+    <Sentence>
+      <Text>Hnědý pes běží po travnaté cestě.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="travnatý" POS="AANS4" Stem="travnat">travnaté</Token>
+      <Token Lemma="cesta" POS="NNFS6" Stem="cest">cestě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hnědý pes běží po travnatém úseku děleným řetězem.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="travnatý" POS="AAIS6" Stem="travna">travnatém</Token>
+      <Token Lemma="úsek" POS="NNIS6" Stem="úsek">úseku</Token>
+      <Token Lemma="dělený" POS="AANS7" Stem="dělen">děleným</Token>
+      <Token Lemma="řetěz" POS="NNIS7" Stem="řetěh">řetězem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="704">
+    <Sentence>
+      <Text>Dívka má na sobě modré proužkované tričko a kolečkové brusle.</Text>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">Dívka</Token>
+      <Token Lemma="mít" POS="VB" Stem="má">má</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="se" POS="P6" Stem="sob">sobě</Token>
+      <Token Lemma="modrý" POS="AAFP4" Stem="modr">modré</Token>
+      <Token Lemma="proužkované" POS="Vf" Stem="proužkovan">proužkované</Token>
+      <Token Lemma="tričko" POS="NNNS4" Stem="tričk">tričko</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="kolečkový" POS="AAFP4" Stem="kolečk">kolečkové</Token>
+      <Token Lemma="brusle" POS="NNFP4" Stem="brusl">brusle</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž v černo bílé košili skákající na psím hřbetu.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černo" POS="NNNS4" Stem="čern">černo</Token>
+      <Token Lemma="bílý" POS="AANS4" Stem="bíl">bílé</Token>
+      <Token Lemma="košile" POS="NNFS4" Stem="košil">košili</Token>
+      <Token Lemma="skákající" POS="AGFS2" Stem="skákajíc">skákající</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="psí" POS="AAIS6" Stem="psím">psím</Token>
+      <Token Lemma="hřbet" POS="NNIS6" Stem="hřbet">hřbetu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="705">
+    <Sentence>
+      <Text>Potetovaný muž v černém hrající na bílou kytaru a zpívá.</Text>
+      <Token Lemma="Potetovaný" POS="NNMS1" Stem="potetovan">Potetovaný</Token>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">muž</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černý" POS="AAIS6" Stem="čer">černém</Token>
+      <Token Lemma="hrající" POS="AGFS1" Stem="hrajíc">hrající</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="bílý" POS="AAFS4" Stem="bíl">bílou</Token>
+      <Token Lemma="kytara" POS="NNFS4" Stem="kytar">kytaru</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="zpívat" POS="VB" Stem="zpív">zpívá</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena v černo bílém plášti a chrániči sluchu.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černo" POS="NNNS4" Stem="čern">černo</Token>
+      <Token Lemma="bílý" POS="AAIS6" Stem="bí">bílém</Token>
+      <Token Lemma="plášť" POS="NNIP7" Stem="plášt">plášti</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="chrániči" POS="NNFS4" Stem="chránik">chrániči</Token>
+      <Token Lemma="sluch" POS="NNIS2" Stem="sluch">sluchu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="706">
+    <Sentence>
+      <Text>Pes běžící po pláži.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Chlapec a dívka běžící po pláži.</Text>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">Chlapec</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">dívka</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="707">
+    <Sentence>
+      <Text>Mladý muž a žena sedící venku na lavičce se líbají.</Text>
+      <Token Lemma="mladý" POS="AAMS1" Stem="mlad">Mladý</Token>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">muž</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">žena</Token>
+      <Token Lemma="sedící" POS="AGFS1" Stem="sedíc">sedící</Token>
+      <Token Lemma="venku" POS="Db" Stem="venk">venku</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="lavička" POS="NNFS6" Stem="lavičk">lavičce</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="líbat" POS="VB" Stem="líbaj">líbají</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž a žena sedící na lavičce se líbají.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">žena</Token>
+      <Token Lemma="sedící" POS="AGFS1" Stem="sedíc">sedící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="lavička" POS="NNFS6" Stem="lavičk">lavičce</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="líbat" POS="VB" Stem="líbaj">líbají</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="708">
+    <Sentence>
+      <Text>Hnědý pes vyskakuje, aby chytil zelený pásek do jeho tlamy.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="vyskakuje" POS="VB" Stem="vyskakuj">vyskakuje</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="aby" POS="J" Stem="aby">aby</Token>
+      <Token Lemma="chytit" POS="VpYS" Stem="chytil">chytil</Token>
+      <Token Lemma="zelený" POS="AAIS4" Stem="zelen">zelený</Token>
+      <Token Lemma="pásek" POS="NNIS4" Stem="pásek">pásek</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="jeho" POS="PSXXXZS3" Stem="jeh">jeho</Token>
+      <Token Lemma="tlama" POS="NNFS2" Stem="tlam">tlamy</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Šedý pes skáče, aby skousl zelené vodítko.</Text>
+      <Token Lemma="Šedý" POS="NNMS1" Stem="šed">Šedý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="aby" POS="J" Stem="aby">aby</Token>
+      <Token Lemma="skousl" POS="VB" Stem="skousl">skousl</Token>
+      <Token Lemma="zelený" POS="AAFP4" Stem="zelen">zelené</Token>
+      <Token Lemma="vodítko" POS="NNNS1" Stem="vodítk">vodítko</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="709">
+    <Sentence>
+      <Text>Černý pes běží v trávě.</Text>
+      <Token Lemma="Černý" POS="AAMS1" Stem="čern">Černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černo hnědý pes běžící v trávě.</Text>
+      <Token Lemma="Černo" POS="NNIS1" Stem="čern">Černo</Token>
+      <Token Lemma="hnědý" POS="AAIS1" Stem="hněd">hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="710">
+    <Sentence>
+      <Text>Žena sedí na chodníku s mobilním telefonem u ucha.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="chodník" POS="NNIS6" Stem="chodník">chodníku</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="mobilní" POS="AAIS7" Stem="mobil">mobilním</Token>
+      <Token Lemma="telefon" POS="NNIS7" Stem="telefon">telefonem</Token>
+      <Token Lemma="u" POS="RR" Stem="u">u</Token>
+      <Token Lemma="ucho" POS="NNNS2" Stem="uch">ucha</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena jede na kole.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="kolo" POS="NNNS6" Stem="kol">kole</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="711">
+    <Sentence>
+      <Text>Tři psi si hrají v travnatém poli.</Text>
+      <Token Lemma="tři" POS="ClXP1" Stem="tři">Tři</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="travnatý" POS="AAIS6" Stem="travna">travnatém</Token>
+      <Token Lemma="pole" POS="NNNS6" Stem="pol">poli</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Nějaké děti si hrají v poli.</Text>
+      <Token Lemma="nějaký" POS="PZFP1" Stem="nějak">Nějaké</Token>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">děti</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="pole" POS="NNNS6" Stem="pol">poli</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="712">
+    <Sentence>
+      <Text>Malý bílý pes přelézá kládu.</Text>
+      <Token Lemma="malý" POS="AAMS1" Stem="mal">Malý</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="přelézá" POS="NNMS1" Stem="přeléz">přelézá</Token>
+      <Token Lemma="kládu" POS="NNMS1" Stem="klád">kládu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Malý pes překračuje kládu.</Text>
+      <Token Lemma="malý" POS="AAMS1" Stem="mal">Malý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="překračovat" POS="VB" Stem="překračuj">překračuje</Token>
+      <Token Lemma="kládu" POS="Vf" Stem="klád">kládu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="713">
+    <Sentence>
+      <Text>Mladý chlapec si hraje v jámě s červenými míčky.</Text>
+      <Token Lemma="mladý" POS="AAMS1" Stem="mlad">Mladý</Token>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">chlapec</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hraje</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jáma" POS="NNFS6" Stem="jám">jámě</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="červený" POS="AAFP7" Stem="červen">červenými</Token>
+      <Token Lemma="míček" POS="NNIP4" Stem="míčk">míčky</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Smějící se chlapec leží v jámě s modrými balónky.</Text>
+      <Token Lemma="Smějící" POS="VB" Stem="smějíc">Smějící</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">chlapec</Token>
+      <Token Lemma="ležet" POS="VB" Stem="lež">leží</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jáma" POS="NNFS6" Stem="jám">jámě</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="modrými" POS="C" Stem="modr">modrými</Token>
+      <Token Lemma="balónek" POS="NNIP1" Stem="balónk">balónky</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="714">
+    <Sentence>
+      <Text>Surfař na vlně.</Text>
+      <Token Lemma="Surfař" POS="NNFS1" Stem="surfař">Surfař</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="vlna" POS="NNFS6" Stem="vln">vlně</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Surfař sjíždí vlnu.</Text>
+      <Token Lemma="Surfař" POS="NNIS1" Stem="surfař">Surfař</Token>
+      <Token Lemma="sjíždět" POS="VB" Stem="sjížd">sjíždí</Token>
+      <Token Lemma="vlna" POS="NNFS4" Stem="vln">vlnu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="715">
+    <Sentence>
+      <Text>Psi si hrají ve sněhu na zadních nohách.</Text>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">Psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="zadní" POS="AANP6" Stem="zadn">zadních</Token>
+      <Token Lemma="noha" POS="NNFP6" Stem="noh">nohách</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi si hrají ve sněhu.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hrají</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="sníh" POS="NNIS6" Stem="sněh">sněhu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="716">
+    <Sentence>
+      <Text>Skateboardista se dostal na vrchol rampy.</Text>
+      <Token Lemma="Skateboardista" POS="NNIS1" Stem="skateboardist">Skateboardista</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="dostat" POS="VpYS" Stem="dostal">dostal</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="vrchol" POS="NNIS4" Stem="vrchol">vrchol</Token>
+      <Token Lemma="rampa" POS="NNFP4" Stem="ramp">rampy</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skateboardista jede na trubkové zdi ve skate parku.</Text>
+      <Token Lemma="Skateboardista" POS="NNIS1" Stem="skateboardist">Skateboardista</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="trubkové" POS="NNFS4" Stem="trubk">trubkové</Token>
+      <Token Lemma="zeď" POS="NNFS2" Stem="zdi">zdi</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="skate" POS="C" Stem="skat">skate</Token>
+      <Token Lemma="park" POS="NNIS2" Stem="park">parku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="717">
+    <Sentence>
+      <Text>Dva muži na běžecké soutěži.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="muž" POS="NNMP1" Stem="muh">muži</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="běžecký" POS="AAFS2" Stem="běžeck">běžecké</Token>
+      <Token Lemma="soutěž" POS="NNFS6" Stem="soutěh">soutěži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Psi v závodě.</Text>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">Psi</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="závod" POS="NNIS6" Stem="závod">závodě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="718">
+    <Sentence>
+      <Text>Chlapec sjíždí na skateboardu zábradlí na pografitovaných schodech.</Text>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">Chlapec</Token>
+      <Token Lemma="sjíždět" POS="VB" Stem="sjížd">sjíždí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="skateboard" POS="NNIS6" Stem="skateboard">skateboardu</Token>
+      <Token Lemma="zábradlí" POS="NNNS2" Stem="zábradl">zábradlí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pografitovaných" POS="C" Stem="pografitovan">pografitovaných</Token>
+      <Token Lemma="schod" POS="NNIP6" Stem="schod">schodech</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skateboardista sliduje dolů po zábradlí na nohách.</Text>
+      <Token Lemma="Skateboardista" POS="AAFS1" Stem="skateboardist">Skateboardista</Token>
+      <Token Lemma="sliduje" POS="NNFS1" Stem="sliduj">sliduje</Token>
+      <Token Lemma="důl" POS="Db" Stem="dol">dolů</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="zábradlí" POS="NNNS6" Stem="zábradl">zábradlí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="noha" POS="NNFP6" Stem="noh">nohách</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="719">
+    <Sentence>
+      <Text>Černo bílý pes běží vodou.</Text>
+      <Token Lemma="Černo" POS="NNMS1" Stem="čern">Černo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="voda" POS="NNFS7" Stem="vod">vodou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černo hnědý pes běží polem.</Text>
+      <Token Lemma="Černo" POS="NNIS1" Stem="čern">Černo</Token>
+      <Token Lemma="hnědý" POS="AAIS1" Stem="hněd">hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="pole" POS="NNNS7" Stem="pol">polem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="720">
+    <Sentence>
+      <Text>Dvě děti jdou po cestě v lese.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">děti</Token>
+      <Token Lemma="jít" POS="VB" Stem="jdo">jdou</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="cesta" POS="NNFS6" Stem="cest">cestě</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="les" POS="NNIS6" Stem="les">lese</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dvě děti jdoucí po cestě v lese.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="dítě" POS="NNFP1" Stem="dět">děti</Token>
+      <Token Lemma="jdoucí" POS="AGFP1" Stem="jdouc">jdoucí</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="cesta" POS="NNFS6" Stem="cest">cestě</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="les" POS="NNIS6" Stem="les">lese</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="721">
+    <Sentence>
+      <Text>Hnědo bílý pes běží po trávě.</Text>
+      <Token Lemma="Hnědo" POS="NNMS1" Stem="hněd">Hnědo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Béžovo černý pes běží přes trávu.</Text>
+      <Token Lemma="Béžovo" POS="NNMS1" Stem="béžov">Béžovo</Token>
+      <Token Lemma="černý" POS="AAMS1" Stem="čern">černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="tráva" POS="NNFS4" Stem="tráv">trávu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="722">
+    <Sentence>
+      <Text>Žena běží po pláži.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text> Pes běží přes pozemek.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="pozemek" POS="NNIS4" Stem="pozemek">pozemek</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="723">
+    <Sentence>
+      <Text>Dva psi běží bok po boku po trávě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="bok" POS="NNIS4" Stem="bok">bok</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="bok" POS="NNIS6" Stem="bok">boku</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi běžící po trávě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="724">
+    <Sentence>
+      <Text>Dva psi čůrají na červený požární hydrant.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="čůrají" POS="Vf" Stem="čůraj">čůrají</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="červený" POS="AAIS1" Stem="červen">červený</Token>
+      <Token Lemma="požární" POS="AAIS1" Stem="požárn">požární</Token>
+      <Token Lemma="hydrant" POS="NNIS1" Stem="hydrant">hydrant</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi močí na červený požární hydrant.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="močí" POS="Vf" Stem="moč">močí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="červený" POS="AAIS1" Stem="červen">červený</Token>
+      <Token Lemma="požární" POS="AAIS1" Stem="požárn">požární</Token>
+      <Token Lemma="hydrant" POS="NNIS1" Stem="hydrant">hydrant</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="725">
+    <Sentence>
+      <Text>Hráč ragby v tmavě zelené výbavě nese světle zbarvený ragbyový míč napřaženou rukou.</Text>
+      <Token Lemma="hráč" POS="NNMS1" Stem="hráč">Hráč</Token>
+      <Token Lemma="ragby" POS="NNNXX" Stem="ragb">ragby</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tmavě" POS="Dg" Stem="tmav">tmavě</Token>
+      <Token Lemma="zelený" POS="AAFS6" Stem="zelen">zelené</Token>
+      <Token Lemma="výbava" POS="NNFS6" Stem="výbav">výbavě</Token>
+      <Token Lemma="nést" POS="VB" Stem="nes">nese</Token>
+      <Token Lemma="světlo" POS="Dg" Stem="světl">světle</Token>
+      <Token Lemma="zbarvený" POS="AAIS1" Stem="zbarven">zbarvený</Token>
+      <Token Lemma="ragbyový" POS="NNIS1" Stem="ragby">ragbyový</Token>
+      <Token Lemma="míč" POS="NNIS1" Stem="míč">míč</Token>
+      <Token Lemma="napřaženou" POS="C" Stem="napřažen">napřaženou</Token>
+      <Token Lemma="ruka" POS="NNFP2" Stem="ruk">rukou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hnědý pes šplouchá ve vodě, zatímco nese míč v jeho tlamě.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="šplouchá" POS="NNMS1" Stem="šplouch">šplouchá</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="voda" POS="NNFS6" Stem="vod">vodě</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="nést" POS="VB" Stem="nes">nese</Token>
+      <Token Lemma="míč" POS="NNIS4" Stem="míč">míč</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="jeho" POS="PSXXXZS3" Stem="jeh">jeho</Token>
+      <Token Lemma="tlamě" POS="NNFS4" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="726">
+    <Sentence>
+      <Text>Zlatě zbarvený pes skáče kolem v trávě, zatímco drží klacek v tlamě.</Text>
+      <Token Lemma="Zlatě" POS="NNIS1" Stem="zlat">Zlatě</Token>
+      <Token Lemma="zbarvený" POS="AAIS1" Stem="zbarven">zbarvený</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="kolem" POS="RR" Stem="kol">kolem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="zatímco" POS="J" Stem="zatímc">zatímco</Token>
+      <Token Lemma="držet" POS="VB" Stem="drž">drží</Token>
+      <Token Lemma="klacek" POS="NNIS4" Stem="klacek">klacek</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="NNFS4" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černý pes běží přes trávu nesoucí něco červeného v tlamě.</Text>
+      <Token Lemma="Černý" POS="AAMS1" Stem="čern">Černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="tráva" POS="NNFS4" Stem="tráv">trávu</Token>
+      <Token Lemma="nesoucí" POS="AGIP1" Stem="nesouc">nesoucí</Token>
+      <Token Lemma="něco" POS="PZ" Stem="něc">něco</Token>
+      <Token Lemma="červený" POS="AANS2" Stem="červen">červeného</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="C" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="727">
+    <Sentence>
+      <Text>Dva lidé jdou nějakou vodou.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="člověk" POS="NNMP1" Stem="lid">lidé</Token>
+      <Token Lemma="jít" POS="VB" Stem="jdo">jdou</Token>
+      <Token Lemma="nějaký" POS="PZFS7" Stem="nějak">nějakou</Token>
+      <Token Lemma="voda" POS="NNFS7" Stem="vod">vodou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dvě dívky jdou u stromu před cihlovou stavbou.</Text>
+      <Token Lemma="dva" POS="ClHP1" Stem="dvě">Dvě</Token>
+      <Token Lemma="dívka" POS="NNFP1" Stem="dívk">dívky</Token>
+      <Token Lemma="jít" POS="VB" Stem="jdo">jdou</Token>
+      <Token Lemma="u" POS="RR" Stem="u">u</Token>
+      <Token Lemma="strom" POS="NNIS2" Stem="strom">stromu</Token>
+      <Token Lemma="před" POS="RR" Stem="před">před</Token>
+      <Token Lemma="cihlovou" POS="NNMS2" Stem="cihl">cihlovou</Token>
+      <Token Lemma="stavba" POS="NNFS7" Stem="stavb">stavbou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="728">
+    <Sentence>
+      <Text>Dívka běží po pouštní cestě.</Text>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">Dívka</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="pouštní" POS="AAFS6" Stem="pouštn">pouštní</Token>
+      <Token Lemma="cesta" POS="NNFS6" Stem="cest">cestě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Mladá dívka mluví do mobilního telefonu.</Text>
+      <Token Lemma="mladý" POS="AAFS1" Stem="mlad">Mladá</Token>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">dívka</Token>
+      <Token Lemma="mluvit" POS="VB" Stem="mluv">mluví</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="mobilního" POS="NNMS2" Stem="mobiln">mobilního</Token>
+      <Token Lemma="telefon" POS="NNIS2" Stem="telefon">telefonu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="729">
+    <Sentence>
+      <Text>Bílý pes si hraje s míčem na pláži.</Text>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">Bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hraje</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="míč" POS="NNIS7" Stem="mík">míčem</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černo bílý pes si hraje s béžovým psem.</Text>
+      <Token Lemma="Černo" POS="NNMS1" Stem="čern">Černo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hraje</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="béžovým" POS="C" Stem="béžov">béžovým</Token>
+      <Token Lemma="pes" POS="NNMS7" Stem="psem">psem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="730">
+    <Sentence>
+      <Text>Pes cákající ve vodě.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="cákající" POS="NNMS1" Stem="cákajíc">cákající</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="voda" POS="NNFS6" Stem="vod">vodě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes cáká v kalné vodě.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="cáká" POS="NNMS1" Stem="cák">cáká</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="kalné" POS="NNMS2" Stem="kaln">kalné</Token>
+      <Token Lemma="voda" POS="NNFS6" Stem="vod">vodě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="731">
+    <Sentence>
+      <Text>Muž řídí modrou loď kolem pestrobarevných domů.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="řídit" POS="VB" Stem="říd">řídí</Token>
+      <Token Lemma="modrý" POS="AAFS4" Stem="modr">modrou</Token>
+      <Token Lemma="loď" POS="NNFS4" Stem="loď">loď</Token>
+      <Token Lemma="kolem" POS="RR" Stem="kol">kolem</Token>
+      <Token Lemma="pestrobarevný" POS="AAFP2" Stem="pestrobarevn">pestrobarevných</Token>
+      <Token Lemma="domů" POS="Db" Stem="dom">domů</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž řídící modrou loď proplouvající kolem pestrobarevných domů.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="řídící" POS="AGMS1" Stem="řídíc">řídící</Token>
+      <Token Lemma="modrý" POS="AAFS4" Stem="modr">modrou</Token>
+      <Token Lemma="loď" POS="NNFS4" Stem="loď">loď</Token>
+      <Token Lemma="proplouvající" POS="Vf" Stem="proplouvajíc">proplouvající</Token>
+      <Token Lemma="kolem" POS="RR" Stem="kol">kolem</Token>
+      <Token Lemma="pestrobarevný" POS="AAFP2" Stem="pestrobarevn">pestrobarevných</Token>
+      <Token Lemma="domů" POS="Db" Stem="dom">domů</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="732">
+    <Sentence>
+      <Text>Skupina lidí jde po chodníku z velkoměsta.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="jít" POS="VB" Stem="jde">jde</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="chodník" POS="NNIS6" Stem="chodník">chodníku</Token>
+      <Token Lemma="z" POS="RR" Stem="z">z</Token>
+      <Token Lemma="velkoměsto" POS="NNNS2" Stem="velkoměst">velkoměsta</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Skupina lidí jede v zadní části kamionu.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="zadní" POS="AAFS6" Stem="zadn">zadní</Token>
+      <Token Lemma="část" POS="NNFS6" Stem="část">části</Token>
+      <Token Lemma="kamión" POS="NNIS2" Stem="kamion">kamionu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="733">
+    <Sentence>
+      <Text>Pes je ve vzduchu nad trávou.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="být" POS="VB" Stem="je">je</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="vzduch" POS="NNIS6" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="nad" POS="RR" Stem="nad">nad</Token>
+      <Token Lemma="tráva" POS="NNFS7" Stem="tráv">trávou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Pes leží na posteli s modrým povlečením.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="ležet" POS="VB" Stem="lež">leží</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="postel" POS="NNFS6" Stem="postel">posteli</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="modrým" POS="NNMS2" Stem="modr">modrým</Token>
+      <Token Lemma="povlečením" POS="NNMS2" Stem="povleče">povlečením</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="734">
+    <Sentence>
+      <Text>Žena v černých šatech s červenými doplňky jde na ulici.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černý" POS="AAIP6" Stem="čern">černých</Token>
+      <Token Lemma="šat" POS="NNIP6" Stem="šat">šatech</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="červený" POS="AAIP7" Stem="červen">červenými</Token>
+      <Token Lemma="doplněk" POS="NNIP7" Stem="doplňk">doplňky</Token>
+      <Token Lemma="jít" POS="VB" Stem="jde">jde</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="ulice" POS="NNFS6" Stem="ulik">ulici</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Žena v černých šatech jdoucí na ulici.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="černý" POS="AAIP6" Stem="čern">černých</Token>
+      <Token Lemma="šat" POS="NNIP6" Stem="šat">šatech</Token>
+      <Token Lemma="jdoucí" POS="AGIP1" Stem="jdouc">jdoucí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="ulice" POS="NNFS6" Stem="ulik">ulici</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="735">
+    <Sentence>
+      <Text>Černý pes běží přes nějakou vodu.</Text>
+      <Token Lemma="Černý" POS="AAMS1" Stem="čern">Černý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="nějaký" POS="PZFS4" Stem="nějak">nějakou</Token>
+      <Token Lemma="voda" POS="NNFS4" Stem="vod">vodu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž ve fotbalovém dresu běží s míčem v průběhu hry.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="fotbalový" POS="AAIS6" Stem="fotbalo">fotbalovém</Token>
+      <Token Lemma="dres" POS="NNIS6" Stem="dres">dresu</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="míč" POS="NNIS7" Stem="mík">míčem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="průběh" POS="NNIS6" Stem="průběh">průběhu</Token>
+      <Token Lemma="hra" POS="NNFS2" Stem="hry">hry</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="736">
+    <Sentence>
+      <Text>Dívka stojí v metru čekající na něco.</Text>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">Dívka</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="metro" POS="NNNS6" Stem="metr">metru</Token>
+      <Token Lemma="čekající" POS="AGMP1" Stem="čekajíc">čekající</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="něco" POS="PZ" Stem="něc">něco</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dívka stojí v temném prostoru.</Text>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">Dívka</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="temný" POS="AAIS6" Stem="tem">temném</Token>
+      <Token Lemma="prostor" POS="NNIS6" Stem="prostor">prostoru</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="737">
+    <Sentence>
+      <Text>Dva psi se k sobě přiblížili v trávě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="se" POS="P6" Stem="sob">sobě</Token>
+      <Token Lemma="přiblížit" POS="VpMP" Stem="přiblížil">přiblížili</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Dva psi stojí proti sobě na trávě.</Text>
+      <Token Lemma="dva" POS="ClYP1" Stem="dva">Dva</Token>
+      <Token Lemma="pes" POS="NNMP1" Stem="psi">psi</Token>
+      <Token Lemma="stát" POS="VB" Stem="stoj">stojí</Token>
+      <Token Lemma="proti" POS="RR" Stem="prot">proti</Token>
+      <Token Lemma="se" POS="P6" Stem="sob">sobě</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="tráva" POS="NNFS6" Stem="tráv">trávě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="738">
+    <Sentence>
+      <Text>Muž sedí s malou holčičkou v parku.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="sedět" POS="VB" Stem="sed">sedí</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="malý" POS="AAFS7" Stem="mal">malou</Token>
+      <Token Lemma="holčičkou" POS="VB" Stem="holčičk">holčičkou</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="park" POS="NNIS6" Stem="park">parku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text> Muž si hraje s chlupatým malým psíkem.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="se" POS="P7" Stem="si">si</Token>
+      <Token Lemma="hrát" POS="VB" Stem="hraj">hraje</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="chlupatým" POS="C" Stem="chlupat">chlupatým</Token>
+      <Token Lemma="malý" POS="AAIS7" Stem="mal">malým</Token>
+      <Token Lemma="psíkem" POS="C" Stem="psík">psíkem</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="739">
+    <Sentence>
+      <Text>Velký béžový pes běží se zeleným ppředmětem v tlamě.</Text>
+      <Token Lemma="velký" POS="AAIS1" Stem="velk">Velký</Token>
+      <Token Lemma="béžový" POS="NNIS1" Stem="béžov">béžový</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="se" POS="RV" Stem="se">se</Token>
+      <Token Lemma="zelený" POS="AAIS7" Stem="zelen">zeleným</Token>
+      <Token Lemma="ppředmětem" POS="VB" Stem="ppředm">ppředmětem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="NNFS4" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Béžový pes nese zelenou pískací hračku v tlamě.</Text>
+      <Token Lemma="Béžový" POS="NNMS1" Stem="béžov">Béžový</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="nést" POS="VB" Stem="nes">nese</Token>
+      <Token Lemma="zelený" POS="AAFS4" Stem="zelen">zelenou</Token>
+      <Token Lemma="pískací" POS="NNFS4" Stem="pískac">pískací</Token>
+      <Token Lemma="hračku" POS="VB" Stem="hračk">hračku</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="C" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="740">
+    <Sentence>
+      <Text>Skupina lidí v lodích závodících ke břehu.</Text>
+      <Token Lemma="skupina" POS="NNFS1" Stem="skup">Skupina</Token>
+      <Token Lemma="člověk" POS="NNMP2" Stem="lid">lidí</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="loď" POS="NNFP6" Stem="lod">lodích</Token>
+      <Token Lemma="závodících" POS="VB" Stem="závodíc">závodících</Token>
+      <Token Lemma="k" POS="RV" Stem="ke">ke</Token>
+      <Token Lemma="břeh" POS="NNIS6" Stem="břeh">břehu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Učebna studentů sledujících prezentaci.</Text>
+      <Token Lemma="učebna" POS="NNFS1" Stem="učebn">Učebna</Token>
+      <Token Lemma="student" POS="NNMP2" Stem="student">studentů</Token>
+      <Token Lemma="sledujících" POS="Vf" Stem="sledujíc">sledujících</Token>
+      <Token Lemma="prezentace" POS="NNFS4" Stem="prezentak">prezentaci</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="741">
+    <Sentence>
+      <Text>Člověk, který skáče na skateboardu do vzduchu nad rampu.</Text>
+      <Token Lemma="člověk" POS="NNMS1" Stem="člověk">Člověk</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="který" POS="P4YS1" Stem="kter">který</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="skateboard" POS="NNIS6" Stem="skateboard">skateboardu</Token>
+      <Token Lemma="do" POS="RR" Stem="do">do</Token>
+      <Token Lemma="vzduch" POS="NNIS2" Stem="vzduch">vzduchu</Token>
+      <Token Lemma="nad" POS="RR" Stem="nad">nad</Token>
+      <Token Lemma="rampa" POS="NNFS4" Stem="ramp">rampu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Motorkář jede podél trati prvku umístěného na zalesněné oblasti.</Text>
+      <Token Lemma="Motorkář" POS="NNFS1" Stem="motorkář">Motorkář</Token>
+      <Token Lemma="jet" POS="VB" Stem="jed">jede</Token>
+      <Token Lemma="podél" POS="RR" Stem="podél">podél</Token>
+      <Token Lemma="trať" POS="NNFS2" Stem="trat">trati</Token>
+      <Token Lemma="prvek" POS="NNIS2" Stem="prvk">prvku</Token>
+      <Token Lemma="umístěný" POS="AAIS2" Stem="umístěn">umístěného</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="zalesněný" POS="AAIP1" Stem="zalesněn">zalesněné</Token>
+      <Token Lemma="oblast" POS="NNFP1" Stem="oblast">oblasti</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="742">
+    <Sentence>
+      <Text>Chlapec v noci sjíždí na skateboardu kovové zábradlí.</Text>
+      <Token Lemma="chlapec" POS="NNMS1" Stem="chlapec">Chlapec</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="noc" POS="NNFS6" Stem="nok">noci</Token>
+      <Token Lemma="sjíždět" POS="VB" Stem="sjížd">sjíždí</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="skateboard" POS="NNIS6" Stem="skateboard">skateboardu</Token>
+      <Token Lemma="kovový" POS="AAIP1" Stem="kov">kovové</Token>
+      <Token Lemma="zábradlí" POS="NNNS6" Stem="zábradl">zábradlí</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hnědý pes běží na písku, držící klacek.</Text>
+      <Token Lemma="Hnědý" POS="NNMS1" Stem="hněd">Hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="písek" POS="NNIS6" Stem="písk">písku</Token>
+      <Token Lemma="," POS="Z" Stem=",">,</Token>
+      <Token Lemma="držící" POS="AGIS4" Stem="držíc">držící</Token>
+      <Token Lemma="klacek" POS="NNIS4" Stem="klacek">klacek</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="743">
+    <Sentence>
+      <Text>Člověk se protahuje otvorem ve skále.</Text>
+      <Token Lemma="člověk" POS="NNMS1" Stem="člověk">Člověk</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="protahovat" POS="VB" Stem="protahuj">protahuje</Token>
+      <Token Lemma="otvor" POS="NNIS7" Stem="otvor">otvorem</Token>
+      <Token Lemma="v" POS="RV" Stem="ve">ve</Token>
+      <Token Lemma="skála" POS="NNFS6" Stem="skál">skále</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Středně velký hnědý pes běží přes otevřený bílé zalesněné oblasti.</Text>
+      <Token Lemma="středně" POS="Dg" Stem="středn">Středně</Token>
+      <Token Lemma="velký" POS="AAIS1" Stem="velk">velký</Token>
+      <Token Lemma="hnědý" POS="AAIS1" Stem="hněd">hnědý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="otevřený" POS="AAIS4" Stem="otevřen">otevřený</Token>
+      <Token Lemma="bílý" POS="AAIP1" Stem="bíl">bílé</Token>
+      <Token Lemma="zalesněný" POS="AAIP1" Stem="zalesněn">zalesněné</Token>
+      <Token Lemma="oblast" POS="NNFP1" Stem="oblast">oblasti</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="744">
+    <Sentence>
+      <Text>Pes běží směrem k fotoaparátu s míčem v tlamě.</Text>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">Pes</Token>
+      <Token Lemma="běžet" POS="VB" Stem="běž">běží</Token>
+      <Token Lemma="směr" POS="NNIS7" Stem="směr">směrem</Token>
+      <Token Lemma="k" POS="RR" Stem="k">k</Token>
+      <Token Lemma="fotoaparát" POS="NNIS2" Stem="fotoaparát">fotoaparátu</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="míč" POS="NNIS7" Stem="mík">míčem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="NNFS4" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Černo bílý pes plave s hnědým objektem v tlamě.</Text>
+      <Token Lemma="Černo" POS="NNMS1" Stem="čern">Černo</Token>
+      <Token Lemma="bílý" POS="AAMS1" Stem="bíl">bílý</Token>
+      <Token Lemma="pes" POS="NNMS1" Stem="pes">pes</Token>
+      <Token Lemma="plavat" POS="VB" Stem="plav">plave</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="hnědý" POS="AAIS7" Stem="hněd">hnědým</Token>
+      <Token Lemma="objekt" POS="NNIS7" Stem="objekt">objektem</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="tlamě" POS="C" Stem="tlam">tlamě</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="745">
+    <Sentence>
+      <Text>Mladá dívka běžící na pláži.</Text>
+      <Token Lemma="mladý" POS="AAFS1" Stem="mlad">Mladá</Token>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">dívka</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="pláž" POS="NNFS6" Stem="pláh">pláži</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Malá dívka běžící na břehu pláže.</Text>
+      <Token Lemma="malý" POS="AAFS1" Stem="mal">Malá</Token>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">dívka</Token>
+      <Token Lemma="běžící" POS="AGIS4" Stem="běžíc">běžící</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="břeh" POS="NNIS6" Stem="břeh">břehu</Token>
+      <Token Lemma="pláž" POS="NNFS2" Stem="pláh">pláže</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="746">
+    <Sentence>
+      <Text>Hráč basebalu hází míček.</Text>
+      <Token Lemma="hráč" POS="NNMS1" Stem="hráč">Hráč</Token>
+      <Token Lemma="basebalu" POS="NNMS1" Stem="basebal">basebalu</Token>
+      <Token Lemma="házet" POS="VB" Stem="ház">hází</Token>
+      <Token Lemma="míček" POS="NNIS4" Stem="míček">míček</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Hráč basketbalu drží míč.</Text>
+      <Token Lemma="hráč" POS="NNMS1" Stem="hráč">Hráč</Token>
+      <Token Lemma="basketbal" POS="NNIS2" Stem="basketbal">basketbalu</Token>
+      <Token Lemma="držet" POS="VB" Stem="drž">drží</Token>
+      <Token Lemma="míč" POS="NNIS1" Stem="míč">míč</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="747">
+    <Sentence>
+      <Text>Muž se houpá na laně nad vodou.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="houpá" POS="VB" Stem="houp">houpá</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="laně" POS="NNFS4" Stem="lan">laně</Token>
+      <Token Lemma="nad" POS="RR" Stem="nad">nad</Token>
+      <Token Lemma="voda" POS="NNFS7" Stem="vod">vodou</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž v plavkách v barvě kaštanů se houpe na laně na jezeře.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="plavky" POS="NNFP6" Stem="plavk">plavkách</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="barva" POS="NNFS6" Stem="barv">barvě</Token>
+      <Token Lemma="kaštan" POS="NNIP2" Stem="kaštan">kaštanů</Token>
+      <Token Lemma="se" POS="P7" Stem="se">se</Token>
+      <Token Lemma="houpe" POS="VB" Stem="houp">houpe</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="laně" POS="NNFS4" Stem="lan">laně</Token>
+      <Token Lemma="na" POS="RR" Stem="na">na</Token>
+      <Token Lemma="jezero" POS="NNNS6" Stem="jezeř">jezeře</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="748">
+    <Sentence>
+      <Text>Žena v velkých slunečních brýlých drží noviny v obou rukách.</Text>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">Žena</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="velký" POS="AANP6" Stem="velk">velkých</Token>
+      <Token Lemma="sluneční" POS="AAMP2" Stem="slunečn">slunečních</Token>
+      <Token Lemma="brýlých" POS="NNMS1" Stem="brýl">brýlých</Token>
+      <Token Lemma="držet" POS="VB" Stem="drž">drží</Token>
+      <Token Lemma="noviny" POS="NNFP4" Stem="novin">noviny</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="oba" POS="ClXP6" Stem="obo">obou</Token>
+      <Token Lemma="ruka" POS="NNFP6" Stem="ruk">rukách</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Tlustá žena v slabém modrém topu fouká mýdlovou bublinu.</Text>
+      <Token Lemma="Tlustá" POS="AAFS1" Stem="tlust">Tlustá</Token>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">žena</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="slabý" POS="AAIS6" Stem="sla">slabém</Token>
+      <Token Lemma="modrý" POS="AAIS6" Stem="mod">modrém</Token>
+      <Token Lemma="topu" POS="NNMS1" Stem="top">topu</Token>
+      <Token Lemma="foukat" POS="VB" Stem="fouk">fouká</Token>
+      <Token Lemma="mýdlovou" POS="Vf" Stem="mýdl">mýdlovou</Token>
+      <Token Lemma="bublina" POS="NNFS4" Stem="bubl">bublinu</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="749">
+    <Sentence>
+      <Text>Jelen skáče plot.</Text>
+      <Token Lemma="jelen" POS="NNMS1" Stem="jelen">Jelen</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="plot" POS="NNIS4" Stem="plot">plot</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Jelen skáče přes plot.</Text>
+      <Token Lemma="jelen" POS="NNMS1" Stem="jelen">Jelen</Token>
+      <Token Lemma="skákat" POS="VB" Stem="skák">skáče</Token>
+      <Token Lemma="přes" POS="RR" Stem="přes">přes</Token>
+      <Token Lemma="plot" POS="NNIS4" Stem="plot">plot</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+  <Pair ID="750">
+    <Sentence>
+      <Text>Mladá dívka oblečená v Minnie Mouse oblečení a starší žena jdou po chodníku.</Text>
+      <Token Lemma="mladý" POS="AAFS1" Stem="mlad">Mladá</Token>
+      <Token Lemma="dívka" POS="NNFS1" Stem="dívk">dívka</Token>
+      <Token Lemma="oblečený" POS="AAFS1" Stem="oblečen">oblečená</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="Minnie" POS="NNFS4" Stem="minni">Minnie</Token>
+      <Token Lemma="Mouse" POS="NNMS2" Stem="mous">Mouse</Token>
+      <Token Lemma="oblečení" POS="NNNS2" Stem="oblečen">oblečení</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="starý" POS="AAFS1" Stem="starš">starší</Token>
+      <Token Lemma="žena" POS="NNFS1" Stem="žen">žena</Token>
+      <Token Lemma="jít" POS="VB" Stem="jdo">jdou</Token>
+      <Token Lemma="po" POS="RR" Stem="po">po</Token>
+      <Token Lemma="chodník" POS="NNIS6" Stem="chodník">chodníku</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+    <Sentence>
+      <Text>Muž v bílém obleku a s novinami kráčící ulicemi.</Text>
+      <Token Lemma="muž" POS="NNMS1" Stem="muž">Muž</Token>
+      <Token Lemma="v" POS="RR" Stem="v">v</Token>
+      <Token Lemma="bílý" POS="AAIS6" Stem="bí">bílém</Token>
+      <Token Lemma="oblek" POS="NNIS6" Stem="oblek">obleku</Token>
+      <Token Lemma="a" POS="J" Stem="a">a</Token>
+      <Token Lemma="s" POS="RR" Stem="s">s</Token>
+      <Token Lemma="noviny" POS="NNFP7" Stem="novin">novinami</Token>
+      <Token Lemma="kráčící" POS="Vf" Stem="kráčíc">kráčící</Token>
+      <Token Lemma="ulice" POS="NNFP7" Stem="ulik">ulicemi</Token>
+      <Token Lemma="." POS="Z" Stem=".">.</Token>
+    </Sentence>
+  </Pair>
+ </Sentences>
